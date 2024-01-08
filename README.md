@@ -30,5 +30,4 @@
 
 # Discussion Forum
 
-To share your ideas, ask questions, or interact with other Pedro enthusiasts, please visit our dedicated discussion forum by following this link:
-[![Discussion](img/discussion.png)](https://github.com/almtzr/Pedro/discussions)
+[![Discussion](img/community.png)](https://github.com/almtzr/Pedro/discussions/1#discussion-6043967)
