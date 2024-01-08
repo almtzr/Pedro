@@ -34,5 +34,5 @@
 
 ## Update history
 
-- janurary 8th 2024 - Pedro github repositry creation
+- janurary 8th 2024 - Pedro github repository creation
 
