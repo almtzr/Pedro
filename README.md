@@ -6,7 +6,12 @@
 
 ## Board
 
-The Pedro board is based on a microcontroller ATmega32u4 for C++ programming. Powered by 7.4v (3.7v for remote board) 9800mAh rechargeable battery, providing a battery life up to 2.5 hours.
+Based on a microcontroller ATmega32u4 for C++ programming the Pedro board is powered by 7.4v (3.7v for remote board) 9800mAh rechargeable battery, providing a battery life up to 2.5 hours.
+The micro USB port is designed for :
+
+- charging the battery
+- uploading code
+- enabling serial communication
 
 <div align="left">
     <img src="img/board.png" width="80%">
@@ -17,12 +22,6 @@ The Pedro board is based on a microcontroller ATmega32u4 for C++ programming. Po
 <div align="left">
     <img src="img/features.png" width="80%">
 </div>
-
-The micro USB port is designed for :
-
-- charging the battery
-- uploading code
-- enabling serial communication
 
 ## Easy to build
 
