@@ -13,7 +13,7 @@
 ## Features
 
 <div align="left">
-    <img src="img/features.png" width="00%">
+    <img src="img/features.png" width="80%">
 </div>
 
 ## Easy to build
