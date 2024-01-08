@@ -31,3 +31,8 @@
 ## Discussion Forum
 
 [![Discussion](img/community.png)](https://github.com/almtzr/Pedro/discussions/1#discussion-6043967)
+
+## Update history
+
+- janurary 8th 2024 - Pedro github repositry creation
+
