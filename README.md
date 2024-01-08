@@ -1,33 +1,33 @@
-# New Pedro 2.0
+## New Pedro 2.0 (Project under development..)
 
 <div align="left">
     <img src="img/pedro.png" width="60%">
 </div>
 
-# Board
+## Board
 
 <div align="left">
     <img src="img/board.png" width="60%">
 </div>
 
-# Features
+## Features
 
 <div align="left">
     <img src="img/features.png" width="60%">
 </div>
 
-# Easy to build
+## Easy to build
 
 <div align="left">
     <img src="img/build.gif" width="60%">
 </div>
 
-# Learning STEAM with Pedro
+## Learning STEAM with Pedro
 <br>
 <div align="left">
     <img src="img/overview.png" width="60%">
 </div>
 
-# Discussion Forum
+## Discussion Forum
 
 [![Discussion](img/community.png)](https://github.com/almtzr/Pedro/discussions/1#discussion-6043967)
