@@ -14,13 +14,13 @@ The micro USB port is designed for :
 - enabling serial communication
 
 <div align="left">
-    <img src="img/board.png" width="80%">
+    <img src="img/board.png" width="100%">
 </div>
 
 ## Features
 
 <div align="left">
-    <img src="img/features.png" width="80%">
+    <img src="img/features.png" width="100%">
 </div>
 
 ## Easy to build
@@ -34,7 +34,7 @@ The innovative design of the Pedro robot relies on the possibility of 3D printin
 ## Learning STEAM with Pedro
 <br>
 <div align="left">
-    <img src="img/overview.png" width="80%">
+    <img src="img/overview.png" width="100%">
 </div>
 
 ## Discussion Forum
