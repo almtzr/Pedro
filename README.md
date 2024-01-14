@@ -1,7 +1,7 @@
 ## New Pedro 2.0 (Project under development..)
 
-<div align="left">
-    <img src="img/pedro.png" width="80%">
+<div align="center">
+    <img src="img/pedro_2.0.png" width="50%">
 </div>
 
 ## Board
