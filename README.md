@@ -53,13 +53,13 @@ The micro USB port is designed for :
 - uploading code
 - enabling serial communication
 
-<div align="left">
-    <img src="img/board.png" width="100%">
+<div align="center">
+    <img src="img/board.png" width="80%">
 </div>
 
 ## Learning STEAM with Pedro
 <br>
-<div align="left">
-    <img src="img/overview.png" width="100%">
+<div align="center">
+    <img src="img/overview.png" width="80%">
 </div>
 
