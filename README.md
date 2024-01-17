@@ -1,4 +1,6 @@
-## (Project under development..)
+<div align="center">
+    <p><b>Project under development..</b></p>
+</div>
 
 <div align="center">
     <img src="img/pedro_2.0.png" width="50%">
