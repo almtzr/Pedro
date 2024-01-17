@@ -1,7 +1,7 @@
 ## (Project under development..)
 
 <div align="center">
-    <img src="img/pedro_2.0.png" width="100%">
+    <img src="img/pedro_2.0.png" width="50%">
 </div>
 
 ## Board
