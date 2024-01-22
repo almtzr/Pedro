@@ -126,7 +126,7 @@ Unleash your creativity by developing unique programs that showcase Pedro's vers
 The programming possibilities are endless, providing an opportunity for both beginners and advanced users to push the boundaries of what Robot Pedro can achieve. Enjoy the process of learning, experimenting, and refining your programming skills with this remarkable STEAM education tool.
 
 <div align="center">
-    <img src="img/overview.png" width="60%">
+    <img src="img/overview.png" width="100%">
 </div>
 
 ## Join the Community
