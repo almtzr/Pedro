@@ -94,7 +94,9 @@ Click on button D2 to activate the remote mode. In this mode, use the remote boa
 
 Ensure both modes operate smoothly, confirming that Pedro responds appropriately to manual and remote control inputs. This step ensures that your fully assembled robotic arm is ready to showcase its flexibility and functionality in different control scenarios.
 
-**Step 6: Explore the Incredible Possibilities**
+Congratulations! You've successfully built Robot Pedro, the companion in your STEAM education journey. Enjoy exploring, experimenting, and learning with Robot Pedro!
+
+**Explore the Incredible Possibilities**
 
 Now that the basics are in place, dive deeper into programming Robot Pedro. Utilize the Arduino IDE to unlock the incredible potential of this robotic arm. Create custom movements, experiment with sequential actions, and explore the vast range of possibilities offered by the electronic board.
 
@@ -102,13 +104,9 @@ Unleash your creativity by developing unique programs that showcase Pedro's vers
 
 The programming possibilities are endless, providing an opportunity for both beginners and advanced users to push the boundaries of what Robot Pedro can achieve. Enjoy the process of learning, experimenting, and refining your programming skills with this remarkable STEAM education tool.
 
-**Step 7: Join the Community**
+**Join the Community**
 
-Connect with the Robot Pedro community on Thingiverse and other online platforms. Share your experiences, ask questions, and contribute your insights to the collaborative spirit of learning and improvement.
-
-Congratulations! You've successfully built and calibrated Robot Pedro. This versatile robotic arm, now equipped with SG90 servo motors, is ready to be a companion in your STEAM education journey. Enjoy exploring, experimenting, and learning with Robot Pedro!
-
-
+Connect with the Robot Pedro community. Share your experiences, ask questions, and contribute your insights to the collaborative spirit of learning and improvement.
 
 [![Discussion](img/community.png)](https://github.com/almtzr/Pedro/discussions/1#discussion-6043967)
 
