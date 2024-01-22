@@ -125,16 +125,13 @@ Unleash your creativity by developing unique programs that showcase Pedro's vers
 
 The programming possibilities are endless, providing an opportunity for both beginners and advanced users to push the boundaries of what Robot Pedro can achieve. Enjoy the process of learning, experimenting, and refining your programming skills with this remarkable STEAM education tool.
 
+<div align="center">
+    <img src="img/overview.png" width="60%">
+</div>
+
 ## Join the Community
 
 Connect with the Robot Pedro community. Share your experiences, ask questions, and contribute your insights to the collaborative spirit of learning and improvement.
 
 [![Discussion](img/community.png)](https://github.com/almtzr/Pedro/discussions/1#discussion-6043967)
-
-
-## Learning STEAM with Pedro
-<br>
-<div align="center">
-    <img src="img/overview.png" width="60%">
-</div>
 
