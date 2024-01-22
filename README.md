@@ -52,11 +52,10 @@ The micro USB port is designed for :
     <img src="img/board.png" width="60%">
 </div>
 
-## How to Get Started:
+## Building Robot Pedro: A Step-by-Step Guide
 
-**Building Robot Pedro: A Step-by-Step Guide**
-
-Welcome to the exciting journey of building Robot Pedro, your open-source robotic arm designed for STEAM education. This guide will walk you through the assembly and calibration process, ensuring seamless integration with the Arduino IDE for programming.
+Welcome to the exciting journey of building Robot Pedro, your open-source robotic arm designed for STEAM education. <br>
+This guide will walk you through the assembly and calibration process, ensuring seamless integration with the Arduino IDE for programming.
 
 **Step 1: Gather Your Materials**
 
@@ -75,27 +74,29 @@ No external tools are needed for the next steps
 
 **Step 2: Program Pedro's Boards**
 
-- Connect and Program Pedro's Electronic Board:
-Use the USB cable to connect Pedro to the Arduino IDE. Ensure the correct port and board settings are selected. Upload the "pedroBoard.ino" sketch to program the electronic board. Disconnect Pedro once the upload is successful.
-
-- Connect and Program Pedro's Remote Board:
-Use the USB cable to connect the remote board to the Arduino IDE. Ensure the correct port and board settings are selected. Upload the "remoteBoard.ino" sketch to program the remote board. Disconnect the remote board once the upload is successful. Both boards are now ready for the next steps in building Robot Pedro.
+- Use the USB cable to connect Pedro to the Arduino IDE. 
+- Ensure the correct port and board settings are selected.
+- Upload the "pedroBoard.ino" sketch to program the electronic board.
+- Disconnect Pedro once the upload is successful.
+- Do the same step with the skecth "remoteBoard.ino" sketch to program the remote board.
+  
+Both boards are now ready for the next steps in building Robot Pedro.
 
 **Step 3: Calibrate Servo Motors**
 
-Before you begin assembly, ensure Pedro is powered off. Connect each of the four SG90 servo motors to the designated PWM pins (D5, D6, D9, D10) on the Pedro board. Ensure that the 8.4V battery is connected to the Pedro board for power.
+- Before you begin assembly, ensure Pedro is powered off. 
+- Connect each of the four SG90 servo motors to the designated PWM pins (D5, D6, D9, D10) on the Pedro board.
+- Ensure that the 8.4V battery is connected to the Pedro board for power.
+- Press buttons D2 and D3 simultaneously and power on Pedro, to activate the calibration mode.
+- The LED D11 will start blinking and each servo motor will smoothly rotate to its predefined initial position.
+- At the end of calibration the LED D11 turning off.
 
-To activate the calibration mode, press buttons D2 and D3 simultaneously and power on Pedro.
-
-The LED D11 will start blinking slowly for the next 10 seconds, during which each servo motor will smoothly rotate to its predefined initial position.
-
-Observe the gradual movement of each servo motor as they align to their starting positions. This calibration process ensures synchronization, preparing the robotic arm for precise movements during programming and operation.
-
-Upon completion of the 10-second calibration period, signaled by the LED D11 turning off, the servo motors are ready for assembling each part of Pedro. This ensures a well-coordinated and accurately calibrated foundation for the subsequent steps in building your robotic companion.
+The servo motors are ready for assembling each part of Pedro.
 
 **Step 4: Assemble the Physical Structure**
 
-With the calibration complete, proceed to assemble the physical structure of Robot Pedro. Ensure each part fits securely, leveraging the calibrated servo motors for a stable and well-aligned robotic arm.
+With the calibration complete, proceed to assemble the physical structure of Robot Pedro. 
+Ensure each part fits securely, leveraging the calibrated servo motors for a stable and well-aligned robotic arm.
 
 <div align="center">
     <img src="img/build.gif" width="60%">
