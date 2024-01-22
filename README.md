@@ -1,3 +1,5 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <div align="center">
     <p><b>Project under development..</b></p>
 </div>
