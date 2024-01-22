@@ -25,7 +25,8 @@
     <img src="img/pedro_2.0.png" width="50%">
 </div>
 <br>
-Robot Pedro 2.0 is an exciting open-source robotic arm designed specifically for fostering learning in the fields of Science, Technology, Engineering, Arts, and Mathematics (STEAM). With its user-friendly design and availability of STL files on Thingiverse (available soon..), Robot Pedro opens up a world of educational possibilities, making robotics accessible to enthusiasts, students, and educators alike.
+Robot Pedro 2.0 is an exciting open-source robotic arm designed specifically for fostering learning in the fields of Science, Technology, Engineering, Arts, and Mathematics (STEAM). 
+With its user-friendly design, robot Pedro opens up a world of educational possibilities, making robotics accessible to enthusiasts, students, and educators alike.
 
 ## Key Features:
 
