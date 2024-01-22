@@ -1,15 +1,28 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/almoutazar-saandi
-[product-screenshot]: images/screenshot.png
+
+[contributors-shield]: https://img.shields.io/github/contributors/almtzr/Pedro.svg?style=for-the-badge
+[contributors-url]: https://github.com/almtzr/Pedro/graphs/contributors
+
+[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+
+[stars-shield]: https://img.shields.io/github/stars/almtzr/Pedro.svg?style=for-the-badge
+[stars-url]: https://github.com/almtzr/Pedro/stargazers
+
+[license-shield]: https://img.shields.io/github/license/almtzr/Pedro.svg?style=for-the-badge
+[license-url]: https://github.com/almtzr/Pedro/blob/main/LICENSE
+
+<br>
 
 <div align="center">
-    <p><b>Project under development..</b></p>
-</div>
-
-<div align="center">
-    <img src="img/pedro_2.0.png" width="60%">
+    <img src="img/pedro_2.0.png" width="50%">
 </div>
 <br>
 Robot Pedro 2.0 is an exciting open-source robotic arm designed specifically for fostering learning in the fields of Science, Technology, Engineering, Arts, and Mathematics (STEAM). With its user-friendly design and availability of STL files on Thingiverse (available soon..), Robot Pedro opens up a world of educational possibilities, making robotics accessible to enthusiasts, students, and educators alike.
@@ -31,12 +44,12 @@ Robot Pedro 2.0 is an exciting open-source robotic arm designed specifically for
 Based on a microcontroller ATmega32u4 for C++ programming the Pedro board is powered by 7.4v (3.7v for remote board) 9800mAh rechargeable battery, providing a battery life up to 2.5 hours.
 The micro USB port is designed for :
 
-- charging the battery
-- uploading code
-- enabling serial communication
+- charge the battery
+- upload code
+- enable serial communication
 
 <div align="center">
-    <img src="img/board.png" width="100%">
+    <img src="img/board.png" width="60%">
 </div>
 
 ## How to Get Started:
@@ -85,7 +98,7 @@ Upon completion of the 10-second calibration period, signaled by the LED D11 tur
 With the calibration complete, proceed to assemble the physical structure of Robot Pedro. Ensure each part fits securely, leveraging the calibrated servo motors for a stable and well-aligned robotic arm.
 
 <div align="center">
-    <img src="img/build.gif" width="80%">
+    <img src="img/build.gif" width="60%">
 </div>
 
 **Step 5: Verify Control Modes After Assembly**
@@ -102,7 +115,7 @@ Ensure both modes operate smoothly, confirming that Pedro responds appropriately
 
 Congratulations! You've successfully built Robot Pedro, the companion in your STEAM education journey. Enjoy exploring, experimenting, and learning with Robot Pedro!
 
-**Explore the Incredible Possibilities**
+## Explore the Incredible Possibilities
 
 Now that the basics are in place, dive deeper into programming Robot Pedro. Utilize the Arduino IDE to unlock the incredible potential of this robotic arm. Create custom movements, experiment with sequential actions, and explore the vast range of possibilities offered by the electronic board.
 
@@ -110,7 +123,7 @@ Unleash your creativity by developing unique programs that showcase Pedro's vers
 
 The programming possibilities are endless, providing an opportunity for both beginners and advanced users to push the boundaries of what Robot Pedro can achieve. Enjoy the process of learning, experimenting, and refining your programming skills with this remarkable STEAM education tool.
 
-**Join the Community**
+## Join the Community
 
 Connect with the Robot Pedro community. Share your experiences, ask questions, and contribute your insights to the collaborative spirit of learning and improvement.
 
@@ -120,6 +133,6 @@ Connect with the Robot Pedro community. Share your experiences, ask questions, a
 ## Learning STEAM with Pedro
 <br>
 <div align="center">
-    <img src="img/overview.png" width="80%">
+    <img src="img/overview.png" width="60%">
 </div>
 
