@@ -10,8 +10,8 @@
 [contributors-shield]: https://img.shields.io/github/contributors/almtzr/Pedro.svg?style=for-the-badge
 [contributors-url]: https://github.com/almtzr/Pedro/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-shield]: https://img.shields.io/github/forks/almtzr/Pedro.svg?style=for-the-badge
+[forks-url]: https://github.com/almtzr/Pedro/network/members
 
 [stars-shield]: https://img.shields.io/github/stars/almtzr/Pedro.svg?style=for-the-badge
 [stars-url]: https://github.com/almtzr/Pedro/stargazers
