@@ -34,15 +34,10 @@ With its user-friendly design, robot Pedro opens up a world of educational possi
 
 **Educational Focus:** Pedro is not just a robotic arm; it's a powerful tool for STEAM education. Whether you're a student curious about robotics or an educator looking for an engaging teaching tool, Pedro provides hands-on learning experiences in a variety of disciplines. From programming and electronics to mechanics and design, Pedro covers it all.
 
-**Accessible Materials:** The STL files for Robot Pedro's parts are easily accessible on Thingiverse, ensuring that anyone with a 3D printer can bring this robotic arm to life. This accessibility fosters a culture of learning and experimentation, enabling users to assemble, modify, and enhance their robotic arm with ease. Four servomotors SG90 are needed to assemble Pedro.
-
-**Versatility in Applications:** Robot Pedro is versatile, allowing users to explore a range of applications. Whether it's learning about automation, honing programming skills, or diving into the intricacies of mechanical engineering, Pedro's adaptability makes it an ideal platform for hands-on STEAM projects.
-
-**Community Collaboration:** Join the Robot Pedro community on platforms like Thingiverse and other online forums to share your experiences, ideas, and modifications. Collaborate with fellow enthusiasts and educators to contribute to the continuous improvement and evolution of Pedro.
-
 ## Board
 
-Based on a microcontroller ATmega32u4 for C++ programming the Pedro board is powered by 7.4v (3.7v for remote board) 9800mAh rechargeable battery, providing a battery life up to 2.5 hours.
+Based on a microcontroller ATmega32u4 for C++ programming Pedro is powered by 8.4v (4.2v for remote board) rechargeable battery, providing a battery life up to 2.5 hours. 
+Robot Pedro now integrates 2.4GHz wireless control through the NRF24L01 chip for an extended range, low latency, and secure communication. 
 The micro USB port is designed for :
 
 - charge the battery
