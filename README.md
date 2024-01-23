@@ -50,7 +50,7 @@ The micro USB port is designed for :
 - enable serial communication
 
 <div align="center">
-    <img src="img/board.png" width="60%">
+    <img src="img/board.png" width="80%">
 </div>
 
 ## Building Robot Pedro: A Step-by-Step Guide
