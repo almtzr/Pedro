@@ -30,7 +30,7 @@ With its user-friendly design, robot Pedro opens up a world of educational possi
 
 ## Key Features:
 
-**Open Source Design:** Robot Pedro is built on the principles of open-source innovation. All the STL files for its parts are readily available on Thingiverse, encouraging collaboration, modification, and improvement within the community. This open approach empowers users to customize and enhance Pedro according to their unique educational needs.
+**Open Source Design:** Robot Pedro is built on the principles of open-source innovation. All the STL files for its parts are designed to encourage collaboration, modification, and improvement within the community. This open approach empowers users to customize and enhance Pedro according to their unique educational needs.
 
 **Educational Focus:** Pedro is not just a robotic arm; it's a powerful tool for STEAM education. Whether you're a student curious about robotics or an educator looking for an engaging teaching tool, Pedro provides hands-on learning experiences in a variety of disciplines. From programming and electronics to mechanics and design, Pedro covers it all.
 
