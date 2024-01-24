@@ -34,6 +34,11 @@ With its user-friendly design, robot Pedro opens up a world of educational possi
 
 **Educational Focus:** Pedro is not just a robotic arm; it's a powerful tool for STEAM education. Whether you're a student curious about robotics or an educator looking for an engaging teaching tool, Pedro provides hands-on learning experiences in a variety of disciplines. From programming and electronics to mechanics and design, Pedro covers it all.
 
+<br>
+<div align="center">
+    <img src="img/pedroParts.png" width="50%">
+</div>
+
 ## Board
 
 Based on a microcontroller ATmega32u4 for C++ programming Pedro is powered by 8.4v (4.2v for remote board) rechargeable battery, providing a battery life up to 2.5 hours. 
