@@ -36,7 +36,7 @@ With its user-friendly design, robot Pedro opens up a world of educational possi
 
 <br>
 <div align="center">
-    <img src="img/pedroParts.png" width="50%">
+    <img src="img/pedro_frame.gif" width="100%">
 </div>
 
 ## Board
