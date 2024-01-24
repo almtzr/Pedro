@@ -100,7 +100,7 @@ With the calibration complete, proceed to assemble the physical structure of Rob
 Ensure each part fits securely, leveraging the calibrated servo motors for a stable and well-aligned robotic arm.
 
 <div align="center">
-    <img src="img/build.gif" width="60%">
+    <img src="img/build.gif" width="80%">
 </div>
 
 **Step 5: Verify Control Modes After Assembly**
