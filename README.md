@@ -39,20 +39,6 @@ With its user-friendly design, robot Pedro opens up a world of educational possi
     <img src="img/pedro_frame.gif" width="100%">
 </div>
 
-## Board
-
-Based on a microcontroller ATmega32u4 for C++ programming Pedro is powered by 8.4v (4.2v for remote board) rechargeable battery, providing a battery life up to 2.5 hours. 
-Robot Pedro now integrates 2.4GHz wireless control through the NRF24L01 chip for an extended range, low latency, and secure communication. 
-The micro USB port is designed for :
-
-- charge the battery
-- upload code
-- enable serial communication
-
-<div align="center">
-    <img src="img/board.png" width="80%">
-</div>
-
 ## Building Robot Pedro: A Step-by-Step Guide
 
 Welcome to the exciting journey of building Robot Pedro, your open-source robotic arm designed for STEAM education. <br>
@@ -116,6 +102,20 @@ Click on button D2 to activate the remote mode. In this mode, use the remote boa
 Ensure both modes operate smoothly, confirming that Pedro responds appropriately to manual and remote control inputs. This step ensures that your fully assembled robotic arm is ready to showcase its flexibility and functionality in different control scenarios.
 
 Congratulations! You've successfully built Robot Pedro, the companion in your STEAM education journey. Enjoy exploring, experimenting, and learning with Robot Pedro!
+
+## Board
+
+Based on a microcontroller ATmega32u4 for C++ programming Pedro is powered by 8.4v (4.2v for remote board) rechargeable battery, providing a battery life up to 2.5 hours. 
+Robot Pedro now integrates 2.4GHz wireless control through the NRF24L01 chip for an extended range, low latency, and secure communication. 
+The micro USB port is designed for :
+
+- charge the battery
+- upload code
+- enable serial communication
+
+<div align="center">
+    <img src="img/board.png" width="80%">
+</div>
 
 ## Explore the Incredible Possibilities
 
