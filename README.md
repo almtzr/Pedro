@@ -80,7 +80,7 @@ Both boards are now ready for the next steps in building Robot Pedro.
 
 The servo motors are ready for assembling each part of Pedro.
 
-**Step 4: Assemble the Physical Structure**
+**Step 4: Assemble The Physical Structure**
 
 With the calibration complete, proceed to assemble the physical structure of Robot Pedro. 
 Ensure each part fits securely, leveraging the calibrated servo motors for a stable and well-aligned robotic arm.
