@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-    <img src="img/pedro_2.0.png" width="50%">
+    <img src="img/pedro_2.0.png" width="100%">
 </div>
 <br>
 Robot Pedro 2.0 is an exciting open-source robotic arm designed specifically for fostering learning in the fields of Science, Technology, Engineering, Arts, and Mathematics (STEAM). 
