@@ -136,6 +136,14 @@ This project is licensed under the Apache-2.0 License. See the `LICENSE` file fo
 ## Contact
 For any questions, issues, or suggestions, feel free to open an issue or contact us.
 
+## Explore the Incredible Possibilities
+
+The programming possibilities are endless, providing an opportunity for both beginners and advanced users to push the boundaries of what Robot Pedro can achieve. Enjoy the process of learning, experimenting, and refining your programming skills with this remarkable STEAM education tool.
+
+<div align="center">
+    <img src="img/overview.png" width="100%">
+</div>
+
 ---
 
 Thank you for your interest in Pedro! We can't wait to see what you create with it. Happy building and coding!
