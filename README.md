@@ -1,21 +1,22 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
+[![Apache-2.0 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [linkedin-url]: https://linkedin.com/in/almoutazar-saandi
 
-[contributors-shield]: https://img.shields.io/github/contributors/almtzr/Pedro.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/almtzr/Pedro.svg?style=for-the-badge&colorB=red
 [contributors-url]: https://github.com/almtzr/Pedro/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/almtzr/Pedro.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/almtzr/Pedro.svg?style=for-the-badge&colorB=yellow
 [forks-url]: https://github.com/almtzr/Pedro/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/almtzr/Pedro.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/almtzr/Pedro.svg?style=for-the-badge&colorB=orange
 [stars-url]: https://github.com/almtzr/Pedro/stargazers
 
-[license-shield]: https://img.shields.io/github/license/almtzr/Pedro.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/almtzr/Pedro.svg?style=for-the-badge&colorB=286
 [license-url]: https://github.com/almtzr/Pedro/blob/main/LICENSE
 
 <br>
