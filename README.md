@@ -21,117 +21,121 @@
 
 <br>
 
-<div align="center">
-    <img src="img/pedro_2.0.png" width="100%">
-</div>
-<br>
-Robot Pedro 2.0 is an exciting open-source robotic arm designed specifically for fostering learning in the fields of Science, Technology, Engineering, Arts, and Mathematics (STEAM). 
-With its user-friendly design, robot Pedro opens up a world of educational possibilities, making robotics accessible to enthusiasts, students, and educators alike.
+# Pedro - The 3D Printed Mini Robot
 
-## Key Features:
+## Overview
 
-**Open Source Design:** Robot Pedro is built on the principles of open-source innovation. All the STL files for its parts are designed to encourage collaboration, modification, and improvement within the community. This open approach empowers users to customize and enhance Pedro according to their unique educational needs.
+Pedro is a mini robot designed to be entirely 3D printed and assembled without any tools. Equipped with four mini servo motors and powered by a custom-made Arduino-compatible board, Pedro can be controlled remotely using an nRF24L01 module. This versatile and educational robot is perfect for hobbyists, students, and makers looking to explore robotics, electronics, and programming.
 
-**Educational Focus:** Pedro is not just a robotic arm; it's a powerful tool for STEAM education. Whether you're a student curious about robotics or an educator looking for an engaging teaching tool, Pedro provides hands-on learning experiences in a variety of disciplines. From programming and electronics to mechanics and design, Pedro covers it all.
+## Table of Contents
+1. [Project Description](#project-description)
+2. [Features](#features)
+3. [Required Materials](#required-materials)
+4. [Assembly Instructions](#assembly-instructions)
+5. [Programming Pedro](#programming-pedro)
+6. [Remote Control Setup](#remote-control-setup)
+7. [Powering Pedro](#powering-pedro)
+8. [Contributing](#contributing)
+9. [License](#license)
+10. [Contact](#contact)
 
-<br>
-<div align="center">
-    <img src="img/pedro_frame.gif" width="100%">
-</div>
+## Project Description
 
-## Building Robot Pedro: A Step-by-Step Guide
+Pedro is a compact, DIY robot that you can build and program yourself. All parts of Pedro are designed to be 3D printed, and the robot can be assembled without any additional tools. The custom Arduino-compatible board, along with the nRF24L01 module, allows for wireless control, making Pedro a flexible and interactive project.
 
-Welcome to the exciting journey of building Robot Pedro, your open-source robotic arm designed for STEAM education. <br>
-This guide will walk you through the assembly and calibration process, ensuring seamless integration with the Arduino IDE for programming.
+< **image** >
 
-**Step 1: Gather Your Materials**
+### Key Components:
+- **4 Mini Servo Motors**: For precise movements.
+- **Custom Arduino-Compatible Board**: Designed specifically for this project, offering easy integration with the robot's components.
+- **nRF24L01 Module**: For wireless communication.
+- **2 Rechargeable 18650 Batteries**: Powering the robot, rechargeable via USB.
 
-Ensure you have all the necessary materials:
+## Features
+- **Fully 3D Printable**: All structural components can be printed on a standard 3D printer.
+- **Tool-Free Assembly**: Designed to snap together easily.
+- **Wireless Control**: Control Pedro remotely using the nRF24L01 module.
+- **Rechargeable**: Powered by two 18650 batteries, rechargeable via USB.
+- **Open Source**: All design files, schematics, and code are freely available.
 
-- 3D printed parts (downloaded from Thingiverse)
-- 4 SG90 servo motors
-- Electronic board (for Pedro)
-- Remote board
-- Arduino IDE installed on your computer
-- USB cable for programming
-- 8.4V battery (for Pedro board)
-- 4.2V battery (for remote board)
+## Required Materials
+- 3D Printed Parts (STL files available in the repository)
+- 4 Mini Servo Motors
+- Custom Arduino-compatible Board
+- nRF24L01 Wireless Module
+- 2 x 18650 Rechargeable Batteries
+- USB Cable for Charging
+- Miscellaneous: Wires, connectors
 
-No external tools are needed for the next steps
+## Assembly Instructions
 
-**Step 2: Program Pedro's Boards**
+### Step 1: 3D Printing the Parts
+Print all required parts using the STL files provided in the `3D-Printed-Parts` folder. Ensure that your printer settings are optimized for the best quality.
 
-- Use the USB cable to connect Pedro to the Arduino IDE. 
-- Ensure the correct port and board settings are selected.
-- Upload the "pedroBoard.ino" sketch to program the electronic board.
-- Disconnect Pedro once the upload is successful.
-- Do the same step with the skecth "remoteBoard.ino" sketch to program the remote board.
-  
-Both boards are now ready for the next steps in building Robot Pedro.
+< **image** >
 
-**Step 3: Calibrate Servo Motors**
+### Step 2: Installing the Servo Motors
+Attach the four mini servo motors to the designated slots in the printed parts. Ensure they are securely in place.
 
-- Before you begin assembly, ensure Pedro is powered off. 
-- Connect each of the four SG90 servo motors to the designated PWM pins (D5, D6, D9, D10) on the Pedro board.
-- Ensure that the 8.4V battery is connected to the Pedro board for power.
-- Press buttons D2 and D3 simultaneously and power on Pedro, to activate the calibration mode.
-- The LED D11 will start blinking and each servo motor will smoothly rotate to its predefined initial position.
-- At the end of calibration the LED D11 turning off.
+< **image** >
 
-The servo motors are ready for assembling each part of Pedro.
+### Step 3: Assembling the Body
+Snap the 3D printed parts together according to the assembly guide. The parts are designed to fit together without any tools.
 
-**Step 4: Assemble The Physical Structure**
+< **image** >
 
-With the calibration complete, proceed to assemble the physical structure of Robot Pedro. 
-Ensure each part fits securely, leveraging the calibrated servo motors for a stable and well-aligned robotic arm.
+### Step 4: Wiring
+Connect the servo motors to the custom Arduino-compatible board using the provided wiring diagram.
 
-<div align="center">
-    <img src="img/build.gif" width="80%">
-</div>
+< **image** >
 
-**Step 5: Verify Control Modes After Assembly**
+## Programming Pedro
+1. **Install the Arduino IDE**: If not already installed, download and install the [Arduino IDE](https://www.arduino.cc/en/software).
+2. **Download the Code**: Clone this repository or download the zip file and extract it.
+3. **Upload the Code**: Open the `.ino` file in the Arduino IDE and upload it to the custom Arduino-compatible board.
 
-Once Pedro is fully assembled, power it on. By default, the manual mode is enabled, indicated by the LED D8 being On.
+< **image** >
 
-- **Manual Mode (LED D8 On):**
-In this mode, control Pedro using the potentiometers on the Pedro board. Observe how the arm responds to adjustments made with the potentiometers, allowing for direct, hands-on control.
+## Remote Control Setup
+1. **Assemble the Remote**: Follow the instructions to assemble the second custom Arduino-compatible board with the nRF24L01 module.
+2. **Upload the Remote Code**: Use the provided code in the `Remote-Control` folder to set up the remote.
+3. **Pairing**: Ensure both Pedro and the remote are powered on and within range for successful pairing.
 
-- **Remote Mode (LED D7 On):**
-Click on button D2 to activate the remote mode. In this mode, use the remote board to control Pedro wirelessly. Observe the LED D7 to confirm that remote mode is active. Explore how the remote control interface interacts with Pedro's movements, providing a versatile and engaging remote-control experience.
+< **image** >
 
-Ensure both modes operate smoothly, confirming that Pedro responds appropriately to manual and remote control inputs. This step ensures that your fully assembled robotic arm is ready to showcase its flexibility and functionality in different control scenarios.
+## Powering Pedro
+Insert the two 18650 batteries into the battery slots. Connect Pedro to a USB power source using the provided cable to recharge the batteries as needed.
 
-Congratulations! You've successfully built Robot Pedro, the companion in your STEAM education journey. Enjoy exploring, experimenting, and learning with Robot Pedro!
+< **image** >
 
-## Board
+## Contributing
+We welcome contributions from the community! Here's how you can help:
 
-Based on a microcontroller ATmega32u4 for C++ programming Pedro is powered by 8.4v (4.2v for remote board) rechargeable battery, providing a battery life up to 2.5 hours. 
-Robot Pedro now integrates 2.4GHz wireless control through the NRF24L01 chip for an extended range, low latency, and secure communication. 
-The micro USB port is designed for :
+1. **Fork the Repository**: Click the "Fork" button at the top right of this page.
+2. **Clone Your Fork**: 
+   ```
+   git clone https://github.com/almtzr/Pedro.git
+   ```
+3. **Create a Branch**: 
+   ```
+   git checkout -b feature/your-feature-name
+   ```
+4. **Make Your Changes**: Add new features, fix bugs, or improve documentation.
+5. **Commit and Push**: 
+   ```
+   git commit -m "Add your message here"
+   git push origin feature/your-feature-name
+   ```
+6. **Submit a Pull Request**: Navigate to the original repository and submit a pull request.
 
-- charge the battery
-- upload code
-- enable serial communication
+For detailed contribution guidelines, please refer to the `CONTRIBUTING.md` file.
 
-<div align="center">
-    <img src="img/board.png" width="80%">
-</div>
+## License
+This project is licensed under the Apache-2.0 License. See the `LICENSE` file for more details.
 
-## Explore the Incredible Possibilities
+## Contact
+For any questions, issues, or suggestions, feel free to open an issue or contact us.
 
-Now that the basics are in place, dive deeper into programming Robot Pedro. Utilize the Arduino IDE to unlock the incredible potential of this robotic arm. Create custom movements, experiment with sequential actions, and explore the vast range of possibilities offered by the electronic board.
+---
 
-Unleash your creativity by developing unique programs that showcase Pedro's versatility and precision. Experiment with different motion sequences, speeds, and combinations to fully harness the capabilities of this incredible robotic arm.
-
-The programming possibilities are endless, providing an opportunity for both beginners and advanced users to push the boundaries of what Robot Pedro can achieve. Enjoy the process of learning, experimenting, and refining your programming skills with this remarkable STEAM education tool.
-
-<div align="center">
-    <img src="img/overview.png" width="100%">
-</div>
-
-## Join the Community
-
-Connect with the Robot Pedro community. Share your experiences, ask questions, and contribute your insights to the collaborative spirit of learning and improvement.
-
-[![Discussion](img/community.png)](https://github.com/almtzr/Pedro/discussions/1#discussion-6043967)
-
+Thank you for your interest in Pedro! We can't wait to see what you create with it. Happy building and coding!
