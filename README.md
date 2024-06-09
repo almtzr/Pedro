@@ -128,7 +128,7 @@ We welcome contributions from the community! Here's how you can help:
    ```
 6. **Submit a Pull Request**: Navigate to the original repository and submit a pull request.
 
-# Explore the Incredible Possibilities
+### Explore the Incredible Possibilities
 
 The programming possibilities are endless, providing an opportunity for both beginners and advanced users to push the boundaries of what Robot Pedro can achieve. Enjoy the process of learning, experimenting, and refining your programming skills with this remarkable STEAM education tool.
 
