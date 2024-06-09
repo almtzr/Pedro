@@ -128,18 +128,16 @@ We welcome contributions from the community! Here's how you can help:
    ```
 6. **Submit a Pull Request**: Navigate to the original repository and submit a pull request.
 
-For detailed contribution guidelines, please refer to the `CONTRIBUTING.md` file.
-
-## License
-This project is licensed under the Apache-2.0 License. See the `LICENSE` file for more details.
-
-## Explore the Incredible Possibilities
+# Explore the Incredible Possibilities
 
 The programming possibilities are endless, providing an opportunity for both beginners and advanced users to push the boundaries of what Robot Pedro can achieve. Enjoy the process of learning, experimenting, and refining your programming skills with this remarkable STEAM education tool.
 
 <div align="center">
     <img src="img/overview.png" width="100%">
 </div>
+
+## License
+This project is licensed under the Apache-2.0 License. See the `LICENSE` file for more details.
 
 ## Contact
 For any questions, issues, or suggestions, feel free to open an issue or contact us.
