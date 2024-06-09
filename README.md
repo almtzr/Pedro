@@ -133,9 +133,6 @@ For detailed contribution guidelines, please refer to the `CONTRIBUTING.md` file
 ## License
 This project is licensed under the Apache-2.0 License. See the `LICENSE` file for more details.
 
-## Contact
-For any questions, issues, or suggestions, feel free to open an issue or contact us.
-
 ## Explore the Incredible Possibilities
 
 The programming possibilities are endless, providing an opportunity for both beginners and advanced users to push the boundaries of what Robot Pedro can achieve. Enjoy the process of learning, experimenting, and refining your programming skills with this remarkable STEAM education tool.
@@ -143,6 +140,9 @@ The programming possibilities are endless, providing an opportunity for both beg
 <div align="center">
     <img src="img/overview.png" width="100%">
 </div>
+
+## Contact
+For any questions, issues, or suggestions, feel free to open an issue or contact us.
 
 ---
 
