@@ -72,7 +72,9 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 ### Step 1: 3D Printing the Parts
 Print all required parts using the STL files provided in the `3D-Printed-Parts` folder. Ensure that your printer settings are optimized for the best quality.
 
-< **image** >
+<div align="left">
+    <img src="img/3Dparts.png" width="80%">
+</div>
 
 ### Step 2: Installing the Servo Motors
 Attach the four mini servo motors to the designated slots in the printed parts. Ensure they are securely in place.
