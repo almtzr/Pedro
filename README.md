@@ -79,7 +79,9 @@ Print all required parts using the STL files provided in the `3D-Printed-Parts` 
 ### Step 2: Installing the Servo Motors
 Attach the four mini servo motors to the designated slots in the printed parts. Ensure they are securely in place.
 
-< **image** >
+<div align="left">
+    <img src="img/3D_parts_servo.png" width="90%">
+</div>
 
 ### Step 3: Assembling the Body
 Snap the 3D printed parts together according to the assembly guide. The parts are designed to fit together without any tools.
