@@ -83,7 +83,7 @@ To achieve superior precision and smooth movements, Pedro is equipped with three
     <img src="img/bearings.png" width="40%">
 </div>
 
-#### Installing the Bearings
+### Step 4: Installing the Bearings
 
 Place the ball bearings at the specified joints:
 
@@ -93,13 +93,13 @@ Place the ball bearings at the specified joints:
 
 <image>
     
-### Step 3: Assembling the Body
+### Step 5: Assembling the Body
     
 Snap the 3D printed parts together according to the assembly guide. The parts are designed to fit together without any tools.
 
 < **image** >
 
-### Step 4: Wiring
+### Step 6: Wiring
 Connect the servo motors to the custom Arduino-compatible board using the provided wiring diagram.
 
 < **image** >
