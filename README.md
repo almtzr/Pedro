@@ -92,14 +92,16 @@ Place the ball bearings at the specified joints:
 3. Insert the arm bearing at the arm joint.
 
 <div align="left">
-    <img src="img/install_bearings.png" width="60%">
+    <img src="img/install_bearings.png" width="40%">
 </div>
 
 ### Step 5: Assembling the Body
     
 Snap the 3D printed parts together according to the assembly guide. The parts are designed to fit together without any tools.
 
-< **image** >
+<div align="left">
+    <img src="img/install_parts.png" width="40%">
+</div>
 
 ### Step 6: Wiring
 Connect the servo motors to the custom Arduino-compatible board using the provided wiring diagram.
