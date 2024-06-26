@@ -100,7 +100,7 @@ Place the ball bearings at the specified joints:
 Snap the 3D printed parts together according to the assembly guide. The parts are designed to fit together without any tools.
 
 <div align="left">
-    <img src="img/install_parts.png" width="40%">
+    <img src="img/install_parts.png" width="70%">
 </div>
 
 ### Step 6: Wiring
