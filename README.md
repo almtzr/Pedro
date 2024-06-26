@@ -68,7 +68,7 @@ Print all required parts using the STL files provided in the `3D-Printed-Parts` 
 Attach the four mini servo motors to the designated slots in the printed parts. Ensure they are securely in place.
 
 <div align="left">
-    <img src="img/3D_parts_servo.png" width="70%">
+    <img src="img/3D_parts_servo.png" width="50%">
 </div>
 
 ### Step 3: Bearings Assembly
@@ -91,8 +91,10 @@ Place the ball bearings at the specified joints:
 2. Place the elbow bearing at the first articulation point.
 3. Insert the arm bearing at the arm joint.
 
-<image>
-    
+<div align="left">
+    <img src="img/install_bearings.png" width="40%">
+</div>
+
 ### Step 5: Assembling the Body
     
 Snap the 3D printed parts together according to the assembly guide. The parts are designed to fit together without any tools.
