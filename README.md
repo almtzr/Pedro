@@ -25,7 +25,7 @@
 
 ## Overview
 
-Pedro is a mini robot designed to be entirely 3D printed and assembled without any tools. Equipped with four mini servo motors and powered by a custom-made Arduino-compatible board, Pedro can be controlled remotely using an nRF24L01 module. This versatile and educational robot is perfect for hobbyists, students, and makers looking to explore robotics, electronics, and programming.
+Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and assembled without any tools. Equipped with four mini servo motors and powered by a custom-made Arduino-compatible board, Pedro can be controlled remotely using an nRF24L01 module It features three ball bearings for enhanced precision in its movements. These bearings are strategically placed to ensure smooth and accurate operations. This versatile and educational robot is perfect for hobbyists, students, and makers looking to explore robotics, electronics, and programming.
 
 ## Table of Contents
 1. [Project Description](#project-description)
@@ -45,45 +45,56 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 
 < **image** >
 
-### Key Components:
+### Components and Capabilities:
+
 - **4 Mini Servo Motors**: For precise movements.
 - **Custom Arduino-Compatible Board**: Designed specifically for this project, offering easy integration with the robot's components.
 - **nRF24L01 Module**: For wireless communication.
 - **2 Rechargeable 18650 Batteries**: Powering the robot, rechargeable via USB.
-
-## Features
 - **Fully 3D Printable**: All structural components can be printed on a standard 3D printer.
-- **Tool-Free Assembly**: Designed to snap together easily.
-- **Wireless Control**: Control Pedro remotely using the nRF24L01 module.
-- **Rechargeable**: Powered by two 18650 batteries, rechargeable via USB.
-- **Open Source**: All design files, schematics, and code are freely available.
-
-## Required Materials
-- 3D Printed Parts (STL files available in the repository)
-- 4 Mini Servo Motors
-- Custom Arduino-compatible Board
-- nRF24L01 Wireless Module
-- 2 x 18650 Rechargeable Batteries
-- USB Cable for Charging
-- Miscellaneous: Wires, connectors
-
+- **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
+- **Micro USB Cable**: For Charging and Programming
+  
 ## Assembly Instructions
 
 ### Step 1: 3D Printing the Parts
 Print all required parts using the STL files provided in the `3D-Printed-Parts` folder. Ensure that your printer settings are optimized for the best quality.
 
 <div align="left">
-    <img src="img/3D_parts.png" width="90%">
+    <img src="img/3D_parts.png" width="80%">
 </div>
 
 ### Step 2: Installing the Servo Motors
 Attach the four mini servo motors to the designated slots in the printed parts. Ensure they are securely in place.
 
 <div align="left">
-    <img src="img/3D_parts_servo.png" width="90%">
+    <img src="img/3D_parts_servo.png" width="70%">
 </div>
 
+### Step 3: Bearings Assembly
+
+To achieve superior precision and smooth movements, Pedro is equipped with three strategically placed ball bearings:
+
+- Base Bearing: Located at the base of Pedro, this bearing allows for stable and precise rotational movement.
+- Elbow Bearing: Positioned at the first articulation, this bearing ensures accurate and fluid bending of the arm.
+- Arm Bearing: Situated at the arm joint, this bearing provides smooth motion and stability for the upper arm movements.
+
+<div align="left">
+    <img src="img/bearings.png" width="40%">
+</div>
+
+#### Installing the Bearings
+
+Place the ball bearings at the specified joints:
+
+1. Insert the base bearing into the designated slot at the base of Pedro.
+2. Place the elbow bearing at the first articulation point.
+3. Insert the arm bearing at the arm joint.
+
+<image>
+    
 ### Step 3: Assembling the Body
+    
 Snap the 3D printed parts together according to the assembly guide. The parts are designed to fit together without any tools.
 
 < **image** >
