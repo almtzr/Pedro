@@ -92,7 +92,7 @@ Place the ball bearings at the specified joints:
 3. Insert the arm bearing at the arm joint.
 
 <div align="left">
-    <img src="img/install_bearings.png" width="40%">
+    <img src="img/install_bearings.png" width="60%">
 </div>
 
 ### Step 5: Assembling the Body
