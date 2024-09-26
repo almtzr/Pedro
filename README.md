@@ -68,7 +68,7 @@ Print all required parts using the STL files provided in the `3D-Printed-Parts` 
 Attach the four mini servo motors to the designated slots in the printed parts. Ensure they are securely in place.
 
 <div align="left">
-    <img src="img/3D_parts_servo.png" width="50%">
+    <img src="img/3D_parts_servo.png" width="80%">
 </div>
 
 ### Step 3: Planetary Gear System
