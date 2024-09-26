@@ -71,16 +71,15 @@ Attach the four mini servo motors to the designated slots in the printed parts. 
     <img src="img/3D_parts_servo.png" width="50%">
 </div>
 
-### Step 3: Bearings Assembly
+### Step 3: Planetary Gear System
 
-To achieve superior precision and smooth movements, Pedro is equipped with three strategically placed ball bearings:
+To achieve superior precision and smooth movements, Pedro is equipped with two planetary gear systems:
 
-- Base Bearing: Located at the base of Pedro, this bearing allows for stable and precise rotational movement.
-- Elbow Bearing: Positioned at the first articulation, this bearing ensures accurate and fluid bending of the arm.
-- Arm Bearing: Situated at the arm joint, this bearing provides smooth motion and stability for the upper arm movements.
+- Elbow: Positioned at the first articulation, it ensures accurate and fluid bending of the arm.
+- Arm : Situated at the arm joint it provides smooth motion and stability for the upper arm movements.
 
 <div align="left">
-    <img src="img/bearings.png" width="40%">
+    <img src="img/gear_system.png" width="40%">
 </div>
 
 ### Step 4: Installing the Bearings
