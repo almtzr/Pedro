@@ -79,7 +79,7 @@ To achieve superior precision and smooth movements, Pedro is equipped with two p
 - Arm : Situated at the arm joint it provides smooth motion and stability for the upper arm movements.
 
 <div align="left">
-    <img src="img/gear_system.png" width="40%">
+    <img src="img/gear_system.png" width="80%">
 </div>
 
 ### Step 4: Installing the Bearings
