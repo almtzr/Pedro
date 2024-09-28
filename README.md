@@ -68,7 +68,7 @@ Print all required parts using the STL files provided in the `3D-Printed-Parts` 
 Attach the four mini servo motors to the designated slots in the printed parts. Ensure they are securely in place.
 
 <div align="left">
-    <img src="img/3D_parts_servo.png" width="80%">
+    <img src="img/pedro_assembly_1.png" width="80%">
 </div>
 
 ### Step 3: Planetary Gear System
@@ -79,7 +79,7 @@ To achieve superior precision and smooth movements, Pedro is equipped with two p
 - Arm : Situated at the arm joint it provides smooth motion and stability for the upper arm movements.
 
 <div align="left">
-    <img src="img/gear_system.png" width="80%">
+    <img src="img/pedro_assembly_2.png" width="80%">
 </div>
 
 ### Step 4: Installing the Bearings
@@ -91,7 +91,7 @@ Place the ball bearings at the specified joints:
 3. Insert the arm bearing at the arm joint.
 
 <div align="left">
-    <img src="img/install_bearings.png" width="40%">
+    <img src="img/pedro_assembly_3.png" width="70%">
 </div>
 
 ### Step 5: Assembling the Body
@@ -99,7 +99,7 @@ Place the ball bearings at the specified joints:
 Snap the 3D printed parts together according to the assembly guide. The parts are designed to fit together without any tools.
 
 <div align="left">
-    <img src="img/install_parts.png" width="70%">
+    <img src="img/pedro_assembly_4.png" width="70%">
 </div>
 
 ### Step 6: Wiring
