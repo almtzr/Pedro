@@ -67,6 +67,12 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 
 ### Board 
 
+- Microcontroller ATmega32u4
+- 8.4 DC Battery
+- Wireless Module NRF24L01
+- Arduino Complatible for Programming
+- USB Port
+
 <div align="left">
     <img src="img/board.jpg" width="60%">
 </div>
