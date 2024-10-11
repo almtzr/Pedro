@@ -43,7 +43,9 @@ Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and
 
 Pedro is a compact, DIY robot that you can build and program yourself. All parts of Pedro are designed to be 3D printed, and the robot can be assembled without any additional tools. The custom Arduino-compatible board, along with the nRF24L01 module, allows for wireless control, making Pedro a flexible and interactive project.
 
-< **image** >
+<div align="left">
+    <img src="img/pedro.png" width="100%">
+</div>
 
 ### Components and Capabilities:
 
@@ -61,7 +63,7 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 Print all required parts using the STL files provided in the `3D-Printed-Parts` folder. Ensure that your printer settings are optimized for the best quality.
 
 <div align="left">
-    <img src="img/3D_parts.png" width="80%">
+    <img src="img/module.jpg" width="100%">
 </div>
 
 ### Step 2: Installing the Servo Motors
