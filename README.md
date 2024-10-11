@@ -27,6 +27,10 @@
 
 Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and assembled without any tools. Equipped with four mini servo motors and powered by a custom-made Arduino-compatible board, Pedro can be controlled remotely using an nRF24L01 module It features three ball bearings for enhanced precision in its movements. These bearings are strategically placed to ensure smooth and accurate operations. This versatile and educational robot is perfect for hobbyists, students, and makers looking to explore robotics, electronics, and programming.
 
+<div align="left">
+    <img src="img/pedro.png" width="60%">
+</div>
+
 ## Table of Contents
 1. [Project Description](#project-description)
 2. [Features](#features)
@@ -44,7 +48,7 @@ Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and
 Pedro is a compact, DIY robot that you can build and program yourself. All parts of Pedro are designed to be 3D printed, and the robot can be assembled without any additional tools. The custom Arduino-compatible board, along with the nRF24L01 module, allows for wireless control, making Pedro a flexible and interactive project.
 
 <div align="left">
-    <img src="img/pedro.png" width="60%">
+    <img src="img/dual-mode.gif" width="60%">
 </div>
 
 ### Components and Capabilities:
@@ -56,60 +60,12 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 - **Fully 3D Printable**: All structural components can be printed on a standard 3D printer.
 - **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
 - **Micro USB Cable**: For Charging and Programming
-  
-## Assembly Instructions
-
-### Step 1: 3D Printing the Parts
-Print all required parts using the STL files provided in the `3D-Printed-Parts` folder. Ensure that your printer settings are optimized for the best quality.
 
 <div align="left">
     <img src="img/module.jpg" width="60%">
 </div>
 
-### Step 2: Installing the Servo Motors
-Attach the four mini servo motors to the designated slots in the printed parts. Ensure they are securely in place.
-
-<div align="left">
-    <img src="img/pedro_assembly_1.png" width="60%">
-</div>
-
-### Step 3: Planetary Gear System
-
-To achieve superior precision and smooth movements, Pedro is equipped with two planetary gear systems:
-
-<div align="left">
-    <img src="img/gears.gif" width="60%">
-</div>
-
-- Elbow: Positioned at the first articulation, it ensures accurate and fluid bending of the arm.
-- Arm : Situated at the arm joint it provides smooth motion and stability for the upper arm movements.
-
-<div align="left">
-    <img src="img/pedro_assembly_2.png" width="60%">
-</div>
-
-### Step 4: Installing the Bearings
-
-Place the ball bearings at the specified joints:
-
-1. Insert the base bearing into the designated slot at the base of Pedro.
-2. Place the elbow bearing at the first articulation point.
-3. Insert the arm bearing at the arm joint.
-
-<div align="left">
-    <img src="img/pedro_assembly_3.png" width="60%">
-</div>
-
-### Step 5: Assembling the Body
-    
-Snap the 3D printed parts together according to the assembly guide. The parts are designed to fit together without any tools.
-
-<div align="left">
-    <img src="img/pedro_assembly_4.png" width="60%">
-</div>
-
-### Step 6: Board
-Connect the servo motors to the Pedro board.
+### Board 
 
 <div align="left">
     <img src="img/board.jpg" width="60%">
