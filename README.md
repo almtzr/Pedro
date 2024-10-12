@@ -25,9 +25,9 @@
 
 ## Overview
 
-Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and assembled without any tools. Equipped with four mini servo motors and powered by a custom-made Arduino-compatible board, Pedro can be controlled remotely using an nRF24L01 module It features three ball bearings for enhanced precision in its movements. These bearings are strategically placed to ensure smooth and accurate operations. This versatile and educational robot is perfect for hobbyists, students, and makers looking to explore robotics, electronics, and programming.
+Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and assembled without any tools. Equipped with four mini servo motors and powered by a custom-made Arduino-compatible board, Pedro can be controlled remotely using an nRF24L01 module. It features three ball bearings for enhanced precision in its movements. These bearings are strategically placed to ensure smooth and accurate operations. This versatile and educational robot is perfect for hobbyists, students, and makers looking to explore robotics, electronics, and programming.
 
-<div align="left">
+<div align="center">
     <img src="img/pedro.png" width="80%">
 </div>
 
@@ -45,9 +45,9 @@ Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and
 
 ## Project Description
 
-Pedro is a compact, DIY robot that you can build and program yourself. All parts of Pedro are designed to be 3D printed, and the robot can be assembled without any additional tools. The custom Arduino-compatible board, along with the nRF24L01 module, allows for wireless control, making Pedro a flexible and interactive project.
+Pedro is a compact, DIY robot that you can build and program yourself. All parts of Pedro are designed to be 3D printed, and the robot can be assembled without any additional tools. The Pedro board, along with the nRF24L01 module, allows for wireless control, making Pedro a flexible and interactive project.
 
-<div align="left">
+<div align="center">
     <img src="img/dual-mode.gif" width="60%">
 </div>
 
@@ -61,19 +61,19 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 - **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
 - **Micro USB Cable**: For Charging and Programming
 
-<div align="left">
+<div align="center">
     <img src="img/module.jpg" width="60%">
 </div>
 
 ### Board 
 
 - Microcontroller ATmega32u4
-- 8.4 DC Battery
+- 8.4V DC Battery
 - Wireless Module NRF24L01
 - Arduino Complatible for Programming
 - USB Port
 
-<div align="left">
+<div align="center">
     <img src="img/board.jpg" width="60%">
 </div>
 
