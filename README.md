@@ -21,7 +21,7 @@
 
 <br>
 
-# Pedro - The 3D Printed Mini Robot (work in progress...)
+# Pedro - The Gateway to STEAM Education (work in progress...)
 
 ## Overview
 
