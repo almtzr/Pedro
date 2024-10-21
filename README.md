@@ -84,23 +84,13 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 </div>
 
 ## Programming Pedro
-1. **Install the Arduino IDE**: If not already installed, download and install the [Arduino IDE](https://www.arduino.cc/en/software).
-2. **Download the Code**: Clone this repository or download the zip file and extract it.
-3. **Upload the Code**: Open the `.ino` file in the Arduino IDE and upload it to the custom Arduino-compatible board.
+1. Install the Arduino IDE if not already installed, download and install the [Arduino IDE](https://www.arduino.cc/en/software).
+2. Download the code clone this repository or download the zip file and extract it.
+3. Upload the code file in the Arduino IDE and upload it to the Pedro board.
 
-< **image** >
-
-## Remote Control Setup
-1. **Assemble the Remote**: Follow the instructions to assemble the second custom Arduino-compatible board with the nRF24L01 module.
-2. **Upload the Remote Code**: Use the provided code in the `Remote-Control` folder to set up the remote.
-3. **Pairing**: Ensure both Pedro and the remote are powered on and within range for successful pairing.
-
-< **image** >
-
-## Powering Pedro
-Insert the two 18650 batteries into the battery slots. Connect Pedro to a USB power source using the provided cable to recharge the batteries as needed.
-
-< **image** >
+- [For basic control](https://github.com/almtzr/Pedro/blob/main/code/basic)
+- [For remote control](https://github.com/almtzr/Pedro/blob/main/code/remote)
+- [For dual remote control](https://github.com/almtzr/Pedro/blob/main/code/dual)
 
 ## Contributing
 We welcome contributions from the community! Here's how you can help:
