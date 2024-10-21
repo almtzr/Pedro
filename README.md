@@ -60,9 +60,9 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 ### Components and Capabilities:
 
 - **4 Mini Servo Motors**: For precise movements.
-- **Custom Arduino-Compatible Board**: Designed specifically for this project, offering easy integration with the robot's components.
+- **Arduino-Compatible Board**: Designed specifically for this project, offering easy integration with the robot's components.
 - **nRF24L01 Module**: For wireless communication.
-- **2 Rechargeable 18650 Batteries**: Powering the robot, rechargeable via USB.
+- **Two Rechargeable 18650 Batteries**: Powering the robot, rechargeable via USB.
 - **Fully 3D Printable**: All structural components can be printed on a standard 3D printer.
 - **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
 - **Micro USB Cable**: For Charging and Programming
