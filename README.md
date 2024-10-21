@@ -57,7 +57,7 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
     <img src="img/dual-mode.gif" width="60%">
 </div>
 
-### Components and Capabilities:
+### Components and Capabilities
 
 - **4 Mini Servo Motors**: For precise movements.
 - **Arduino-Compatible Board**: Designed specifically for this project, offering easy integration with the robot's components.
@@ -66,6 +66,8 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 - **Fully 3D Printable**: All structural components can be printed on a standard 3D printer.
 - **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
 - **Micro USB Cable**: For Charging and Programming
+
+### Assembling: [STL files](https://github.com/almtzr/Pedro/blob/main/code/basic)
 
 <div align="center">
     <img src="img/module.jpg" width="60%">
