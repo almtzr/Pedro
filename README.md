@@ -67,7 +67,9 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 - **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
 - **Micro USB Cable**: For Charging and Programming
 
-### Assembling: [STL files](https://github.com/almtzr/Pedro/blob/main/code/basic)
+### Do it yourself : 
+
+To create the Pedro robot, download the [.stl files](https://github.com/almtzr/Pedro/blob/main/code/basic), prepare your 3D printer, and follow the assembly instructions.
 
 <div align="center">
     <img src="img/module.png" width="80%">
