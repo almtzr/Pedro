@@ -38,18 +38,17 @@ Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and
 </div>
 
 ## Table of Contents
-1. [Project Description](#project-description)
+1. [Project Description (#project-description)
 2. [Features](#features)
-3. [Required Materials](#required-materials)
-4. [Assembly Instructions](#assembly-instructions)
-5. [Programming Pedro](#programming-pedro)
-6. [Remote Control Setup](#remote-control-setup)
-7. [Powering Pedro](#powering-pedro)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
+3. [Electronic](#electronic)
+4. [Programming Pedro](#programming-pedro)
+5. [Do it yourself](#do-it-yourself)
+6. [Powering Pedro](#powering-pedro)
+7. [Contributing](#contributing)
+8. [License](#license)
+9. [Contact](#contact) 
 
-## Project Description
+## 1. Project Description
 
 Pedro is a compact, DIY robot that you can build and program yourself. All parts of Pedro are designed to be 3D printed, and the robot can be assembled without any additional tools. The Pedro board, along with the nRF24L01 module, allows for wireless control, making Pedro a flexible and interactive project.
 
@@ -57,7 +56,7 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
     <img src="img/dual-mode.gif" width="60%">
 </div>
 
-### Components and Capabilities
+## 2. Features
 
 - **4 Mini Servo Motors**: For precise movements.
 - **Arduino-Compatible Board**: Designed specifically for this project, offering easy integration with the robot's components.
@@ -67,15 +66,7 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 - **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
 - **Micro USB Cable**: For Charging and Programming
 
-### Do it yourself : 
-
-To create the Pedro robot, download the [.stl files](https://github.com/almtzr/Pedro/blob/main/code/basic), prepare your 3D printer, and follow the assembly instructions.
-
-<div align="center">
-    <img src="img/module.png" width="80%">
-</div>
-
-### Board 
+## 3. Electronic 
 
 - Microcontroller ATmega32u4
 - 8.4V DC Battery
@@ -87,7 +78,8 @@ To create the Pedro robot, download the [.stl files](https://github.com/almtzr/P
     <img src="img/board.jpg" width="60%">
 </div>
 
-## Programming Pedro
+## 4. Programming Pedro
+
 1. Install the Arduino IDE if not already installed, download and install the [Arduino IDE](https://www.arduino.cc/en/software).
 2. Download the code clone this repository or download the zip file and extract it.
 3. Upload the code file in the Arduino IDE and upload it to the Pedro board.
@@ -96,7 +88,15 @@ To create the Pedro robot, download the [.stl files](https://github.com/almtzr/P
 - [For remote control](https://github.com/almtzr/Pedro/blob/main/code/remote)
 - [For dual remote control](https://github.com/almtzr/Pedro/blob/main/code/dual)
 
-## Contributing
+## 6. Do it yourself : 
+
+To create the Pedro robot, download the [.stl files](https://github.com/almtzr/Pedro/blob/main/code/basic), prepare your 3D printer, and follow the assembly instructions.
+
+<div align="center">
+    <img src="img/module.png" width="80%">
+</div>
+
+## 7. Contributing
 We welcome contributions from the community! Here's how you can help:
 
 1. **Fork the Repository**: Click the "Fork" button at the top right of this page.
@@ -124,10 +124,10 @@ The programming possibilities are endless, providing an opportunity for both beg
     <img src="img/overview.png" width="100%">
 </div>
 
-## License
+## 9. License
 This project is licensed under the Apache-2.0 License. See the `LICENSE` file for more details.
 
-## Contact
+## 9. Contact
 For any questions, issues, or suggestions, feel free to open an issue or contact us.
 
 ---
