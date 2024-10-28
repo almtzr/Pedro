@@ -124,7 +124,7 @@ The programming possibilities are endless, providing an opportunity for both beg
     <img src="img/overview.png" width="100%">
 </div>
 
-## 9. License
+## 8. License
 This project is licensed under the Apache-2.0 License. See the `LICENSE` file for more details.
 
 ## 9. Contact
