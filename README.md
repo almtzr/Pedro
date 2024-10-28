@@ -55,7 +55,7 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
     <img align="center" src="img/dual-mode.gif" width="60%">
 </div>
 
-## 3. Electronics Board
+## 2. Electronics Board
 
 The electronics board for the Pedro robot, powered by an **ATmega32u4 microcontroller** compatible with Arduino, makes programming and customization easy. Running on an **8.4V DC battery**, it provides reliable autonomy, while the **NRF24L01 wireless module** enables remote communication. 
 
@@ -65,7 +65,7 @@ Equipped with **7 programmable buttons** and **5 programmable LEDs**, it allows 
     <img align="center" src="img/board.jpg" width="50%">
 </div>
 
-## 4. Programming Pedro
+## 3. Programming Pedro
 
 1. Install the Arduino IDE if not already installed, download and install the [Arduino IDE](https://www.arduino.cc/en/software).
 2. Download the code clone this repository or download the zip file and extract it.
@@ -75,7 +75,7 @@ Equipped with **7 programmable buttons** and **5 programmable LEDs**, it allows 
 - [For remote control](https://github.com/almtzr/Pedro/blob/main/code/remote)
 - [For dual remote control](https://github.com/almtzr/Pedro/blob/main/code/dual)
 
-## 6. Do it yourself : 
+## 4. Do it yourself : 
 
 To create the Pedro robot, download the [.stl files](https://github.com/almtzr/Pedro/blob/main/code/basic), prepare your 3D printer, and follow the assembly instructions.
 
@@ -83,7 +83,7 @@ To create the Pedro robot, download the [.stl files](https://github.com/almtzr/P
     <img src="img/module.png" width="80%">
 </div>
 
-## 7. Contributing
+## 5. Contributing
 We welcome contributions from the community! Here's how you can help:
 
 1. **Fork the Repository**: Click the "Fork" button at the top right of this page.
@@ -111,10 +111,10 @@ The programming possibilities are endless, providing an opportunity for both beg
     <img src="img/overview.png" width="100%">
 </div>
 
-## 8. License
+## 6. License
 This project is licensed under the Apache-2.0 License. See the `LICENSE` file for more details.
 
-## 9. Contact
+## 7. Contact
 For any questions, issues, or suggestions, feel free to open an issue or contact us.
 
 ---
