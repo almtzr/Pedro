@@ -70,7 +70,7 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 ### Assembling: [STL files](https://github.com/almtzr/Pedro/blob/main/code/basic)
 
 <div align="center">
-    <img src="img/module.jpg" width="60%">
+    <img src="img/module.png" width="80%">
 </div>
 
 ### Board 
