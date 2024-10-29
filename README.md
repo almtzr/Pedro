@@ -27,7 +27,10 @@
 
 <br>
 
-# Pedro - The Gateway to STEAM Education (work in progress...)
+# Pedro 2.0
+
+> Hi, I'm Almoutazar SAANDI, a computer engineer based in France. In my free time, I enjoy creating open-source projects, and Pedro is one of them. 
+If you need more details or have any questions about Pedro, feel free to reach out to me.
 
 ## Overview
 
@@ -113,9 +116,6 @@ The programming possibilities are endless, providing an opportunity for both beg
 
 ## 6. License
 This project is licensed under the Apache-2.0 License. See the `LICENSE` file for more details.
-
-## 7. Contact
-For any questions, issues, or suggestions, feel free to open an issue or contact us.
 
 ---
 
