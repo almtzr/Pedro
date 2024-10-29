@@ -75,7 +75,7 @@ Equipped with **7 programmable buttons** and **5 programmable LEDs**, it allows 
 - [For remote control](https://github.com/almtzr/Pedro/blob/main/code/remote)
 - [For dual remote control](https://github.com/almtzr/Pedro/blob/main/code/dual)
 
-## 4. Do it yourself : 
+## 4. Do it yourself
 
 To create the Pedro robot, download the [.stl files](https://github.com/almtzr/Pedro/tree/main/stl/v2.0), prepare your 3D printer, and follow the assembly instructions provided in the images.
 
