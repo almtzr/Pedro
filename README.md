@@ -88,8 +88,6 @@ To create the Pedro robot, download the [.stl files](https://github.com/almtzr/P
 
 ### Modular for customization as you wish
 
-Pedro is a fully modular robot designed for maximum customization
-
 <div align="left">
     <img src="img/modular_mix.gif" width="50%">
 </div>
