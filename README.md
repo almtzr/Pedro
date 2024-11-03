@@ -54,8 +54,8 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 - **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
 - **Micro USB Cable**: For Charging and Programming.
   
-<div align="left">
-    <img align="center" src="img/dual-mode.gif" width="60%">
+<div align="center">
+    <img align="center" src="img/dual-mode.gif" width="80%">
 </div>
 
 ## 2. Electronics Board
@@ -64,8 +64,8 @@ The electronics board for the Pedro robot, powered by an **ATmega32u4 microcontr
 
 Equipped with **7 programmable buttons** and **5 programmable LEDs**, it allows real-time control and interaction. The **USB port** simplifies programming, making Pedro adaptable for a variety of robotic projects.
 
-<div align="left">
-    <img align="center" src="img/board.jpg" width="50%">
+<div align="center">
+    <img align="center" src="img/board.jpg" width="80%">
 </div>
 
 ## 3. Programming Pedro
@@ -82,13 +82,13 @@ Equipped with **7 programmable buttons** and **5 programmable LEDs**, it allows 
 
 To create the Pedro robot, download the [.stl files](https://github.com/almtzr/Pedro/tree/main/stl/v2.0), prepare your 3D printer, and follow the assembly instructions provided in the images.
 
-<div align="left">
+<div align="center">
     <img src="img/module.png" width="80%">
 </div>
 
 ### Modular for customization as you wish
 
-<div align="left">
+<div align="center">
     <img src="img/modular_mix.gif" width="50%">
 </div>
 
