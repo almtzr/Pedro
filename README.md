@@ -89,7 +89,7 @@ To create the Pedro robot, download the [.stl files](https://github.com/almtzr/P
 ### Modular for customization as you wish
 
 <div align="center">
-    <img src="img/modular_mix.gif" width="50%">
+    <img src="img/modular_mix.gif" width="70%">
 </div>
 
 ## 5. Contributing
