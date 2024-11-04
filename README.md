@@ -62,10 +62,14 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 
 The electronics board for the Pedro robot, powered by an **ATmega32u4 microcontroller** compatible with Arduino, makes programming and customization easy. Running on an **8.4V DC battery**, it provides reliable autonomy, while the **NRF24L01 wireless module** enables remote communication. 
 
+<div align="center">
+    <img align="center" src="img/board.jpg" width="80%">
+</div>
+
 Equipped with **7 programmable buttons** and **5 programmable LEDs**, it allows real-time control and interaction. The **USB port** simplifies programming, making Pedro adaptable for a variety of robotic projects.
 
 <div align="center">
-    <img align="center" src="img/board.jpg" width="80%">
+    <img align="center" src="img/board_settings.png" width="80%">
 </div>
 
 ## 3. Programming Pedro
