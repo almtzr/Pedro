@@ -71,7 +71,7 @@ Equipped with **7 programmable buttons** and **5 programmable LEDs**, it allows 
 <br>
 <br>
 <div align="center">
-    <img align="center" src="img/board_settings.png" width="60%">
+    <img align="center" src="img/pedro_board.png" width="60%">
 </div>
 
 ## 3. Programming Pedro
