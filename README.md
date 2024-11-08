@@ -37,7 +37,7 @@ If you need more details or have any questions about Pedro, feel free to reach o
 Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and assembled without any tools. Equipped with four mini servo motors and powered by a custom-made Arduino-compatible board, Pedro can be controlled remotely using an nRF24L01 module. It features two ball bearings for enhanced precision in its movements. These bearings are strategically placed to ensure smooth and accurate operations. This versatile and educational robot is perfect for hobbyists, students, and makers looking to explore robotics, electronics, and programming.
 
 <div align="center">
-    <img src="img/pedro_robot.png" width="80%">
+    <img src="img/pedro_robot.png" width="100%">
 </div>
 
 ## 1. Project Description
@@ -62,7 +62,6 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 
 The electronics board for the Pedro robot, powered by an **ATmega32u4 microcontroller** compatible with Arduino, makes programming and customization easy. Running on an **8.4V DC battery**, it provides reliable autonomy, while the **NRF24L01 wireless module** enables remote communication. 
 
-
 <div align="center">
     <img align="center" src="img/board.jpg" width="60%">
 </div>
@@ -71,7 +70,7 @@ Equipped with **7 programmable buttons** and **5 programmable LEDs**, it allows 
 <br>
 <br>
 <div align="center">
-    <img align="center" src="img/pedro_board.png" width="60%">
+    <img align="center" src="img/pedro_board.png" width="100%">
 </div>
 
 ## 3. Programming Pedro
@@ -89,7 +88,19 @@ Equipped with **7 programmable buttons** and **5 programmable LEDs**, it allows 
 To create the Pedro robot, download the [.stl files](https://github.com/almtzr/Pedro/tree/main/stl/v2.0), prepare your 3D printer, and follow the assembly instructions provided in the images.
 
 <div align="center">
-    <img src="img/module.png" width="80%">
+    <img src="img/module.png" width="100%">
+</div>
+
+### Everything you need to bring the Pedro robot to life.
+
+- 4 Servomotors 360° SG90
+- Pedro board
+- Micro USB cable
+- 2 Batteries 3.7V 15000mA
+- 2 Ball bearings
+
+<div align="center">
+    <img src="img/pedro_explode.jpg" width="100%">
 </div>
 
 ### Modular for customization as you wish
