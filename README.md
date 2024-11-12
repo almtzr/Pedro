@@ -99,6 +99,12 @@ To create the Pedro robot, download the [.stl files](https://github.com/almtzr/P
 - 2 Batteries 3.7V 15000mA
 - 2 Ball bearings
 
+<div align="left">
+    <img src="img/no_tools.png" width="60%">
+</div>
+
+### STEP 1: (work in progress)
+
 <div align="center">
     <img src="img/pedro_explode.jpg" width="100%">
 </div>
