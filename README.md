@@ -106,7 +106,7 @@ To create the Pedro robot, download the [.stl files](https://github.com/almtzr/P
 ### STEP 1: (work in progress)
 
 <div align="center">
-    <img src="img/pedro_explode.jpg" width="100%">
+    <img src="img/pedro_explode.jpg" width="50%">
 </div>
 
 ### Modular for customization as you wish
@@ -140,7 +140,7 @@ We welcome contributions from the community! Here's how you can help:
 The programming possibilities are endless, providing an opportunity for both beginners and advanced users to push the boundaries of what Robot Pedro can achieve. Enjoy the process of learning, experimenting, and refining your programming skills with this remarkable STEAM education tool.
 
 <div align="center">
-    <img src="img/overview.png" width="100%">
+    <img src="img/workshop.png" width="100%">
 </div>
 
 ## 6. License
