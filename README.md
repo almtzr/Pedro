@@ -139,7 +139,7 @@ Everything you need to bring the Pedro robot to life.
 | ![Pedro Step 7](img/pedro_step_15.jpg) | ![Pedro Step 8](img/pedro_step_16.jpg) | ![Pedro Step 9](img/pedro_step_17.jpg) |
 |---------------------------------------|---------------------------------------|---------------------------------------|
 
-#### STEP 6:
+### STEP 6:
 
 | ![Pedro Step 7](img/pedro_step_18.jpg) | ![Pedro Step 8](img/pedro_step_19.jpg) | ![Pedro Step 9](img/pedro_step_20.jpg) |
 |---------------------------------------|---------------------------------------|---------------------------------------|
