@@ -44,6 +44,12 @@ Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and
 
 Pedro is a compact, DIY robot that you can build and program yourself. All parts of Pedro are designed to be 3D printed, and the robot can be assembled without any additional tools. The Pedro board, along with the nRF24L01 module, allows for wireless control, making Pedro a flexible and interactive project.
 
+### Modular for customization as you wish
+
+<div align="left">
+    <img src="img/modular_mix.gif" width="60%">
+</div>
+
 ### Features
 
 - **4 Mini Servo Motors**: For precise movements.
@@ -54,15 +60,15 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 - **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
 - **Micro USB Cable**: For Charging and Programming.
   
-<div align="center">
-    <img align="center" src="img/dual-mode.gif" width="80%">
+<div align="left">
+    <img align="center" src="img/dual-mode.gif" width="60%">
 </div>
 
 ## 2. Electronics Board
 
 The electronics board for the Pedro robot, powered by an **ATmega32u4 microcontroller** compatible with Arduino, makes programming and customization easy. Running on an **8.4V DC battery**, it provides reliable autonomy, while the **NRF24L01 wireless module** enables remote communication. 
 
-<div align="center">
+<div align="left">
     <img align="center" src="img/board.jpg" width="60%">
 </div>
 <br>
@@ -83,7 +89,7 @@ Equipped with **7 programmable buttons** and **5 programmable LEDs**, it allows 
 - [For remote control](https://github.com/almtzr/Pedro/blob/main/code/remote)
 - [For dual remote control](https://github.com/almtzr/Pedro/blob/main/code/dual)
 
-## 4. Do it yourself
+## 4. 3D Printing Files
 
 To create the Pedro robot, download the [.stl files](https://github.com/almtzr/Pedro/tree/main/stl/v2.0), prepare your 3D printer, and follow the assembly instructions provided in the images.
 
@@ -91,7 +97,12 @@ To create the Pedro robot, download the [.stl files](https://github.com/almtzr/P
     <img src="img/module.png" width="100%">
 </div>
 
-### Everything you need to bring the Pedro robot to life.
+## 5. Do It Yourself
+Everything you need to bring the Pedro robot to life.
+
+<div align="left">
+    <img src="img/pedro_explode.jpg" width="60%">
+</div>
 
 - 4 Servomotors 360° SG90
 - Pedro board
@@ -103,17 +114,55 @@ To create the Pedro robot, download the [.stl files](https://github.com/almtzr/P
     <img src="img/no_tools.png" width="60%">
 </div>
 
-### STEP 1: (work in progress)
+### STEP 1:
 
-<div align="center">
-    <img src="img/pedro_explode.jpg" width="50%">
-</div>
+| ![Pedro Step 1](img/pedro_step_1.jpg) | ![Pedro Step 2](img/pedro_step_2.jpg) | ![Pedro Step 3](img/pedro_step_3.jpg) |
+|---------------------------------------|---------------------------------------|---------------------------------------|
 
-### Modular for customization as you wish
+### STEP 2:
 
-<div align="center">
-    <img src="img/modular_mix.gif" width="70%">
-</div>
+| ![Pedro Step 4](img/pedro_step_4.jpg) | ![Pedro Step 5](img/pedro_step_5.jpg) | ![Pedro Step 6](img/pedro_step_8.jpg) |
+|---------------------------------------|---------------------------------------|---------------------------------------|
+
+### STEP 3:
+
+| ![Pedro Step 7](img/pedro_step_9.jpg) | ![Pedro Step 8](img/pedro_step_10.jpg) | ![Pedro Step 9](img/pedro_step_11.jpg) |
+|---------------------------------------|---------------------------------------|---------------------------------------|
+
+### STEP 4:
+
+| ![Pedro Step 7](img/pedro_step_12.jpg) | ![Pedro Step 8](img/pedro_step_13.jpg) | ![Pedro Step 9](img/pedro_step_14.jpg) |
+|---------------------------------------|---------------------------------------|---------------------------------------|
+
+### STEP 5:
+
+| ![Pedro Step 7](img/pedro_step_15.jpg) | ![Pedro Step 8](img/pedro_step_16.jpg) | ![Pedro Step 9](img/pedro_step_17.jpg) |
+|---------------------------------------|---------------------------------------|---------------------------------------|
+
+#### STEP 6:
+
+| ![Pedro Step 7](img/pedro_step_18.jpg) | ![Pedro Step 8](img/pedro_step_19.jpg) | ![Pedro Step 9](img/pedro_step_20.jpg) |
+|---------------------------------------|---------------------------------------|---------------------------------------|
+
+### STEP 7:
+
+| ![Pedro Step 7](img/pedro_step_21.jpg) | ![Pedro Step 8](img/pedro_step_22.jpg) | ![Pedro Step 9](img/pedro_step_23.jpg) |
+|---------------------------------------|---------------------------------------|---------------------------------------|
+
+### STEP 8:
+
+| ![Pedro Step 7](img/pedro_step_24.jpg) | ![Pedro Step 8](img/pedro_step_25.jpg) | ![Pedro Step 9](img/pedro_step_26.jpg) |
+|---------------------------------------|---------------------------------------|---------------------------------------|
+
+### STEP 9:
+
+| ![Pedro Step 7](img/pedro_step_27.jpg) | ![Pedro Step 8](img/pedro_step_28.jpg) | ![Pedro Step 9](img/pedro_step_29.jpg) |
+|---------------------------------------|---------------------------------------|---------------------------------------|
+
+### STEP 10:
+
+| ![Pedro Step 7](img/pedro_step_30.jpg) | ![Pedro Step 8](img/pedro_step_31.jpg) | ![Pedro Step 9](img/pedro_step_32.jpg) |
+|---------------------------------------|---------------------------------------|---------------------------------------|
 
 ## 5. Contributing
 We welcome contributions from the community! Here's how you can help:
@@ -140,7 +189,7 @@ We welcome contributions from the community! Here's how you can help:
 The programming possibilities are endless, providing an opportunity for both beginners and advanced users to push the boundaries of what Robot Pedro can achieve. Enjoy the process of learning, experimenting, and refining your programming skills with this remarkable STEAM education tool.
 
 <div align="center">
-    <img src="img/workshop.png" width="100%">
+    <img src="img/workshop.jpg" width="100%">
 </div>
 
 ## 6. License
