@@ -98,20 +98,21 @@ To create the Pedro robot, download the [.stl files](https://github.com/almtzr/P
 </div>
 
 ## 5. Do It Yourself
-Everything you need to bring the Pedro robot to life.
 
-<div align="left">
-    <img src="img/pedro_explode.jpg" width="60%">
-</div>
+Everything you need to bring the Pedro robot to life:
 
 - 4 Servomotors 360° SG90
 - Pedro board
 - Micro USB cable
 - 2 Batteries 3.7V 15000mA
 - 2 Ball bearings
+  
+<div align="left">
+    <img src="img/pedro_explode.jpg" width="60%">
+</div>
 
 <div align="left">
-    <img src="img/no_tools.png" width="60%">
+    <img src="img/no_tools.png" width="40%">
 </div>
 
 ### STEP 1:
@@ -121,7 +122,7 @@ Everything you need to bring the Pedro robot to life.
 
 ### STEP 2:
 
-| ![Pedro Step 4](img/pedro_step_4.jpg) | ![Pedro Step 5](img/pedro_step_5.jpg) | ![Pedro Step 6](img/pedro_step_8.jpg) |
+| ![Pedro Step 4](img/pedro_step_4.jpg) | ![Pedro Step 5](img/pedro_step_5.jpg) | ![Pedro Step 6](img/pedro_step_6.jpg) |
 |---------------------------------------|---------------------------------------|---------------------------------------|
 
 ### STEP 3:
