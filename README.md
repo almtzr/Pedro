@@ -109,7 +109,7 @@ Everything you need to bring the Pedro robot to life:
 - 4 Servomotors 360° SG90
 - Pedro board
 - Micro USB cable
-- 2 Batteries 3.7V 15000mA
+- 2 18650 Batteries 3.7V
 - 2 Ball bearings
   
 <div align="left">
