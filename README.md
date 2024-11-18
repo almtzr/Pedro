@@ -21,7 +21,7 @@
 
 <div align="center">
     <a href="https://www.kickstarter.com/projects/731479134/pedro-0" target="_blank">
-        <img src="img/kicksoon.png" width="30%">
+        <img src="img/kicksoon.png" width="50%">
     </a>
 </div>
 
