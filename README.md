@@ -93,6 +93,8 @@ Equipped with **7 programmable buttons** and **5 programmable LEDs**, it allows 
 
 To create the Pedro robot, download the [.stl files](https://github.com/almtzr/Pedro/tree/main/stl/v2.0), prepare your 3D printer, and follow the assembly instructions provided in the images.
 
+**Please note that some parts, like the gripper, are still a work in progress.**
+
 <div align="center">
     <img src="img/module.png" width="100%">
 </div>
