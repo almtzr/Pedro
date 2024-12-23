@@ -101,6 +101,10 @@ To create the Pedro robot, download the [.stl files](https://github.com/almtzr/P
 
 ## 5. Do It Yourself
 
+<div align="left">
+    <img src="img/pedro_explode.gif" width="100%">
+</div>
+
 Everything you need to bring the Pedro robot to life:
 
 
