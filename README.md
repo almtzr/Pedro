@@ -29,9 +29,6 @@
 
 # Pedro 2.0
 
-> Hi, I'm Almoutazar SAANDI, a computer engineer based in France. In my free time, I enjoy creating open-source projects, and Pedro is one of them. 
-If you need more details or have any questions about Pedro, feel free to reach out to me.
-
 ## Overview
 
 Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and assembled without any tools. Equipped with four mini servo motors and powered by a custom-made Arduino-compatible board, Pedro can be controlled remotely using an nRF24L01 module. It features two ball bearings for enhanced precision in its movements. These bearings are strategically placed to ensure smooth and accurate operations. This versatile and educational robot is perfect for hobbyists, students, and makers looking to explore robotics, electronics, and programming.
@@ -205,4 +202,13 @@ This project is licensed under the Apache-2.0 License. See the `LICENSE` file fo
 
 ---
 
+> Hi, I'm Almoutazar SAANDI, computer engineer based in France. In my free time, I enjoy creating open-source projects, and Pedro is one of them. 
+If you need more details or have any questions about Pedro, feel free to reach out to me.
+
+<div align="center">
+    <img src="img/vote_for_pedro.jpeg" width="30%">
+</div>
+
 Thank you for your interest in Pedro! We can't wait to see what you create with it. Happy building and coding!
+
+---
