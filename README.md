@@ -51,7 +51,10 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 
 - **4 Mini Servo Motors**: For precise movements.
 - **Arduino-Compatible Board**: Designed specifically for this project, offering easy integration with the robot's components.
-- **nRF24L01 Module**: For wireless communication.
+- **OLED Screen (128x64)**: Visualize data, debug in real-time, or create interactive menus.
+- **NRF24L01**: Enable long-range wireless communication between Pedro or devices.
+- **ESP8266-01 WiFi Module**: Bring your projects online with ease.
+- **HC-05 Bluetooth Module**: Connect wirelessly to smartphones or other devices.
 - **Two Rechargeable 18650 Batteries**: Powering the robot, rechargeable via USB.
 - **Fully 3D Printable**: All structural components can be printed on a standard 3D printer.
 - **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
@@ -63,7 +66,12 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 
 ## 2. Electronics Board
 
-The electronics board for the Pedro robot, powered by an **ATmega32u4 microcontroller** compatible with Arduino, makes programming and customization easy. Running on an **8.4V DC battery**, it provides reliable autonomy, while the **NRF24L01 wireless module** enables remote communication. 
+The Pedro Board Ultimate is here to revolutionize how you learn and create in electronics, programming, and robotics. Designed with simplicity and versatility in mind, this open-source board integrates 4 powerful modules into a compact and efficient design:
+
+- OLED Screen (128x64): Visualize data, debug in real-time, or create interactive menus.
+- NRF24L01: Enable long-range wireless communication between robots or devices.
+- ESP8266-01 WiFi Module: Bring your projects online with ease.
+- HC-05 Bluetooth Module: Connect wirelessly to smartphones or other devices.
 
 <div align="left">
     <img align="center" src="img/board.png" width="100%">
