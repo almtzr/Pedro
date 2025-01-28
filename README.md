@@ -80,12 +80,6 @@ The Pedro Board Ultimate is here to revolutionize how you learn and create in el
     <img align="center" src="img/board.png" width="100%">
 </div>
 <br>
-Equipped with **7 programmable buttons** and **5 programmable LEDs**, it allows real-time control and interaction. The **USB port** simplifies programming, making Pedro adaptable for a variety of robotic projects.
-<br>
-<br>
-<div align="center">
-    <img align="center" src="img/pedro_board.png" width="100%">
-</div>
 
 ## 3. Programming Pedro
 
