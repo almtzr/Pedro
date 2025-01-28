@@ -31,23 +31,23 @@
 
 ## Overview
 
-Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and assembled without any tools. Equipped with four mini servo motors and powered by a custom-made Arduino-compatible board, Pedro can be controlled remotely using an nRF24L01 module. It features two ball bearings for enhanced precision in its movements. These bearings are strategically placed to ensure smooth and accurate operations. This versatile and educational robot is perfect for hobbyists, students, and makers looking to explore robotics, electronics, and programming.
+Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and assembled without any tools. Equipped with four mini servo motors and powered by a custom-made Arduino-compatible board, Pedro offers versatile wireless communication options with its integrated **nRF24L01 module for remote control**, **HC-05 Bluetooth module for smartphone connectivity**, and **ESP8266 WiFi module for IoT integration**. It also features an OLED 128x64 display, allowing real-time feedback and data visualization.
+
+To ensure smooth and accurate operations, Pedro is equipped with two ball bearings, strategically placed for enhanced precision in its movements. This versatile and educational robot is perfect for hobbyists, students, and makers looking to explore robotics, electronics, and programming, all while enjoying a hands-on and engaging experience.
 
 <div align="center">
     <img src="img/pedro_robot.png" width="100%">
 </div>
 
-## 1. Project Description
+## 1. Features
 
-Pedro is a compact, DIY robot that you can build and program yourself. All parts of Pedro are designed to be 3D printed, and the robot can be assembled without any additional tools. The Pedro board, along with the nRF24L01 module, allows for wireless control, making Pedro a flexible and interactive project.
-
-### Modular for customization as you wish
+Pedro is a compact, DIY robot that you can build and program yourself. All parts of Pedro are designed to be 3D printed, and the robot can be assembled without any additional tools.
 
 <div align="left">
-    <img src="img/modular_mix.gif" width="60%">
+    <img src="img/pedro_ultimate.png" width="100%">
 </div>
 
-### Features
+</br>
 
 - **4 Mini Servo Motors**: For precise movements.
 - **Arduino-Compatible Board**: Designed specifically for this project, offering easy integration with the robot's components.
@@ -56,30 +56,33 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 - **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
 - **Micro USB Cable**: For Charging and Programming.
 
-Designed with simplicity and versatility in mind, this open-source board integrates **4 powerful modules** into a compact and efficient design:
+## 2. Electronics Board
+
+The Pedro Board Ultimate is here to revolutionize how you learn and create in electronics, programming, and robotics. Designed with simplicity and versatility in mind, this open-source board integrates 4 powerful modules into a compact and efficient design:
+
+<div align="left">
+    <img align="center" src="img/board.png" width="100%">
+</div>
+</br>
 
 - **OLED Screen (128x64)**: Visualize data, debug in real-time, or create interactive menus.
 - **NRF24L01**: Enable long-range wireless communication between Pedro or devices.
 - **ESP8266-01 WiFi Module**: Bring your Pedro online with ease.
 - **HC-05 Bluetooth Module**: Connect wirelessly to smartphones or other devices.
-  
+
+### 2.1 Radio communication by NRF24L01 module
+
 <div align="left">
     <img align="center" src="img/dual-mode.gif" width="60%">
 </div>
 
-## 2. Electronics Board
 
-The Pedro Board Ultimate is here to revolutionize how you learn and create in electronics, programming, and robotics. Designed with simplicity and versatility in mind, this open-source board integrates 4 powerful modules into a compact and efficient design:
+### 2.2 Bluetooth communication by HC-O5 module
+ ... work in progress ...
+ 
+### 2.3 WiFi communication by ESP8266-01 module
+ ... work in progress ...
 
-- OLED Screen (128x64): Visualize data, debug in real-time, or create interactive menus.
-- NRF24L01: Enable long-range wireless communication between robots or devices.
-- ESP8266-01 WiFi Module: Bring your projects online with ease.
-- HC-05 Bluetooth Module: Connect wirelessly to smartphones or other devices.
-
-<div align="left">
-    <img align="center" src="img/board.png" width="100%">
-</div>
-<br>
 
 ## 3. Programming Pedro
 
