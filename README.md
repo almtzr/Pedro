@@ -70,6 +70,32 @@ The Pedro Board Ultimate is here to revolutionize how you learn and create in el
 - **ESP8266-01 WiFi Module**: Bring your Pedro online with ease.
 - **HC-05 Bluetooth Module**: Connect wirelessly to smartphones or other devices.
 
+| Pedro Board Rev. 3  | Arduino Pin | Function                  |
+|---------------------|-------------|---------------------------|
+| Servo 1             | D5          | PWM Signal                |
+| Servo 2             | D6          | PWM Signal                |
+| Servo 3             | D9          | PWM Signal                |
+| Servo 4             | D10         | PWM Signal                |
+| Button 1  (Up)      | A0          | Select Servo              |
+| Button 2 (Right)    | A1          | Servo Rotation (forward)  |
+| Button 3 (Left)     | A2          | Servo Rotation (backward) |
+| LED Servo 1         | D13         | Servo 1 Indicator         |
+| LED Servo 2         | D11         | Servo 2 Indicator         |
+| LED Servo 3         | D8          | Servo 3 Indicator         |
+| LED Servo 4         | D7          | Servo 4 Indicator         |
+| NRF24L01 CE         | D4          | SPI Enable (Radio)        |
+| NRF24L01 CSN        | D12         | SPI Chip Select (Radio)   |
+| OLED Display (SDA)  | D2          | I2C Data                  |
+| OLED Display (SCL)  | D3          | I2C Clock                 |
+| HC-05 TX	          | D0          | UART RX (Bluetooth)       |
+| HC-05 RX            | D1          | UART TX (Bluetooth)       |
+| ESP8266 TX	      | D0          | UART RX (WiFi)            |
+| ESP8266 RX          | D1          | UART TX (WiFi)            |
+| Switch 1 (Middle)   | N/A         | Select Mode Radio, Bluetooth, WiFi |
+| Switch 2 (Right)    | N/A         | Select Mode Flash (ESP8266-01) |
+| Switch 3 (Left)     | N/A         | Select Mode AT (HC-05)   |
+| Button 4 (RST_WiFi) | N/A         | Reset ESP8266-01 Module   |
+
 ### 2.1 Radio communication by NRF24L01 module
 
 <div align="left">
