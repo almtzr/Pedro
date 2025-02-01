@@ -25,11 +25,11 @@
 
 The wait is almost over! Pedro, the open-source robotic arm, will officially launch on Kickstarter on March 1st, 2025.
 
-🔧 Fully Open Source 4 modules in one board
-📡 NRF24L01, ESP8266-01, Bluetooth HC-05, OLED Display
-🔋 Powered by a 7.4V 3500mAh battery
-🎮 Wireless Control & Arduino-Compatible
-💡 Be ready to back the project and bring Pedro to life!
+🔧 Fully Open Source 4 modules in one board <br>
+📡 NRF24L01, ESP8266-01, Bluetooth HC-05, OLED Display <br>
+🔋 Powered by a 7.4V 3500mAh battery <br>
+🎮 Wireless Control & Arduino-Compatible <br>
+💡 Be ready to back the project and bring Pedro to life! 
 
 📅 Don’t miss the launch!
 👉 Follow the project here!
