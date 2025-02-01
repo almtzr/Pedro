@@ -19,13 +19,29 @@
 [license-shield]: https://img.shields.io/github/license/almtzr/Pedro.svg?style=for-the-badge&colorB=286
 [license-url]: https://github.com/almtzr/Pedro/blob/main/LICENSE
 
+<br>
+
+🚀 Pedro is Launching on Kickstarter on March 1st, 2025! 🎉
+
+The wait is almost over! Pedro, the open-source robotic arm, will officially launch on Kickstarter on March 1st, 2025.
+
+🔧 Fully Open Source 4 modules in one board
+📡 NRF24L01, ESP8266-01, Bluetooth HC-05, OLED Display
+🔋 Powered by a 7.4V 3500mAh battery
+🎮 Wireless Control & Arduino-Compatible
+
+💡 Be ready to back the project and bring Pedro to life!
+
+📅 Don’t miss the launch!
+👉 Follow the project here!
+
 <div align="center">
     <a href="https://www.kickstarter.com/projects/731479134/pedro-0" target="_blank">
         <img src="img/kicksoon.png" width="50%">
     </a>
 </div>
 
-<br>
+---
 
 # Pedro 2.0
 
