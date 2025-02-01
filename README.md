@@ -29,7 +29,6 @@ The wait is almost over! Pedro, the open-source robotic arm, will officially lau
 📡 NRF24L01, ESP8266-01, Bluetooth HC-05, OLED Display
 🔋 Powered by a 7.4V 3500mAh battery
 🎮 Wireless Control & Arduino-Compatible
-
 💡 Be ready to back the project and bring Pedro to life!
 
 📅 Don’t miss the launch!
