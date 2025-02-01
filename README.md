@@ -31,7 +31,7 @@ The wait is almost over! Pedro, the open-source robotic arm, will officially lau
 🎮 Wireless Control & Arduino-Compatible <br>
 💡 Be ready to back the project and bring Pedro to life! 
 
-📅 Don’t miss the launch!
+📅 Don’t miss the launch! <br>
 👉 Follow the project here!
 
 <div align="center">
