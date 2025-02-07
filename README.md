@@ -20,6 +20,13 @@
 [license-url]: https://github.com/almtzr/Pedro/blob/main/LICENSE
 
 <br>
+<div align="center">
+    <a href="https://www.kickstarter.com/projects/731479134/pedro-0" target="_blank">
+        <img src="img/kicksoon.png" width="40%">
+    </a>
+</div>
+
+<br>
 
 🚀 Pedro is Launching on Kickstarter on March 1st, 2025! 🎉
 
@@ -35,9 +42,7 @@ The wait is almost over! Pedro, the open-source robotic arm, will officially lau
 👉 Follow the project here!
 
 <div align="center">
-    <a href="https://www.kickstarter.com/projects/731479134/pedro-0" target="_blank">
-        <img src="img/kicksoon.png" width="50%">
-    </a>
+    <img src="img/vote_for_pedro.jpeg" width="30%">
 </div>
 
 ---
@@ -71,21 +76,24 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 - **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
 - **Micro USB Cable**: For Charging and Programming.
 
-## 2. Electronics Board
+## 2. Boards
 
-The Pedro Board Ultimate is here to revolutionize how you learn and create in electronics, programming, and robotics. Designed with simplicity and versatility in mind, this open-source board integrates 4 powerful modules into a compact and efficient design:
+The Pedro Board is here to revolutionize how you learn and create in electronics, programming, and robotics. Designed with simplicity and versatility in mind, this open-source board comes in two versions: the **Pedro Rev 3** (left) with 4 powerful integrated modules (NRF24L01, ESP8266, HC-05, and OLED) and the **Pedro Rev 2** (right) with 2 integrated modules (NRF24L01 and OLED). Both versions offer a compact and efficient design to help you bring your robotic projects to life!
+
+Additionally, the **Gerber files for the Pedro Rev 2** are available for those who want to create their own custom Pedro robot board.
 
 <div align="left">
-    <img align="center" src="img/board.png" width="100%">
+    <img align="center" src="img/board_rev3_and_2.png" width="100%">
 </div>
-</br>
+
+<br>
 
 - **OLED Screen (128x64)**: Visualize data, debug in real-time, or create interactive menus.
 - **NRF24L01**: Enable long-range wireless communication between Pedro or devices.
-- **ESP8266-01 WiFi Module**: Bring your Pedro online with ease.
-- **HC-05 Bluetooth Module**: Connect wirelessly to smartphones or other devices.
+- **ESP8266-01 WiFi Module**: Bring your Pedro online with ease. (**Rev 3 only**)
+- **HC-05 Bluetooth Module**: Connect wirelessly to smartphones or other devices. (**Rev 3 only**)
 
-| Pedro Board Rev. 3  | Arduino Pin | Function                  |
+| Pedro Board         | Arduino Pin | Function                  |
 |---------------------|-------------|---------------------------|
 | Servo 1             | D5          | PWM Signal                |
 | Servo 2             | D6          | PWM Signal                |
@@ -126,6 +134,12 @@ The Pedro Board Ultimate is here to revolutionize how you learn and create in el
 
 
 ## 3. Programming Pedro
+
+<div align="left">
+    <img align="center" src="img/board.png" width="80%">
+</div>
+
+<br>
 
 1. Install the Arduino IDE if not already installed, download and install the [Arduino IDE](https://www.arduino.cc/en/software).
 2. Download the code clone this repository or download the zip file and extract it.
@@ -253,11 +267,5 @@ This project is licensed under the Apache-2.0 License. See the `LICENSE` file fo
 
 > Hi, I'm Almoutazar SAANDI, computer engineer based in France. In my free time, I enjoy creating open-source projects, and Pedro is one of them. 
 If you need more details or have any questions about Pedro, feel free to reach out to me.
-
-<div align="center">
-    <img src="img/vote_for_pedro.jpeg" width="30%">
-</div>
-
-Thank you for your interest in Pedro! We can't wait to see what you create with it. Happy building and coding!
 
 ---
