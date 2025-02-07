@@ -39,7 +39,6 @@ The wait is almost over! Pedro, the open-source robotic arm, will officially lau
 💡 Be ready to back the project and bring Pedro to life! 
 
 📅 Don’t miss the launch! <br>
-👉 Follow the project here!
 
 <div align="center">
     <img src="img/vote_for_pedro.jpeg" width="30%">
@@ -117,7 +116,6 @@ Additionally, the **Gerber files for the Pedro Rev 2** are available for those w
 | Switch 1 (Middle)   | N/A         | Select Mode Radio, Bluetooth, WiFi |
 | Switch 2 (Right)    | N/A         | Select Mode Flash (ESP8266-01) |
 | Switch 3 (Left)     | N/A         | Select Mode AT (HC-05)   |
-| Button 4 (RST_WiFi) | N/A         | Reset ESP8266-01 Module   |
 
 ### 2.1 Radio communication by NRF24L01 module
 
