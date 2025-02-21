@@ -86,7 +86,7 @@ The Pedro Board is here to revolutionize how you learn and create in electronics
 Additionally, the **Gerber files for the Pedro Rev 2** are available for those who want to create their own custom Pedro robot board.
 
 <div align="left">
-    <img align="center" src="img/board_rev3_and_2.png" width="100%">
+    <img align="center" src="img/pedro_board_rev2.png" width="100%">
 </div>
 
 <br>
