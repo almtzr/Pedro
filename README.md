@@ -59,16 +59,12 @@ Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and
 To ensure smooth and accurate operations, Pedro is equipped with two ball bearings, strategically placed for enhanced precision in its movements. This versatile and educational robot is perfect for hobbyists, students, and makers looking to explore robotics, electronics, and programming, all while enjoying a hands-on and engaging experience.
 
 <div align="center">
-    <img src="img/pedro_board_rev3.png" width="100%">
+    <img src="img/pedro_overview_2.png" width="100%">
 </div>
 
 ## 1. Features
 
 Pedro is a compact, DIY robot that you can build and program yourself. All parts of Pedro are designed to be 3D printed, and the robot can be assembled without any additional tools.
-
-<div align="left">
-    <img src="img/pedro_overview.png" width="100%">
-</div>
 
 </br>
 
@@ -88,6 +84,13 @@ Additionally, the **Gerber files for the Pedro Rev 2** are available for those w
 <div align="left">
     <img align="center" src="img/pedro_board_rev2.png" width="100%">
 </div>
+
+<br>
+<div align="center">
+    <img src="img/pedro_board_rev3.png" width="100%">
+</div>
+
+
 
 <br>
 
@@ -136,12 +139,6 @@ Additionally, the **Gerber files for the Pedro Rev 2** are available for those w
 
 
 ## 3. Programming Pedro
-
-<div align="left">
-    <img align="center" src="img/board.png" width="80%">
-</div>
-
-<br>
 
 1. Install the Arduino IDE if not already installed, download and install the [Arduino IDE](https://www.arduino.cc/en/software).
 2. Download the code clone this repository or download the zip file and extract it.
