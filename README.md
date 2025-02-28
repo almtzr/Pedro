@@ -19,15 +19,15 @@
 [license-shield]: https://img.shields.io/github/license/almtzr/Pedro.svg?style=for-the-badge&colorB=286
 [license-url]: https://github.com/almtzr/Pedro/blob/main/LICENSE
 
-📢📢📢 **Limited Pre-Sale: Get Pedro Before the Kickstarter Launch!** 🚀
+📢📢 **Limited Pre-Sale: Get Pedro Before the Kickstarter Launch!** 🚀
 
 Great news! We’re offering an exclusive pre-sale of 10 Pedro robots featuring the Rev 2 board before the official Kickstarter launch. This is a limited opportunity to get your hands on Pedro early and start experimenting before the end of campaign!
 
 📦 **What’s included?**
 
-🤖 Fully assembled Pedro Robot with the Rev 2 board <br>
-📡 Integrated NRF & OLED modules <br>
-💻 Pre-flashed firmware, ready to use <br>
+- Fully assembled Pedro Robot with the Rev 2 board <br>
+- Integrated NRF & OLED modules <br>
+- Pre-flashed firmware, ready to use <br>
 
 📍 **Where to buy?**
 
@@ -60,13 +60,18 @@ The wait is almost over! Pedro, the open-source robotic arm, will officially lau
 
 📅 Don’t miss the launch! <br>
 
-<div align="center">
-    <img src="img/vote_for_pedro.jpeg" width="50%">
+<div align="left">
+    <img src="img/vote_for_pedro.jpeg" width="25%">
 </div>
 
 ---
 
 # Pedro 2.0
+
+Pedro Robot is certified as open-source hardware by the Open Source Hardware Association under UID: [FR000025](https://certification.oshwa.org/fr000025.html).
+<div align="left">
+    <img src="img/certification-mark-FR000025-stacked.png" width="25%">
+</div>
 
 ## Overview
 
