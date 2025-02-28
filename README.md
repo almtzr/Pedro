@@ -61,7 +61,7 @@ The wait is almost over! Pedro, the open-source robotic arm, will officially lau
 📅 Don’t miss the launch! <br>
 
 <div align="left">
-    <img src="img/vote_for_pedro.jpeg" width="25%">
+    <img src="img/vote_for_pedro.jpeg" width="50%">
 </div>
 
 ---
