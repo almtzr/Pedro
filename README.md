@@ -70,7 +70,7 @@ The wait is almost over! Pedro, the open-source robotic arm, will officially lau
 
 Pedro Robot is certified as open-source hardware by the Open Source Hardware Association under UID: [FR000025](https://certification.oshwa.org/fr000025.html).
 <div align="left">
-    <img src="img/certification-mark-FR000025-stacked.png" width="25%">
+    <img src="img/certification-mark-FR000025-stacked.png" width="40%">
 </div>
 
 ## Overview
