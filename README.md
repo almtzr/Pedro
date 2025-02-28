@@ -103,12 +103,11 @@ The Pedro Board is here to revolutionize how you learn and create in electronics
 Additionally, the **Gerber files for the Pedro Rev 2** are available for those who want to create their own custom Pedro robot board.
 
 <div align="left">
-    <img align="center" src="img/pedro_board_rev2.png" width="100%">
+    <img src="img/pedro_board_rev2.png" width="50%">
 </div>
 
-<br>
-<div align="center">
-    <img src="img/pedro_board_rev3.png" width="100%">
+<div align="left">
+    <img src="img/pedro_board_rev3.png" width="50%">
 </div>
 
 
@@ -153,7 +152,10 @@ Additionally, the **Gerber files for the Pedro Rev 2** are available for those w
 
 
 ### 2.2 Bluetooth communication by HC-O5 module
- ... work in progress ...
+
+ <div align="left">
+    <img align="center" src="img/bluetooth_mode.gif" width="60%">
+</div>
  
 ### 2.3 WiFi communication by ESP8266-01 module
  ... work in progress ...
