@@ -41,28 +41,14 @@ Once these 10 units are gone, the next chance to get Pedro will be during the Ki
 
 <br>
 <div align="center">
-    <a href="https://www.kickstarter.com/projects/731479134/pedro-0" target="_blank">
-        <img src="img/kicksoon.png" width="40%">
+    <a href="https://www.kickstarter.com/projects/731479134/pedro-0?ref=project_build" target="_blank">
+        <img src="img/now_on_kickstarter.png" width="25%">
     </a>
 </div>
 
 <br>
 
-🚀 Pedro is Launching on Kickstarter on March 1st, 2025! 🎉
-
-The wait is almost over! Pedro, the open-source robotic arm, will officially launch on Kickstarter on March 1st, 2025.
-
-🔧 Fully Open Source <br>
-📡 4 modules in one board: NRF24L01, ESP8266-01, Bluetooth HC-05, OLED Display <br>
-🔋 Powered by a 7.4V 3500mAh battery <br>
-🎮 Wireless Control & Arduino-Compatible <br>
-💡 Be ready to back the project and bring Pedro to life! 
-
-📅 Don’t miss the launch! <br>
-
-<div align="left">
-    <img src="img/vote_for_pedro.jpeg" width="50%">
-</div>
+🚀 Pedro is on Kickstarter since March 1st, 2025! 🎉
 
 ---
 
