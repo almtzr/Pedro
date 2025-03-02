@@ -40,7 +40,7 @@ Once these 10 units are gone, the next chance to get Pedro will be during the Ki
 ---
 
 <br>
-<div align="center">
+<div align="left">
     <a href="https://www.kickstarter.com/projects/731479134/pedro-0?ref=project_build" target="_blank">
         <img src="img/now_on_kickstarter.png" width="25%">
     </a>
