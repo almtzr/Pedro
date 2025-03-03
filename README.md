@@ -19,6 +19,18 @@
 [license-shield]: https://img.shields.io/github/license/almtzr/Pedro.svg?style=for-the-badge&colorB=286
 [license-url]: https://github.com/almtzr/Pedro/blob/main/LICENSE
 
+## 🎉 Goal Reached in Less Than 24 Hours – Thank You! 🎉
+
+<div align="left">
+    <a href="https://www.kickstarter.com/projects/731479134/pedro-0" target="_blank">
+        <img src="img/pedro_thank_you.gif" width="50%">
+    </a>
+</div>
+
+<br>
+
+---
+
 📢📢 **Limited Pre-Sale: Get Pedro Before the Kickstarter Launch!** 🚀
 
 Great news! We’re offering an exclusive pre-sale of 10 Pedro robots featuring the Rev 2 board before the official Kickstarter launch. This is a limited opportunity to get your hands on Pedro early and start experimenting before the end of campaign!
@@ -36,19 +48,6 @@ Great news! We’re offering an exclusive pre-sale of 10 Pedro robots featuring 
 Once these 10 units are gone, the next chance to get Pedro will be during the Kickstarter launch on March 1st.
 
 👉 Get yours now before they’re gone!
-
----
-
-<br>
-<div align="left">
-    <a href="https://www.kickstarter.com/projects/731479134/pedro-0?ref=project_build" target="_blank">
-        <img src="img/now_on_kickstarter.png" width="25%">
-    </a>
-</div>
-
-<br>
-
-🚀 Pedro is on Kickstarter since March 1st, 2025! 🎉
 
 ---
 
