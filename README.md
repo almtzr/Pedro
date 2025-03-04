@@ -65,7 +65,7 @@ Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and
 To ensure smooth and accurate operations, Pedro is equipped with two ball bearings, strategically placed for enhanced precision in its movements. This versatile and educational robot is perfect for hobbyists, students, and makers looking to explore robotics, electronics, and programming, all while enjoying a hands-on and engaging experience.
 
 <div align="center">
-    <img src="img/pedro_overview_2.png" width="100%">
+    <img src="img/pedro_overview.jpeg" width="100%">
 </div>
 
 ## 1. Features
