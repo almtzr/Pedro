@@ -62,7 +62,7 @@ Can’t wait to see what you create with Pedro! Join the conversation and start 
 
 ## 📅 1 March 2025
 
-Goal Reached in Less Than 24 Hours – Thank You!
+### 🎉 Goal Reached in Less Than 24 Hours – Thank You! 🚀🤖
 
 Wow! Pedro has reached its Kickstarter goal in less than 24 hours, and it's all thanks to you! A huge thank you to all the backers and supporters who made this possible. But this is just the beginning! There are still 28 days left for more robotics and coding enthusiasts to join the adventure and discover Pedro.
 
