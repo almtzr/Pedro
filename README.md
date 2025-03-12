@@ -4,6 +4,7 @@
 [![Apache-2.0 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [linkedin-url]: https://linkedin.com/in/almoutazar-saandi
 
@@ -19,7 +20,13 @@
 [license-shield]: https://img.shields.io/github/license/almtzr/Pedro.svg?style=for-the-badge&colorB=286
 [license-url]: https://github.com/almtzr/Pedro/blob/main/LICENSE
 
-# 🚀 Pedro Update: New GitHub Repo and Discord Community Soon! 🤖
+# 🚀 Pedro is already 230% funded! 🤖🎉 
+# Limited quantity available – don’t miss out!
+# 👉 Get yours now on [Kickstarter!](https://www.kickstarter.com/projects/731479134/pedro-0)
+
+----------
+
+## 🚀 Pedro Update: New GitHub Repo and Discord Community Soon! 🤖
 
 Hello Pedro enthusiasts! 👋
 I'm excited to announce some big updates:
@@ -36,7 +43,7 @@ You'll find:
 
 ## 2. Latest 3D STL Files Available
 
-The latest version of the 3D STL files for Pedro is now available on the Pedro GitHub page for anyone who wants to 3D print Pedro! Start building your own robot today! 🎉
+The latest version of the [3D STL files](https://github.com/almtzr/Pedro/tree/main/stl/kickstarter_version) for Pedro is now available on the Pedro GitHub page for anyone who wants to 3D print Pedro! Start building your own robot today! 🎉
 
 ## 3. Private Discord Community
 
