@@ -19,35 +19,35 @@
 [license-shield]: https://img.shields.io/github/license/almtzr/Pedro.svg?style=for-the-badge&colorB=286
 [license-url]: https://github.com/almtzr/Pedro/blob/main/LICENSE
 
-## 🎉 Goal Reached in Less Than 24 Hours – Thank You! 🎉
+# 🚀 Pedro Update: New GitHub Repo and Discord Community Soon! 🤖
 
-<div align="left">
-    <a href="https://www.kickstarter.com/projects/731479134/pedro-0" target="_blank">
-        <img src="img/pedro_thank_you.gif" width="50%">
-    </a>
-</div>
+Hello Pedro enthusiasts! 👋
+I'm excited to announce some big updates:
 
-<br>
+## 1. New GitHub Repo: [Pedro - Get Started](https://github.com/almtzr/Pedro-Get-Started)
 
----
+I've just launched a dedicated Github repo for Pedro - Get Started! This repo is designed to guide you through the step-by-step assembly of Pedro, from building the robot to programming and utilizing all of its features.
+You'll find:
 
-📢📢 **Limited Pre-Sale: Get Pedro Before the Kickstarter Launch!** 🚀
+- Detailed assembly instructions
+- Tips for smoother operation
+- Programming guides
+- Full details on the Pedro board and its functionalities
 
-Great news! We’re offering an exclusive pre-sale of 10 Pedro robots featuring the Rev 2 board before the official Kickstarter launch. This is a limited opportunity to get your hands on Pedro early and start experimenting before the end of campaign!
+## 2. Latest 3D STL Files Available
 
-📦 **What’s included?**
+The latest version of the 3D STL files for Pedro is now available on the Pedro GitHub page for anyone who wants to 3D print Pedro! Start building your own robot today! 🎉
 
-- Fully assembled Pedro Robot with the Rev 2 board <br>
-- Integrated NRF & OLED modules <br>
-- Pre-flashed firmware, ready to use <br>
+## 3. Private Discord Community
 
-📍 **Where to buy?**
+A private Discord community to share everything about Pedro will be create soon:
 
-[Available now on Tindie – First come, first served!](https://www.tindie.com/products/almtzr/pedro-robot-the-open-source-robotics-arm/)
+- Discuss 3D design and 3D printing
+- Get help with Pedro board setup and programming
+- Exchange ideas for improvements
+- And much more!
 
-Once these 10 units are gone, the next chance to get Pedro will be during the Kickstarter launch on March 1st.
-
-👉 Get yours now before they’re gone!
+Can’t wait to see what you create with Pedro! Join the conversation and start building today!
 
 ---
 
@@ -83,19 +83,13 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 
 ## 2. Boards
 
-The Pedro Board is here to revolutionize how you learn and create in electronics, programming, and robotics. Designed with simplicity and versatility in mind, this open-source board comes in two versions: the **Pedro Rev 3** (left) with 4 powerful integrated modules (**NRF24L01**, **ESP8266-01**, **HC-05**, and **OLED 128x64**) and the **Pedro Rev 2** (right) with 2 integrated modules (**NRF24L01** and **OLED 128x64**). Both versions offer a compact and efficient design to help you bring your robotic projects to life!
+The Pedro Board is here to revolutionize how you learn and create in electronics, programming, and robotics. Designed with simplicity and versatility in mind, this open-source board comes in two versions: the **Pedro Rev 3** with 4 powerful integrated modules (**NRF24L01**, **ESP8266-01**, **HC-05**, and **OLED 128x64**) and the **Pedro Rev 2** with 2 integrated modules (**NRF24L01** and **OLED 128x64**). Both versions offer a compact and efficient design to help you bring your robotic projects to life!
 
 Additionally, the **Gerber files for the Pedro Rev 2** are available for those who want to create their own custom Pedro robot board.
 
 <div align="left">
-    <img src="img/pedro_board_rev2.png" width="50%">
+    <img src="img/pedro_board_rev3.png" width="80%">
 </div>
-
-<div align="left">
-    <img src="img/pedro_board_rev3.png" width="50%">
-</div>
-
-
 
 <br>
 
@@ -104,140 +98,27 @@ Additionally, the **Gerber files for the Pedro Rev 2** are available for those w
 - **ESP8266-01 WiFi Module**: Bring your Pedro online with ease. (**Rev 3 only**)
 - **HC-05 Bluetooth Module**: Connect wirelessly to smartphones or other devices. (**Rev 3 only**)
 
-| Pedro Board         | Arduino Pin | Function                  |
-|---------------------|-------------|---------------------------|
-| Servo 1             | D5          | PWM Signal                |
-| Servo 2             | D6          | PWM Signal                |
-| Servo 3             | D9          | PWM Signal                |
-| Servo 4             | D10         | PWM Signal                |
-| Button 1  (Up)      | A0          | Select Servo              |
-| Button 2 (Right)    | A1          | Servo Rotation (forward)  |
-| Button 3 (Left)     | A2          | Servo Rotation (backward) |
-| LED Servo 1         | D13         | Servo 1 Indicator         |
-| LED Servo 2         | D11         | Servo 2 Indicator         |
-| LED Servo 3         | D8          | Servo 3 Indicator         |
-| LED Servo 4         | D7          | Servo 4 Indicator         |
-| NRF24L01 CE         | D4          | SPI Enable (Radio)        |
-| NRF24L01 CSN        | D12         | SPI Chip Select (Radio)   |
-| OLED Display (SDA)  | D2          | I2C Data                  |
-| OLED Display (SCL)  | D3          | I2C Clock                 |
-| HC-05 TX	          | D0          | UART RX (Bluetooth)       |
-| HC-05 RX            | D1          | UART TX (Bluetooth)       |
-| ESP8266 TX	      | D0          | UART RX (WiFi)            |
-| ESP8266 RX          | D1          | UART TX (WiFi)            |
-| Switch 1 (Middle)   | N/A         | Select Mode Radio, Bluetooth, WiFi |
-| Switch 2 (Right)    | N/A         | Select Mode Flash (ESP8266-01) |
-| Switch 3 (Left)     | N/A         | Select Mode AT (HC-05)   |
+## 3. Applications
 
-### 2.1 Radio communication by NRF24L01 module
+### Radio communication by NRF24L01 module
 
 <div align="left">
     <img align="center" src="img/dual-mode.gif" width="60%">
 </div>
 
 
-### 2.2 Bluetooth communication by HC-O5 module
+### Bluetooth communication by HC-O5 module
 
  <div align="left">
     <img align="center" src="img/bluetooth_mode.gif" width="60%">
 </div>
  
-### 2.3 WiFi communication by ESP8266-01 module
+### WiFi communication by ESP8266-01 module
  ... work in progress ...
 
+## 4. Get Started
 
-## 3. Programming Pedro
-
-1. Install the Arduino IDE if not already installed, download and install the [Arduino IDE](https://www.arduino.cc/en/software).
-2. Download the code clone this repository or download the zip file and extract it.
-3. Upload the code file in the Arduino IDE and upload it to the Pedro board.
-
-- [For basic control](https://github.com/almtzr/Pedro/blob/main/code/basic)
-- [For remote control](https://github.com/almtzr/Pedro/blob/main/code/remote)
-- [For dual remote control](https://github.com/almtzr/Pedro/blob/main/code/dual)
-
-## 4. 3D Printing Files
-
-To create the Pedro robot, download the [.stl files](https://github.com/almtzr/Pedro/tree/main/stl/v2.0), prepare your 3D printer, and follow the assembly instructions provided in the images.
-
-**Please note that some parts, like the gripper, are still a work in progress.**
-
-<div align="center">
-    <img src="img/module.png" width="100%">
-</div>
-
-## 5. Do It Yourself
-
-<div align="left">
-    <img src="img/pedro_explode.gif" width="100%">
-</div>
-
-Everything you need to bring the Pedro robot to life:
-
-
-<div align="left">
-    <img src="img/no_tools.png" width="40%">
-</div>
-
-- 4 Servomotors 360° SG90
-- Pedro board
-- Micro USB cable
-- 2 18650 Batteries 3.7V
-- 2 Ball bearings
-  
-<div align="left">
-    <img src="img/pedro_explode.jpg" width="60%">
-</div>
-
-
-### STEP 1:
-
-| ![Pedro Step 1](img/pedro_step_1.jpg) | ![Pedro Step 2](img/pedro_step_2.jpg) | ![Pedro Step 3](img/pedro_step_3.jpg) |
-|---------------------------------------|---------------------------------------|---------------------------------------|
-
-### STEP 2:
-
-| ![Pedro Step 4](img/pedro_step_4.jpg) | ![Pedro Step 5](img/pedro_step_5.jpg) | ![Pedro Step 6](img/pedro_step_6.jpg) |
-|---------------------------------------|---------------------------------------|---------------------------------------|
-
-### STEP 3:
-
-| ![Pedro Step 7](img/pedro_step_9.jpg) | ![Pedro Step 8](img/pedro_step_10.jpg) | ![Pedro Step 9](img/pedro_step_11.jpg) |
-|---------------------------------------|---------------------------------------|---------------------------------------|
-
-### STEP 4:
-
-| ![Pedro Step 7](img/pedro_step_12.jpg) | ![Pedro Step 8](img/pedro_step_13.jpg) | ![Pedro Step 9](img/pedro_step_14.jpg) |
-|---------------------------------------|---------------------------------------|---------------------------------------|
-
-### STEP 5:
-
-| ![Pedro Step 7](img/pedro_step_15.jpg) | ![Pedro Step 8](img/pedro_step_16.jpg) | ![Pedro Step 9](img/pedro_step_17.jpg) |
-|---------------------------------------|---------------------------------------|---------------------------------------|
-
-### STEP 6:
-
-| ![Pedro Step 7](img/pedro_step_18.jpg) | ![Pedro Step 8](img/pedro_step_19.jpg) | ![Pedro Step 9](img/pedro_step_20.jpg) |
-|---------------------------------------|---------------------------------------|---------------------------------------|
-
-### STEP 7:
-
-| ![Pedro Step 7](img/pedro_step_21.jpg) | ![Pedro Step 8](img/pedro_step_22.jpg) | ![Pedro Step 9](img/pedro_step_23.jpg) |
-|---------------------------------------|---------------------------------------|---------------------------------------|
-
-### STEP 8:
-
-| ![Pedro Step 7](img/pedro_step_24.jpg) | ![Pedro Step 8](img/pedro_step_25.jpg) | ![Pedro Step 9](img/pedro_step_26.jpg) |
-|---------------------------------------|---------------------------------------|---------------------------------------|
-
-### STEP 9:
-
-| ![Pedro Step 7](img/pedro_step_27.jpg) | ![Pedro Step 8](img/pedro_step_28.jpg) | ![Pedro Step 9](img/pedro_step_29.jpg) |
-|---------------------------------------|---------------------------------------|---------------------------------------|
-
-<div align="left">
-    <img src="img/pedro_step_30.jpg" width="60%">
-</div>
+Checkout the [Pedro Get Started](https://github.com/almtzr/Pedro-Get-Started/tree/main) repo to bring your Pedro to life. You'll find detailed assembly instructions, Programming guides and much more.
 
 ## 5. Contributing
 We welcome contributions from the community! Here's how you can help:
