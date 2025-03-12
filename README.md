@@ -20,18 +20,20 @@
 [license-shield]: https://img.shields.io/github/license/almtzr/Pedro.svg?style=for-the-badge&colorB=286
 [license-url]: https://github.com/almtzr/Pedro/blob/main/LICENSE
 
-# 🚀 Pedro is already 230% funded! 🤖🎉 
-# Limited quantity available – don’t miss out!
-# 👉 Get yours now on [Kickstarter!](https://www.kickstarter.com/projects/731479134/pedro-0)
+## 🚀 Pedro is already 230% funded! Limited quantity available – don’t miss out! 🤖🎉
+## 👉 Get yours now on [Kickstarter!](https://www.kickstarter.com/projects/731479134/pedro-0)
 
-----------
+---
+# Kickstarter Actu :
+---
 
-## 🚀 Pedro Update: New GitHub Repo and Discord Community Soon! 🤖
+## 📅 12 March 2025
+### 🚀 Pedro Update: New GitHub Repo and Discord Community Soon! 🤖
 
 Hello Pedro enthusiasts! 👋
 I'm excited to announce some big updates:
 
-## 1. New GitHub Repo: [Pedro - Get Started](https://github.com/almtzr/Pedro-Get-Started)
+### 1. New GitHub Repo: [Pedro - Get Started](https://github.com/almtzr/Pedro-Get-Started)
 
 I've just launched a dedicated Github repo for Pedro - Get Started! This repo is designed to guide you through the step-by-step assembly of Pedro, from building the robot to programming and utilizing all of its features.
 You'll find:
@@ -41,11 +43,11 @@ You'll find:
 - Programming guides
 - Full details on the Pedro board and its functionalities
 
-## 2. Latest 3D STL Files Available
+### 2. Latest 3D STL Files Available
 
 The latest version of the [3D STL files](https://github.com/almtzr/Pedro/tree/main/stl/kickstarter_version) for Pedro is now available on the Pedro GitHub page for anyone who wants to 3D print Pedro! Start building your own robot today! 🎉
 
-## 3. Private Discord Community
+### 3. Private Discord Community
 
 A private Discord community to share everything about Pedro will be create soon:
 
@@ -58,7 +60,21 @@ Can’t wait to see what you create with Pedro! Join the conversation and start 
 
 ---
 
-# Pedro 2.0
+## 📅 1 March 2025
+
+Goal Reached in Less Than 24 Hours – Thank You!
+
+Wow! Pedro has reached its Kickstarter goal in less than 24 hours, and it's all thanks to you! A huge thank you to all the backers and supporters who made this possible. But this is just the beginning! There are still 28 days left for more robotics and coding enthusiasts to join the adventure and discover Pedro.
+
+Your support is truly incredible and keeps pushing Pedro further. The journey is just getting started! 
+
+<div align="left">
+    <img src="img/pedro_thank_you.gif" width="40%">
+</div>
+
+---
+
+# Pedro Robot 2.0
 
 Pedro Robot is certified as open-source hardware by the Open Source Hardware Association under UID: [FR000025](https://certification.oshwa.org/fr000025.html).
 <div align="left">
@@ -105,14 +121,21 @@ Additionally, the **Gerber files for the Pedro Rev 2** are available for those w
 - **ESP8266-01 WiFi Module**: Bring your Pedro online with ease. (**Rev 3 only**)
 - **HC-05 Bluetooth Module**: Connect wirelessly to smartphones or other devices. (**Rev 3 only**)
 
-## 3. Applications
+## 3. Get Started
+
+Checkout the [Pedro Get Started](https://github.com/almtzr/Pedro-Get-Started/tree/main) repo to bring your Pedro to life. You'll find detailed assembly instructions, Programming guides and much more.
+
+<div align="left">
+    <img src="img/pedro_get_started.png" width="50%">
+</div>
+
+## 4. Applications
 
 ### Radio communication by NRF24L01 module
 
 <div align="left">
     <img align="center" src="img/dual-mode.gif" width="60%">
 </div>
-
 
 ### Bluetooth communication by HC-O5 module
 
@@ -122,10 +145,6 @@ Additionally, the **Gerber files for the Pedro Rev 2** are available for those w
  
 ### WiFi communication by ESP8266-01 module
  ... work in progress ...
-
-## 4. Get Started
-
-Checkout the [Pedro Get Started](https://github.com/almtzr/Pedro-Get-Started/tree/main) repo to bring your Pedro to life. You'll find detailed assembly instructions, Programming guides and much more.
 
 ## 5. Contributing
 We welcome contributions from the community! Here's how you can help:
