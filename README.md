@@ -4,7 +4,6 @@
 [![Apache-2.0 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [linkedin-url]: https://linkedin.com/in/almoutazar-saandi
 
@@ -21,10 +20,24 @@
 [license-url]: https://github.com/almtzr/Pedro/blob/main/LICENSE
 
 ## 🚀 Pedro is already 230% funded! Limited quantity available – don’t miss out! 🤖🎉
-## 👉 Get yours now on [Kickstarter!](https://www.kickstarter.com/projects/731479134/pedro-0)
+### 👉 Get yours now on [Kickstarter!](https://www.kickstarter.com/projects/731479134/pedro-0)
 
 ---
 # Kickstarter Actu :
+---
+
+## 📅 13 March 2025
+### 🎉 It’s official – the Pedro Discord is live! 🤖🔥
+
+The Pedro community now has a home for live discussions, tips, programming, 3D printing, and reward updates! Whether you're building, customizing, or just following the journey, this is the place to be. 🚀
+
+🔗 [Join us now!](https://discord.gg/TxkWNPU3ES)
+
+
+<div align="left">
+    <img src="img/pedro_discord.png" width="40%">
+</div>
+
 ---
 
 ## 📅 12 March 2025
