@@ -19,79 +19,49 @@
 [license-shield]: https://img.shields.io/github/license/almtzr/Pedro.svg?style=for-the-badge&colorB=286
 [license-url]: https://github.com/almtzr/Pedro/blob/main/LICENSE
 
-## 🚀 Pedro is already 230% funded! Limited quantity available – don’t miss out! 🤖🎉
-### 👉 Get yours now on [Kickstarter!](https://www.kickstarter.com/projects/731479134/pedro-0)
-
 ---
-# Kickstarter Actu :
----
+# Last Kickstarter Actu :
 
-## 📅 13 March 2025
-### 🎉 It’s official – the Pedro Discord is live! 🤖🔥
+## 📅 19 March 2025
+### 🚀 Three Ways to Get Your Own Pedro Robot!✨
 
-The Pedro community now has a home for live discussions, tips, programming, 3D printing, and reward updates! Whether you're building, customizing, or just following the journey, this is the place to be. 🚀
+Greetings to all Pedro supporters! 🤖 <br>
+Thanks for being part of the Pedro adventure! 🚀
 
-🔗 [Join us now!](https://discord.gg/TxkWNPU3ES)
-
+As you know, you can get Pedro in different [Kickstarter!](https://www.kickstarter.com/projects/731479134/pedro-0) rewards. Choose the one that suits you best!
+Whether you backed a Pre-Assembled Pedro, a Full DIY Kit, or a Pedro Board, it comes preloaded with the [pedroDirectMode.ino](https://github.com/almtzr/Pedro/tree/main/code/directMode) firmware, allowing you to control Pedro in Direct Mode like this:
 
 <div align="left">
-    <img src="img/pedro_discord.png" width="40%">
+    <img src="img/pedro_direct_mode.gif" width="40%">
 </div>
 
----
+⚡ 1. Pre-Assembled Pedro Reward - Plug & Play
+Want a fully built and tested Pedro? The Pre-Assembled Pedro is ready to use just turn it on and explore your Pedro in action.
 
-## 📅 12 March 2025
-### 🚀 Pedro Update: New GitHub Repo and Discord Community Soon! 🤖
+🔧 2. Full DIY Kit Reward - Everything Included
+With the Pedro Full DIY Kit, you get all the necessary components to build the robot, including electronics and 3D-printed parts. Just follow the Get Started guide on GitHub and start assembling!
 
-Hello Pedro enthusiasts! 👋
-I'm excited to announce some big updates:
+🛠️ 3. Pedro Board Only Reward - Print & Build
+Want to build Pedro from scratch? The Pedro Board Only reward gives you the main PCB, and you can 3D print the rest! To complete your robot, you’ll need:
 
-### 1. New GitHub Repo: [Pedro - Get Started](https://github.com/almtzr/Pedro-Get-Started)
+- 2 ball bearings 8x22x7mm
+- 7.4V DC battery with JST XH2.54 connector 2 pins
+- 4x MS90 360° servo motors
+- Micro USB cable
+- (Options) Modules: NRF24L01, HC-05, ESP8266-01, OLED 128x64 0.96"
 
-I've just launched a dedicated Github repo for Pedro - Get Started! This repo is designed to guide you through the step-by-step assembly of Pedro, from building the robot to programming and utilizing all of its features.
-You'll find:
+All assembly instructions are available in the [Get Started guide](https://github.com/almtzr/Pedro-Get-Started).
 
-- Detailed assembly instructions
-- Tips for smoother operation
-- Programming guides
-- Full details on the Pedro board and its functionalities
-
-### 2. Latest 3D STL Files Available
-
-The latest version of the [3D STL files](https://github.com/almtzr/Pedro/tree/main/stl/kickstarter_version) for Pedro is now available on the Pedro GitHub page for anyone who wants to 3D print Pedro! Start building your own robot today! 🎉
-
-### 3. Private Discord Community
-
-A private Discord community to share everything about Pedro will be create soon:
-
-- Discuss 3D design and 3D printing
-- Get help with Pedro board setup and programming
-- Exchange ideas for improvements
-- And much more!
-
-Can’t wait to see what you create with Pedro! Join the conversation and start building today!
+💬 Join the Pedro Community!
+Need help? Have questions? Want to share your build? Join our Discord server to connect with other makers, get support, and follow Pedro’s journey in real time!
 
 ---
 
-## 📅 1 March 2025
-
-### 🎉 Goal Reached in Less Than 24 Hours – Thank You! 🚀🤖
-
-Wow! Pedro has reached its Kickstarter goal in less than 24 hours, and it's all thanks to you! A huge thank you to all the backers and supporters who made this possible. But this is just the beginning! There are still 28 days left for more robotics and coding enthusiasts to join the adventure and discover Pedro.
-
-Your support is truly incredible and keeps pushing Pedro further. The journey is just getting started! 
-
-<div align="left">
-    <img src="img/pedro_thank_you.gif" width="40%">
-</div>
-
----
-
-# Pedro Robot 2.0
+# Pedro Robot
 
 Pedro Robot is certified as open-source hardware by the Open Source Hardware Association under UID: [FR000025](https://certification.oshwa.org/fr000025.html).
 <div align="left">
-    <img src="img/certification-mark-FR000025-stacked.png" width="40%">
+    <img src="img/certification-mark-FR000025-stacked.png" width="20%">
 </div>
 
 ## Overview
