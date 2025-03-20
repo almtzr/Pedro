@@ -3,6 +3,11 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Apache-2.0 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Kickstarter][kickstarter-shield]][kickstarter-url]
+
+[kickstarter-shield]: https://img.shields.io/badge/kickstarter-00C300?style=for-the-badge&logo=kickstarter&logoColor=white
+[kickstarter-url]: https://www.kickstarter.com/projects/731479134/pedro-0
+
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [linkedin-url]: https://linkedin.com/in/almoutazar-saandi
