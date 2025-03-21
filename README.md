@@ -74,10 +74,6 @@ Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and
 
 Since 2025, Pedro Robot is certified as open-source hardware by the Open Source Hardware Association under UID: [FR000025](https://certification.oshwa.org/fr000025.html).
 
-<div align="left">
-    <img src="img/certification-mark-FR000025-wide.png" width="20%">
-</div>
-
 To ensure smooth and accurate operations, Pedro is equipped with two ball bearings, strategically placed for enhanced precision in its movements. This versatile and educational robot is perfect for hobbyists, students, and makers looking to explore robotics, electronics, and programming, all while enjoying a hands-on and engaging experience.
 
 <div align="center">
@@ -114,7 +110,7 @@ Additionally, the **Gerber files for the Pedro Rev 2** are available for those w
 - **ESP8266-01 WiFi Module**: Bring your Pedro online with ease. (**Rev 3 only**)
 - **HC-05 Bluetooth Module**: Connect wirelessly to smartphones or other devices. (**Rev 3 only**)
 
-## 3. Get Started
+## 3. How to Build Your Pedro
 
 Checkout the [Pedro Get Started](https://github.com/almtzr/Pedro-Get-Started/tree/main) repo to bring your Pedro to life. You'll find detailed assembly instructions, Programming guides and much more.
 
