@@ -114,10 +114,6 @@ Additionally, the **Gerber files for the Pedro Rev 2** are available for those w
 
 Checkout the [Pedro Get Started](https://github.com/almtzr/Pedro-Get-Started/tree/main) repo to bring your Pedro to life. You'll find detailed assembly instructions, Programming guides and much more.
 
-<div align="left">
-    <img src="img/pedro_get_started.png" width="50%">
-</div>
-
 ## 4. Applications
 
 ### Radio communication by NRF24L01 module
