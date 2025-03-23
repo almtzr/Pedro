@@ -37,7 +37,7 @@ As you know, you can get Pedro in different [Kickstarter!](https://www.kickstart
 Whether you backed a Pre-Assembled Pedro, a Full DIY Kit, or a Pedro Board, it comes preloaded with the [pedroDirectMode.ino](https://github.com/almtzr/Pedro/tree/main/code/directMode) firmware, allowing you to control Pedro in Direct Mode like this:
 
 <div align="left">
-    <img src="img/pedro_direct_mode.gif" width="40%">
+    <img src="img/pedro_direct_mode.gif" width="80%">
 </div>
 
 ⚡ 1. Pre-Assembled Pedro Reward - Plug & Play
@@ -119,13 +119,13 @@ Checkout the [Pedro Get Started](https://github.com/almtzr/Pedro-Get-Started/tre
 ### Radio communication by NRF24L01 module
 
 <div align="left">
-    <img align="center" src="img/dual-mode.gif" width="60%">
+    <img align="center" src="img/dual-mode.gif" width="80%">
 </div>
 
 ### Bluetooth communication by HC-O5 module
 
  <div align="left">
-    <img align="center" src="img/bluetooth_mode.gif" width="60%">
+    <img align="center" src="img/bluetooth_mode.gif" width="80%">
 </div>
  
 ### WiFi communication by ESP8266-01 module
