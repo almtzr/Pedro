@@ -67,7 +67,7 @@ Need help? Have questions? Want to share your build? Join our Discord server to 
 Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and assembled without any tools. Equipped with four mini servo motors and powered by a custom-made Arduino-compatible board, Pedro offers versatile wireless communication options with its integrated **nRF24L01 module for remote control**, **HC-05 Bluetooth module for smartphone connectivity**, and **ESP8266 WiFi module for IoT integration**. It also features an **OLED 128x64 display**, allowing real-time feedback and data visualization.
 
 <div align="left">
-    <img src="img/build_pedro.png" width="100%">
+    <img src="img/Pedro_Cover.png" width="100%">
 </div>
 
 <br>
