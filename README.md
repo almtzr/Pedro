@@ -25,40 +25,13 @@
 [license-url]: https://github.com/almtzr/Pedro/blob/main/LICENSE
 
 ---
-# Last Kickstarter Actu :
+#  🎉 Pedro has been funded at 268% on [Kickstarter!](https://www.kickstarter.com/projects/731479134/pedro-0) 🚀
 
-## 📅 19 March 2025
-### 🚀 Three Ways to Get Your Own Pedro Robot!✨
-
-Greetings to all Pedro supporters! 🤖 <br>
-Thanks for being part of the Pedro adventure! 🚀
-
-As you know, you can get Pedro in different [Kickstarter!](https://www.kickstarter.com/projects/731479134/pedro-0) rewards. Choose the one that suits you best!
-Whether you backed a Pre-Assembled Pedro, a Full DIY Kit, or a Pedro Board, it comes preloaded with the [pedroDirectMode.ino](https://github.com/almtzr/Pedro/tree/main/code/directMode) firmware, allowing you to control Pedro in Direct Mode like this:
+## 🌍 A huge thank you to our backers from Australia, Canada, China, France, Germany, Japan, Romania, South Africa, UK, and US.
 
 <div align="left">
-    <img src="img/pedro_direct_mode.gif" width="80%">
+    <img src="img/Pedro_Funded.png" width="100%">
 </div>
-
-⚡ 1. Pre-Assembled Pedro Reward - Plug & Play
-Want a fully built and tested Pedro? The Pre-Assembled Pedro is ready to use just turn it on and explore your Pedro in action.
-
-🔧 2. Full DIY Kit Reward - Everything Included
-With the Pedro Full DIY Kit, you get all the necessary components to build the robot, including electronics and 3D-printed parts. Just follow the Get Started guide on GitHub and start assembling!
-
-🛠️ 3. Pedro Board Only Reward - Print & Build
-Want to build Pedro from scratch? The Pedro Board Only reward gives you the main PCB, and you can 3D print the rest! To complete your robot, you’ll need:
-
-- 2 ball bearings 8x22x7mm
-- 7.4V DC battery with JST XH2.54 connector 2 pins
-- 4x MS90 360° servo motors
-- Micro USB cable
-- (Options) Modules: NRF24L01, HC-05, ESP8266-01, OLED 128x64 0.96"
-
-All assembly instructions are available in the [Get Started guide](https://github.com/almtzr/Pedro-Get-Started).
-
-💬 Join the Pedro Community!
-Need help? Have questions? Want to share your build? Join our Discord server to connect with other makers, get support, and follow Pedro’s journey in real time!
 
 ---
 
