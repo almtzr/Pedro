@@ -1,5 +1,0 @@
-Changelog
-——————————————————
-
-12 March 2025: Initial version
-19 March 2025: Update base.stl and battery_cover.stl
