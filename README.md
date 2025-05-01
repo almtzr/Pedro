@@ -55,10 +55,6 @@ Since 2025, Pedro Robot is certified as open-source hardware by the Open Source 
 
 To ensure smooth and accurate operations, Pedro is equipped with two ball bearings, strategically placed for enhanced precision in its movements. This versatile and educational robot is perfect for hobbyists, students, and makers looking to explore robotics, electronics, and programming, all while enjoying a hands-on and engaging experience.
 
-<div align="center">
-    <img src="img/pedro_overview.jpeg" width="100%">
-</div>
-
 ## 1. Features
 
 Pedro is a compact, DIY robot that you can build and program yourself. All parts of Pedro are designed to be 3D printed, and the robot can be assembled without any additional tools.
