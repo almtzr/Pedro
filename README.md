@@ -33,12 +33,6 @@
     <img src="img/Pedro_Funded.png" width="100%">
 </div>
 
-# Sponsorship 🚀
-
-<a href="https://www.pcbway.com/">
-    <img src="img/Pcbway.png" width="40%">
-</a>
-
 ---
 
 # Pedro Robot
@@ -136,6 +130,12 @@ The programming possibilities are endless, providing an opportunity for both beg
 
 ## 6. License
 This project is licensed under the Apache-2.0 License. See the `LICENSE` file for more details.
+
+## Sponsorship 🚀
+
+<a href="https://www.pcbway.com/">
+    <img src="img/Pcbway.png" width="40%">
+</a>
 
 ---
 
