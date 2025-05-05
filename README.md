@@ -4,10 +4,13 @@
 [![Apache-2.0 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Kickstarter][kickstarter-shield]][kickstarter-url]
+[![discord][discord-shield]][discord-url]
 
 [kickstarter-shield]: https://img.shields.io/badge/kickstarter-00C300?style=for-the-badge&logo=kickstarter&logoColor=white
 [kickstarter-url]: https://www.kickstarter.com/projects/731479134/pedro-0
 
+[discord-shield]: https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=linkedin&colorB=red
+[discord-url]: https://discord.com/invite/TxkWNPU3ES
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [linkedin-url]: https://linkedin.com/in/almoutazar-saandi
@@ -25,17 +28,8 @@
 [license-url]: https://github.com/almtzr/Pedro/blob/main/LICENSE
 
 ---
-#  🎉 Pedro has been funded at 268% on [Kickstarter!](https://www.kickstarter.com/projects/731479134/pedro-0) 🚀
 
-## 🌍 A huge thank you to our backers from Australia, Canada, China, France, Germany, Japan, Romania, South Africa, UK, and US.
-
-<div align="left">
-    <img src="img/Pedro_Funded.png" width="100%">
-</div>
-
----
-
-# Pedro Robot
+# Welcome to the Pedro Robot Page
 
 Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and assembled without any tools. Equipped with four mini servo motors and powered by a custom-made Arduino-compatible board, Pedro offers versatile wireless communication options with its integrated **nRF24L01 module for remote control**, **HC-05 Bluetooth module for smartphone connectivity**, and **ESP8266 WiFi module for IoT integration**. It also features an **OLED 128x64 display**, allowing real-time feedback and data visualization.
 
