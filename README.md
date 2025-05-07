@@ -54,7 +54,11 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 - **Two Rechargeable 18650 Batteries**: Powering the robot, rechargeable via USB.
 - **Fully 3D Printable**: All structural components can be printed on a standard 3D printer.
 - **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
-- **Micro USB Cable**: For Charging and Programming.
+- **Micro USB Cable**: Enables charging, firmware uploads, and serial data exchange with the control application.
+
+<div align="center">
+    <img src="img/pedro_app.png" width="60%">
+</div>
 
 ## 2. Boards
 
