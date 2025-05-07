@@ -1,3 +1,11 @@
+# ===============================================================
+#  File         : pedro_app.py
+#  Description  : Control serial interface for the Pedro robot
+#  Author       : Almoutazar SAANDI
+#  Last update  : May 7, 2025
+#  Version      : v1.0.0
+# ===============================================================
+
 import tkinter as tk
 import serial
 import serial.tools.list_ports
@@ -6,8 +14,8 @@ from PIL import Image, ImageTk
 class PedroApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Pedro Robot Controller")
-        self.root.geometry("850x650")
+        self.root.title("Pedro Robot App")
+        self.root.geometry("850x750")
         self.selected_servo = tk.IntVar(value=1)
         self.serial_port = None
 
@@ -15,33 +23,42 @@ class PedroApp:
         self.list_serial_ports()
 
     def build_ui(self):
-        frame = tk.Frame(self.root, padx=20, pady=20)
+        # === 
+        title_label = tk.Label(self.root, text="Pedro Serial Controller", font=("Helvetica", 30, "bold"))
+        title_label.pack(pady=(10, 5))
+
+        # === 
+        version_frame = tk.Frame(self.root)
+        version_frame.pack(padx=20, pady=5)
+
+        version_label = tk.Label(version_frame, text="v1.0.0", font=("Helvetica", 12), anchor="e")
+        version_label.pack(side="right") 
+
+        frame = tk.Frame(self.root, padx=20, pady=10)
         frame.pack()
 
-        # ==== Cadre gris clair pour le port série ====
-        serial_frame = tk.LabelFrame(frame, text="Connexion série", padx=12, pady=12)
+        # ==== 
+        serial_frame = tk.LabelFrame(frame, text="Serial Connection", font=("Arial", 16), padx=12, pady=12)
         serial_frame.grid(row=0, column=0, columnspan=1, sticky="we", pady=(0, 15))
 
         tk.Label(serial_frame, text="Port série :").grid(row=0, column=0)
         self.port_menu = tk.StringVar()
         self.port_dropdown = tk.OptionMenu(serial_frame, self.port_menu, "")
+        self.port_dropdown.config(width=25)  
         self.port_dropdown.grid(row=0, column=1, padx=10)
 
-        connect_btn = tk.Button(serial_frame, text="Connecter", command=self.connect_serial)
-        connect_btn.grid(row=0, column=2, padx=(0, 5))
-
-        disconnect_btn = tk.Button(serial_frame, text="Déconnecter", command=self.disconnect_serial)
-        disconnect_btn.grid(row=0, column=3, padx=(0, 5))
-
         self.status_canvas = tk.Canvas(serial_frame, width=22, height=22, highlightthickness=0)
-        self.status_canvas.grid(row=0, column=4)
+        self.status_canvas.grid(row=0, column=2)
         self.status_circle = self.status_canvas.create_oval(2, 2, 20, 20, fill="red")
 
+        connect_btn = tk.Button(serial_frame, text="Connect", command=self.connect_serial)
+        connect_btn.grid(row=2, column=0, padx=(0, 5), pady=(10, 0), sticky="w")
 
-        # === Suite du layout comme avant ===
+        disconnect_btn = tk.Button(serial_frame, text="Disconnect", command=self.disconnect_serial)
+        disconnect_btn.grid(row=2, column=1, padx=(0, 5), pady=(10, 0), sticky="w")
 
-        # Frame pour sélection du servo
-        select_servo = tk.LabelFrame(frame, text="Select Servo", padx=10, pady=10)
+        # === 
+        select_servo = tk.LabelFrame(frame, text="Select Servo", font=("Arial", 16), padx=10, pady=10)
         select_servo.grid(row=1, column=0, columnspan=1, sticky="we", pady=(0, 15))
 
         self.selected_servo = tk.IntVar(value=1)
@@ -54,38 +71,46 @@ class PedroApp:
                 value=i,
                 indicatoron=0,
                 width=10,
+                bg="yellow",  
                 command=lambda i=i: self.update_image(i)
             )
             btn.grid(row=0, column=i-1, padx=5)
 
-
         pedro_frame = tk.LabelFrame(frame, padx=1, pady=1)
         pedro_frame.grid(row=2, column=0, columnspan=1, sticky="we", pady=(0, 15))
-        #tk.Label(pedro_frame, text=" ").grid(row=0, column=0)
 
-        # Charger l'image
         try:
             image = Image.open("pedro1.png")
-            image = image.resize((300, 300), Image.ANTIALIAS)  # Ajuste selon ton besoin
+            image = image.resize((300, 300), Image.ANTIALIAS)  
             photo = ImageTk.PhotoImage(image)
 
             self.img_label = tk.Label(pedro_frame, image=photo)
-            self.img_label.image = photo  # Nécessaire pour éviter le garbage collection
+            self.img_label.image = photo  
             self.img_label.pack()
         except Exception as e:
             error_label = tk.Label(pedro_frame, text=f"Erreur de chargement image: {e}")
             error_label.pack()
 
-        move_servo = tk.LabelFrame(frame, text="Move servo", padx=12, pady=12)
-        move_servo.grid(row=3, column=0, columnspan=1, sticky="we", pady=(0, 15))
+        move_servo = tk.LabelFrame(frame, text="Move servo", font=("Arial", 16), padx=12, pady=12)
+        move_servo.grid(row=3, column=0, columnspan=1, pady=(0, 15))  
 
-  #      tk.Label(frame, text="Direction :").grid(row=3, column=0, pady=(10, 5))
         self.direction = tk.IntVar(value=1)
-        self.slider = tk.Scale(move_servo, from_=0, to=2, orient="horizontal",
-                               resolution=1, variable=self.direction,
-                               showvalue=False, length=200,
-                               command=self.direction_changed)
-        self.slider.grid(row=4, column=1, columnspan=2)
+
+        self.slider = tk.Scale(
+            move_servo,
+            from_=0,
+            to=2,
+            orient="horizontal",
+            resolution=1,
+            variable=self.direction,
+            showvalue=False,
+            length=100,             
+            command=self.direction_changed,
+            bg="yellow",
+            troughcolor="gold"
+        )
+
+        self.slider.grid(row=0, column=0, padx=10)
 
     def list_serial_ports(self):
         ports = [port.device for port in serial.tools.list_ports.comports()]
@@ -105,7 +130,7 @@ class PedroApp:
             photo = ImageTk.PhotoImage(image)
 
             self.img_label.configure(image=photo)
-            self.img_label.image = photo  # Important pour garder la référence
+            self.img_label.image = photo
         except Exception as e:
             print(f"Erreur lors de la mise à jour de l'image : {e}")
 
@@ -114,7 +139,6 @@ class PedroApp:
         try:
             self.serial_port = serial.Serial(port, 9600, timeout=1)
             print(f"Connecté à {port}")
-            # Cercle vert si succès
             self.status_canvas.itemconfig(self.status_circle, fill="green")
         except:
             print("Erreur de connexion")
@@ -148,3 +172,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = PedroApp(root)
     root.mainloop()
+
+
