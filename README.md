@@ -31,17 +31,32 @@
 
 # Welcome to the Pedro Robot Page
 
-Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and assembled without any tools. Equipped with four mini servo motors and powered by a custom-made Arduino-compatible board, Pedro offers versatile wireless communication options with its integrated **nRF24L01 module for remote control**, **HC-05 Bluetooth module for smartphone connectivity**, and **ESP8266 WiFi module for IoT integration**. It also features an **OLED 128x64 display**, allowing real-time feedback and data visualization.
+Pedro is a sophisticated mini robotic arm designed to be entirely 3D printed and assembled without any tools. Equipped with four mini servo motors and powered by a custom-made Arduino-compatible board, Pedro offers versatile wireless communication options with its integrated **nRF24L01 module for remote control**, **HC-05 Bluetooth module for smartphone connectivity**, and **ESP8266 WiFi module for IoT integration**. It also features an **OLED 128x64 display**, allowing real-time feedback and data visualization. <br>
 
-<div align="left">
+To ensure smooth and accurate operations, Pedro is equipped with two ball bearings, strategically placed for enhanced precision in its movements. This versatile and educational robot is perfect for hobbyists, students, and makers looking to explore robotics, electronics, and programming, all while enjoying a hands-on and engaging experience.
+
+<div align="center">
     <img src="img/Pedro_Cover.png" width="100%">
 </div>
 
 <br>
 
-Since 2025, Pedro Robot is certified as open-source hardware by the Open Source Hardware Association under UID: [FR000025](https://certification.oshwa.org/fr000025.html).
+## Certified OSHW
 
-To ensure smooth and accurate operations, Pedro is equipped with two ball bearings, strategically placed for enhanced precision in its movements. This versatile and educational robot is perfect for hobbyists, students, and makers looking to explore robotics, electronics, and programming, all while enjoying a hands-on and engaging experience.
+In Feburary 2025, Pedro Robot has been certified as open-source hardware by the Open Source Hardware Association under UID: [FR000025](https://certification.oshwa.org/fr000025.html).
+
+<div align="left">
+    <img src="img/certification-mark-FR000025-wide.png" width="50%">
+</div>
+
+## Kickstarter Funded
+
+In March 2025, Pedro was successfully funded on Kickstarter at 268% of its goal, receiving incredible support from backers around the world. <br>
+🙏 A huge thank you to all our backers for believing in the project!
+
+<a href="https://www.kickstarter.com/projects/731479134/pedro-0">
+<img align="center" src="https://github.com/almtzr/Pedro/blob/main/img/Pedro_Funded.png" width="50%">
+</a>
 
 ## 1. Features
 
@@ -56,11 +71,7 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 - **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
 - **Micro USB Cable**: Enables charging, firmware uploads, and serial data exchange with the control application.
 
-<div align="center">
-    <img src="img/pedro_app.png" width="60%">
-</div>
-
-## 2. Boards
+## 2. Pedro Boards
 
 The Pedro Board is here to revolutionize how you learn and create in electronics, programming, and robotics. Designed with simplicity and versatility in mind, this open-source board comes in two versions: the **Pedro Rev 3** with 4 powerful integrated modules (**NRF24L01**, **ESP8266-01**, **HC-05**, and **OLED 128x64**) and the **Pedro Rev 2** with 2 integrated modules (**NRF24L01** and **OLED 128x64**). Both versions offer a compact and efficient design to help you bring your robotic projects to life!
 
@@ -77,11 +88,52 @@ Additionally, the **Gerber files for the Pedro Rev 2** are available for those w
 - **ESP8266-01 WiFi Module**: Bring your Pedro online with ease. (**Rev 3 only**)
 - **HC-05 Bluetooth Module**: Connect wirelessly to smartphones or other devices. (**Rev 3 only**)
 
-## 3. How to Build Your Pedro
+## 3. Pedro Robot App
+
+Pedro Robot App is a desktop application built with Python and Tkinter that allows you to control the Pedro robot via a USB serial connection.
+It provides a simple GUI to select servos, move them interactively, and manage serial communication with the robot.
+
+<div align="left">
+    <img src="img/pedro_app.png" width="60%">
+</div>
+
+🔗 [Source Code Repository](https://github.com/almtzr/Pedro/tree/main/app)
+
+- **Prerequisites**
+
+Before running the application, make sure the following Python packages are installed:
+ ```
+pip install pyserial pillow
+ ```
+tkinter is usually included by default with Python (on Windows/Linux).
+On some Linux systems, you may need to install it via your package manager:
+```
+sudo apt install python3-tk
+```
+- **Required Python Libraries**:
+
+    - tkinter — GUI framework (built-in)
+    - serial (pyserial) — for serial communication
+    - Pillow — for image loading and display
+ 
+- **Robot Firmware Requirement**:
+
+This application requires the corresponding Arduino code to be uploaded to the Pedro robot board.
+Required Sketch: [serialMode.ino](https://github.com/almtzr/Pedro/tree/main/code/serialMode)
+Communication: Serial (**baudrate 9600**)
+    
+- **Key Features**:
+
+    - Serial port selection and connection management
+    - Real-time servo control through a clean interface
+    - Visual feedback for connection status
+    - Compatible with Arduino-based firmware
+
+## 4. How to Build Your Pedro
 
 Checkout the [Pedro Get Started](https://github.com/almtzr/Pedro-Get-Started/tree/main) repo to bring your Pedro to life. You'll find detailed assembly instructions, Programming guides and much more.
 
-## 4. Applications
+## 5. Applications
 
 ### Radio communication by NRF24L01 module
 
@@ -98,7 +150,7 @@ Checkout the [Pedro Get Started](https://github.com/almtzr/Pedro-Get-Started/tre
 ### WiFi communication by ESP8266-01 module
  ... work in progress ...
 
-## 5. Contributing
+## 6. Contributing
 We welcome contributions from the community! Here's how you can help:
 
 1. **Fork the Repository**: Click the "Fork" button at the top right of this page.
@@ -126,7 +178,7 @@ The programming possibilities are endless, providing an opportunity for both beg
     <img src="img/workshop.jpg" width="100%">
 </div>
 
-## 6. License
+## 7. License
 This project is licensed under the Apache-2.0 License. See the `LICENSE` file for more details.
 
 ## Sponsorship 🚀
