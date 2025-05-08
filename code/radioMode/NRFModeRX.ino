@@ -1,3 +1,25 @@
+// =================================================================================
+//  File             : NRFModeRX.ino
+//  Description      : Receiver firmware for controlling the Pedro robot
+//                     in Radio mode using the NRF24L01 module.
+//  Supported Boards : Rev2 and Rev3
+//  
+//  Author           : Almoutazar SAANDI
+//  Date             : May 7, 2025
+//  Last Update      : v1.0.0
+//
+//  Robot Firmware Requirement:
+//  --------------------------------------------------------------------------------
+//  This receiver firmware works in conjunction with the transmitter 
+//  firmware NRFModeTX.ino uploaded to the transmitter board of the Pedro robot.
+//  Both firmware versions must be installed for proper communication 
+//  via the NRF24L01 module.
+//
+//  Communication: Radio (NRF24L01 module)
+//  
+//  Repository/Source: https://github.com/almtzr/Pedro/tree/main/code/radioMode
+// =================================================================================
+
 #include <RF24.h>
 #include <Servo.h>
 #include <Adafruit_SSD1306.h>
@@ -35,9 +57,12 @@ int servoID,LEDID,rotation;
 int currentLed,previousLed; 
 int buttonState = LOW;
 int lastButtonState = LOW;
-
-int speed = 200; 
 int delayTime = 20;  
+
+// Can be adjusted based on your Pedro Robot's movement. 
+// Higher values result in faster movement, lower values result in slower movement.
+int speed = 200; 
+////////////
 
 void setup() {
   Serial.begin(9600);

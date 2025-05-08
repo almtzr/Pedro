@@ -1,3 +1,15 @@
+// =================================================================================
+//  File             : directMode.ino
+//  Description      : Firmware for controlling the Pedro robot
+//                     in direct mode using the Pedro board's button.
+//  Supported Boards : Rev2 and Rev3
+//  
+//  Author           : Almoutazar SAANDI
+//  Date             : May 7, 2025
+//  Last Update      : v1.0.0
+// =================================================================================
+
+
 #include <Servo.h>
 #include <Adafruit_SSD1306.h>
 #include <Adafruit_GFX.h>
@@ -13,7 +25,6 @@
 
 // Declaration for an SSD1306 display connected to I2C (SDA, SCL pins)
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
-
 
 #define nombreDePixelsEnLargeur   128        
 #define nombreDePixelsEnHauteur   64        
@@ -40,9 +51,13 @@ Servo servoList[] = {servo5, servo6, servo9, servo10};
 int currentLed = 0; // Indice de la LED actuellement allumée
 int buttonState = LOW;
 int lastButtonState = LOW;
-
-int speed = 400; 
 int delayTime = 20;  // Délai pour stabiliser le mouvement
+
+// Can be adjusted based on your Pedro Robot's movement. 
+// Higher values result in faster movement, lower values result in slower movement.
+int speed = 400; 
+////////////
+
 
 void setup() {
   Serial.begin(9600);

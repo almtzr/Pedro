@@ -1,19 +1,20 @@
-# ===============================================================
-#  File         : pedro_app.py
-#  Description  : Control serial interface for the Pedro robot
-#  Author       : Almoutazar SAANDI
-#  Last update  : May 7, 2025
-#  Version      : v1.0.0
+# =================================================================================
+#  File             : pedro_app.py
+#  Description      : Control serial interface for the Pedro robot
+#  Supported Boards : Rev2 and Rev3
+#
+#  Author           : Almoutazar SAANDI
+#  Last update      : May 7, 2025
+#  Version          : v1.0.0
 #
 #  Robot Firmware Requirement:
-#  ----------------------------------------------------------
-#  This application requires the corresponding Arduino code
-#  to be uploaded to the Pedro robot board.
+#  ---------------------------------------------------------------------------------
+#  This application requires the firmware serialMode.ino uploaded to the Pedro robot board
 #
 #  Required Sketch: serialMode.ino
 #  Communication: Serial (baudrate 9600)
 #  Repository/Source: https://github.com/almtzr/Pedro/tree/main/code/serialMode
-# ===============================================================
+# =================================================================================
 
 import tkinter as tk
 import serial

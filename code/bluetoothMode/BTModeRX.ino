@@ -1,3 +1,17 @@
+// =================================================================================
+//  File             : BTModeRX.ino
+//  Description      : Receiver firmware for controlling the Pedro robot
+//                     in Bluetooth mode with HC-05 module.
+//  Supported Boards : Rev3
+//  
+//  Author           : Almoutazar SAANDI
+//  Date             : May 7, 2025
+//  Last Update      : v1.0.0
+//
+//  Robot Firmware Requirement:
+//  TBD
+// =================================================================================
+
 #include <Servo.h>
 #include <Adafruit_SSD1306.h>
 #include <Adafruit_GFX.h>
@@ -32,9 +46,12 @@ int servoID,LEDID,rotation;
 int currentLed,previousLed; 
 int buttonState = LOW;
 int lastButtonState = LOW;
-
-int speed = 200; 
 int delayTime = 20;  
+
+// Can be adjusted based on your Pedro Robot's movement. 
+// Higher values result in faster movement, lower values result in slower movement.
+int speed = 200; 
+////////////
 
 void setup() {
   Serial.begin(9600);
