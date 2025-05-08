@@ -75,7 +75,7 @@ Pedro is a compact, DIY robot that you can build and program yourself. All parts
 
 The Pedro Board is here to revolutionize how you learn and create in electronics, programming, and robotics. Designed with simplicity and versatility in mind, this open-source board comes in two versions: the **Pedro Rev 3** with 4 powerful integrated modules (**NRF24L01**, **ESP8266-01**, **HC-05**, and **OLED 128x64**) and the **Pedro Rev 2** with 2 integrated modules (**NRF24L01** and **OLED 128x64**). Both versions offer a compact and efficient design to help you bring your robotic projects to life!
 
-Additionally, the **Gerber files for the Pedro Rev 2** are available for those who want to create their own custom Pedro robot board.
+Additionally, the [**Gerber files for the Pedro Rev 2**](https://github.com/almtzr/Pedro/tree/main/gerber/rev2.1) are available for those who want to create their own custom Pedro robot board.
 
 <div align="left">
     <img src="img/pedro_board_rev3.png" width="80%">
