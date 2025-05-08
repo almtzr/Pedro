@@ -4,6 +4,15 @@
 #  Author       : Almoutazar SAANDI
 #  Last update  : May 7, 2025
 #  Version      : v1.0.0
+#
+#  Robot Firmware Requirement:
+#  ----------------------------------------------------------
+#  This application requires the corresponding Arduino code
+#  to be uploaded to the Pedro robot board.
+#
+#  Required Sketch: serialMode.ino
+#  Communication: Serial (baudrate 9600)
+#  Repository/Source: https://github.com/almtzr/Pedro/tree/main/code/serialMode
 # ===============================================================
 
 import tkinter as tk
