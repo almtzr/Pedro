@@ -4,8 +4,8 @@
 #  Supported Boards : Rev2 and Rev3
 #
 #  Author           : Almoutazar SAANDI
-#  Last update      : May 7, 2025
-#  Version          : v1.0.0
+#  Last update      : May 9, 2025
+#  Version          : v1.0.1
 #
 #  Robot Firmware Requirement:
 #  ---------------------------------------------------------------------------------
@@ -41,7 +41,7 @@ class PedroApp:
         version_frame = tk.Frame(self.root)
         version_frame.pack(padx=20, pady=5)
 
-        version_label = tk.Label(version_frame, text="v1.0.0", font=("Helvetica", 12), anchor="e")
+        version_label = tk.Label(version_frame, text="v1.0.1", font=("Helvetica", 12), anchor="e")
         version_label.pack(side="right") 
 
         frame = tk.Frame(self.root, padx=20, pady=10)
@@ -141,6 +141,10 @@ class PedroApp:
 
             self.img_label.configure(image=photo)
             self.img_label.image = photo
+
+            self.direction.set(1)
+            servo = self.selected_servo.get()
+            self.send_command(servo, "I")
         except Exception as e:
             print(f"Erreur lors de la mise à jour de l'image : {e}")
 
@@ -162,16 +166,17 @@ class PedroApp:
 
     def next_servo(self):
         self.selected_servo.set((self.selected_servo.get() % 4) + 1)
-        self.send_command("I")
+        servo = self.selected_servo.get()
+        self.send_command(servo, "I")
 
     def direction_changed(self, value):
         direction_map = {0: "L", 1: "I", 2: "R"}
         direction = direction_map.get(int(value), "I")
-        self.send_command(direction)
+        servo = self.selected_servo.get()
+        self.send_command(servo, direction)
 
-    def send_command(self, direction):
+    def send_command(self, servo, direction):
         if self.serial_port and self.serial_port.is_open:
-            servo = self.selected_servo.get()
             command = f"{servo}{direction}\n"
             self.serial_port.write(command.encode())
             print(f"Envoyé : {command.strip()}")

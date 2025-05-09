@@ -6,8 +6,8 @@
 //  Supported Boards : Rev2 and Rev3
 //
 //  Author           : Almoutazar SAANDI
-//  Date             : May 7, 2025
-//  Last Update      : v1.0.0
+//  Date             : May 9, 2025
+//  Last Update      : v1.0.1
 //
 //  Robot Firmware Requirement:
 //  --------------------------------------------------------------------------------
@@ -34,7 +34,7 @@ const int ledPins[] = {13, 11, 8, 7};
 
 // Can be adjusted based on your Pedro Robot's movement. 
 // Higher values result in faster movement, lower values result in slower movement.
-int speed = 400; 
+int speed = 100; 
 ////////////
 
 void setup() {
@@ -51,10 +51,11 @@ void loop() {
     String command = Serial.readStringUntil('\n');
     int servoNum = command.charAt(0) - '1';
     char direction = command.charAt(1);
-    Serial.print ("Dir: ");
-    Serial.print (direction);
-    Serial.print (" Servo: ");
-    Serial.println (servoNum);
+    // DEBUG
+    //Serial.print ("Dir: ");
+    //Serial.print (direction);
+    //Serial.print (" Servo: ");
+    //Serial.println (servoNum);
 
     for (int i = 0; i < 4; i++) {
      digitalWrite(ledPins[i], LOW);
@@ -64,10 +65,14 @@ void loop() {
     if (servoNum >= 0 && servoNum < 4) {
       if (direction == 'L') {
         servoList[servoNum].writeMicroseconds(1500 + speed);
+        Serial.println ("Move Left");
       } else if (direction == 'R') {
         servoList[servoNum].writeMicroseconds(1500 - speed);
-      } else {
-        servoList[servoNum].writeMicroseconds(1500);
+        Serial.println ("Move Right");
+      } else if (direction == 'I') {
+        for (int i = 0; i < 4; i++) {
+           servoList[i].writeMicroseconds(1500);
+        }
         Serial.println ("Idle State");
       }
     }
