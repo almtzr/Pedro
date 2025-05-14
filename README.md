@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.pedrobot.com" style="font-size:40px;">
+  <a href="https://pedrobot.com" style="font-size:40px;">
     Get Ready to Buy Pedro Robot – Launching Soon!
   </a>
 </p>
