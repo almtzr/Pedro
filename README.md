@@ -29,6 +29,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://www.pedrobot.com" style="font-size:40px;">
+    Get Ready to Buy Pedro Robot – Launching Soon!
+  </a>
+</p>
+<br>
+<br>
+
 # Welcome to the Pedro Robot Page
 
 Pedro is a compact and customizable mini robotic arm entirely 3D printed, specifically designed for STEM projects. Equipped with four mini servo motors and powered by a custom-made Arduino-compatible board, Pedro offers versatile wireless communication options with its integrated **nRF24L01 module for remote control**, **HC-05 Bluetooth module for smartphone connectivity**, and **ESP8266 WiFi module for IoT integration**. It also features an **OLED 128x64 display**, allowing real-time feedback and data visualization. <br>
