@@ -6,7 +6,7 @@
 //  
 //  Author           : Almoutazar SAANDI
 //  Date             : May 16, 2025
-//  Last Update      : v1.0.0
+//  Last Update      : v1.0.1
 //
 //  Robot Firmware Requirement:
 //  TBD
