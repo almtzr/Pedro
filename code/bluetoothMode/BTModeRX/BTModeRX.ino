@@ -5,7 +5,7 @@
 //  Supported Boards : Rev3
 //  
 //  Author           : Almoutazar SAANDI
-//  Date             : May 7, 2025
+//  Date             : May 16, 2025
 //  Last Update      : v1.0.0
 //
 //  Robot Firmware Requirement:
@@ -39,8 +39,8 @@ int buttonStateA1;
 int buttonStateA2;
 
 const int ledPins[] = {13, 11, 8, 7}; 
-Servo servoList[] = {servo5, servo6, servo10, servo9};
-const int servoPins[] = {5, 6, 10, 9};
+Servo servoList[] = {servo5, servo6, servo9, servo10};
+const int servoPins[] = {5, 6, 9, 10};
 int servoID,LEDID,rotation;
 
 int currentLed,previousLed; 
@@ -50,7 +50,7 @@ int delayTime = 20;
 
 // Can be adjusted based on your Pedro Robot's movement. 
 // Higher values result in faster movement, lower values result in slower movement.
-int speed = 200; 
+int speed = 300; 
 ////////////
 
 void setup() {
@@ -74,17 +74,13 @@ void setup() {
     while(1);                              
 
   ecranOLED.clearDisplay();                          
-
   ecranOLED.drawRect(0, 0, nombreDePixelsEnLargeur, nombreDePixelsEnHauteur, SSD1306_WHITE);
   ecranOLED.setFont(&FreeSerif9pt7b);  
-
   ecranOLED.setTextColor(SSD1306_WHITE);  
   ecranOLED.setCursor(5, 15);           
   ecranOLED.print("Mode Bluetooth");   
-
   ecranOLED.setCursor(25, 40);            
   ecranOLED.print("Pedro RX");   
-
   ecranOLED.display();    
 }
 
