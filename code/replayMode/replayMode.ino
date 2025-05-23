@@ -27,7 +27,7 @@ const int ledPins[] = {13, 11, 8, 7};
 const int servoPins[] = {5, 6, 9, 10}; 
 // servoSpeed => Can be adjusted based on your Pedro Robot's movement. 
 // Higher values result in faster movement, lower values result in slower movement.
-const int servoSpeed[] = {150, -150, 150, 100};
+const int servoSpeed[] = {-150, -150, 150, 100};
 ////////////
 Servo servoList[4];
 
@@ -125,7 +125,9 @@ void loop() {
       unsigned long now = millis();
       if (movementIndex < 100) {
         movements[movementIndex++] = {lastPulse, now - lastChange, currentLed};
-        Serial.print("movementIndex: ");
+        Serial.print("Servo: ");
+        Serial.print(currentLed);
+        Serial.print(" movementIndex: ");
         Serial.println(movementIndex);
       }
       lastChange = now;
@@ -134,33 +136,43 @@ void loop() {
   }
 }
 
-void replayMovements() {  
-
-  lastServo = currentLed;
-  for (int i = movementIndex; i >= 0; i--) {
-    servoList[movements[i].servo].writeMicroseconds(movements[i].pulse);
-    if (lastServo != movements[i].servo) {
-       digitalWrite(ledPins[movements[i].servo], HIGH);
-       digitalWrite(ledPins[lastServo], LOW);
-    }
-    lastServo = movements[i].servo;
-    delay(movements[i].duration);
-  }
-  
+void replayMovements() {
   while (true) {
-    lastServo = currentLed;
-    for (int i = 0; i < movementIndex; i++) {
-      servoList[movements[i].servo].writeMicroseconds(movements[i].pulse);
-      if (lastServo != movements[i].servo) {
-         digitalWrite(ledPins[movements[i].servo], HIGH);
-         digitalWrite(ledPins[lastServo], LOW);
+
+      // Mettre tous les servos à neutre avant de commencer
+      for (int i = 0; i < 4; i++) {
+        servoList[i].writeMicroseconds(1500);
+        digitalWrite(ledPins[i], LOW);
       }
-      lastServo = movements[i].servo;
-      delay(movements[i].duration);
-    }
-  }
     
-  for (int i = 0; i < 4; i++) {
-    servoList[i].writeMicroseconds(1500); 
+      // Lecture séquentielle des mouvements
+      for (int i = 0; i < movementIndex; i++) {
+        int currentServo = movements[i].servo;
+    
+        // Activer uniquement le servo concerné
+        for (int j = 0; j < 4; j++) {
+          if (j == currentServo) {
+            digitalWrite(ledPins[j], HIGH); // Allumer la LED correspondante
+          } else {
+            digitalWrite(ledPins[j], LOW);  // Éteindre les autres
+            servoList[j].writeMicroseconds(1500); // Stopper les autres servos
+          }
+        }
+    
+        // Exécuter le mouvement
+        servoList[currentServo].writeMicroseconds(movements[i].pulse);
+        delay(movements[i].duration);
+    
+        // Remettre le servo à neutre après le mouvement
+        servoList[currentServo].writeMicroseconds(1500);
+      }
+    
+      // Éteindre toutes les LEDs à la fin
+      for (int i = 0; i < 4; i++) {
+        digitalWrite(ledPins[i], LOW);
+        servoList[i].writeMicroseconds(1500);
+      }
+    
+      Serial.println("🎥 Relecture terminée.");
   }
 }
