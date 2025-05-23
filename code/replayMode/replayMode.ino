@@ -27,7 +27,7 @@ const int ledPins[] = {13, 11, 8, 7};
 const int servoPins[] = {5, 6, 9, 10}; 
 // servoSpeed => Can be adjusted based on your Pedro Robot's movement. 
 // Higher values result in faster movement, lower values result in slower movement.
-const int servoSpeed[] = {150, 200, 150, 100};
+const int servoSpeed[] = {150, -150, 150, 100};
 ////////////
 Servo servoList[4];
 
@@ -116,7 +116,7 @@ void loop() {
     pulse = 1500 + servoSpeed[currentLed];
   } else if (buttonStateA2 == HIGH) {
     pulse = 1500 - servoSpeed[currentLed];
-  }
+  } 
 
   servoList[currentLed].writeMicroseconds(pulse);
 
@@ -135,8 +135,9 @@ void loop() {
 }
 
 void replayMovements() {  
+
   lastServo = currentLed;
-  for (int i = 0; i < movementIndex; i++) {
+  for (int i = movementIndex; i >= 0; i--) {
     servoList[movements[i].servo].writeMicroseconds(movements[i].pulse);
     if (lastServo != movements[i].servo) {
        digitalWrite(ledPins[movements[i].servo], HIGH);
@@ -145,7 +146,19 @@ void replayMovements() {
     lastServo = movements[i].servo;
     delay(movements[i].duration);
   }
-
+  
+  while (true) {
+    lastServo = currentLed;
+    for (int i = 0; i < movementIndex; i++) {
+      servoList[movements[i].servo].writeMicroseconds(movements[i].pulse);
+      if (lastServo != movements[i].servo) {
+         digitalWrite(ledPins[movements[i].servo], HIGH);
+         digitalWrite(ledPins[lastServo], LOW);
+      }
+      lastServo = movements[i].servo;
+      delay(movements[i].duration);
+    }
+  }
     
   for (int i = 0; i < 4; i++) {
     servoList[i].writeMicroseconds(1500); 
