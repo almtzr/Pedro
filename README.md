@@ -94,7 +94,7 @@ Both versions offer a compact and efficient design to help you bring your Pedro 
 Additionally, the [**Gerber files for the Pedro Rev 2**](https://github.com/almtzr/Pedro/tree/main/gerber/rev2.1) are available for those who want to create their own custom Pedro robot board.
 
 <div align="left">
-    <img src="img/pedro_board_rev3.png" width="80%">
+    <img src="img/pedro_board_rev3.png" width="100%">
 </div>
 
 <br>
