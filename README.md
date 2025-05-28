@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <a href="https://pedrobot.com" style="font-size:40px;">
+  <a href="https://pedrobot.com" style="font-size:100px;">
     Get Ready to Buy Pedro Robot – Launching Soon!
   </a>
 </p>
@@ -45,7 +45,7 @@ To ensure smooth and accurate operations, Pedro is equipped with **two ball bear
 <br>
 
 <div align="center">
-    <img src="img/Pedro_Cover.png" width="100%">
+    <img src="img/Pedro_Cover2.png" width="100%">
 </div>
 
 <br>
@@ -56,18 +56,17 @@ In Feburary 2025, Pedro Robot has been certified as open-source hardware by the 
 
 <a href="https://www.kickstarter.com/projects/731479134/pedro-0">
 <div align="left">
-    <img src="img/certification-mark-FR000025-wide.png" width="30%">
+    <img src="img/pedro_oshw.png" width="100%">
 </div>
 </a>
 
 ## Kickstarter Funded
 
-In March 2025, Pedro was successfully funded on [Kickstarter at 268%](https://www.kickstarter.com/projects/731479134/pedro-0) of its goal, receiving incredible support from backers around the world. <br>
-🙏 A huge thank you to all our backers for believing in the project!
+In March 2025, Pedro was successfully funded on [Kickstarter at 268%](https://www.kickstarter.com/projects/731479134/pedro-0) of its goal, receiving incredible support from backers around the world. 🙏 A huge thank you to all our backers for believing in the project!
 
 <a href="https://www.kickstarter.com/projects/731479134/pedro-0">
 <div align="left">
-     <img src="https://github.com/almtzr/Pedro/blob/main/img/Pedro_Funded.png" width="50%">
+     <img src="img/kickstarter.png" width="100%">
 </div>
 </a>
 
@@ -198,11 +197,6 @@ The programming possibilities are endless, providing an opportunity for both beg
 ## 7. License
 This project is licensed under the Apache-2.0 License. See the `LICENSE` file for more details.
 
-## 🙏 A Big Thank You to PCBWay for Their Sponsorship! 🚀
-
-<a href="https://www.pcbway.com/">
-    <img src="img/Pcbway.png" width="20%">
-</a>
 
 ---
 
