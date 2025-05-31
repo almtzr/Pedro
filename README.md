@@ -27,15 +27,11 @@
 [license-shield]: https://img.shields.io/github/license/almtzr/Pedro.svg?style=for-the-badge&colorB=286
 [license-url]: https://github.com/almtzr/Pedro/blob/main/LICENSE
 
----
+<br>
 
-<p align="center">
-  <a href="https://pedrobot.com" style="font-size:100px;">
-    Get Ready to Buy Pedro Robot – Launching Soon!
-  </a>
-</p>
-<br>
-<br>
+# 📬 Web shop is on the way! 
+Sign up to get notified when the Pedro robot kit becomes available.
+## 👉 [`Pedrobot`](https://pedrobot.com)
 
 # Pedro — Open Source Educational Robot
 
