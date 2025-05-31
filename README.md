@@ -155,6 +155,12 @@ Checkout the [Pedro Get Started](https://github.com/almtzr/Pedro-Get-Started/tre
     <img align="center" src="img/pedro_direct_mode.gif" width="80%">
 </div>
 
+### Repeat Mode
+
+ <div align="left">
+    <img align="center" src="img/pedro_repeat.gif" width="50%">
+</div>
+
 ### Radio Mode
 
 <div align="left">
