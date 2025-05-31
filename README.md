@@ -29,9 +29,10 @@
 
 <br>
 
-# 📬 Web shop is on the way! 
-Sign up to get notified when the Pedro robot kit becomes available.
-## 👉 [`Pedrobot`](https://pedrobot.com)
+# 🛒 Pedro Web Shop — Coming Soon!
+Be the first to know when the **Pedro Robot Kit** is available.
+## 👉 [`pedrobot.com`](https://pedrobot.com)
+Sign up and stay tuned!
 
 # Pedro — Open Source Educational Robot
 
