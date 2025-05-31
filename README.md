@@ -150,7 +150,7 @@ To ensure smooth and accurate operations, Pedro is equipped with **two ball bear
 
 Checkout the [Pedro Get Started](https://github.com/almtzr/Pedro-Get-Started/tree/main) repo to bring your Pedro to life. You'll find detailed assembly instructions, Programming guides and much more.
 
-## 4. Use Cases
+## 4. Some Use Cases
 
 ### Direct Mode
 
