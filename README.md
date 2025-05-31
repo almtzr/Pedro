@@ -150,15 +150,21 @@ To ensure smooth and accurate operations, Pedro is equipped with **two ball bear
 
 Checkout the [Pedro Get Started](https://github.com/almtzr/Pedro-Get-Started/tree/main) repo to bring your Pedro to life. You'll find detailed assembly instructions, Programming guides and much more.
 
-## 4. Applications
+## 4. Use Cases
 
-### Radio communication by NRF24L01 module
+### Direct Mode
+
+ <div align="left">
+    <img align="center" src="img/pedro_direct_mode.gif" width="80%">
+</div>
+
+### Radio Mode
 
 <div align="left">
     <img align="center" src="img/dual-mode.gif" width="80%">
 </div>
 
-### Bluetooth communication by HC-O5 module
+### Bluetooth Mode
 
  <div align="left">
     <img align="center" src="img/bluetooth_mode.gif" width="80%">
