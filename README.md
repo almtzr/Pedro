@@ -149,21 +149,9 @@ Checkout the [Pedro Get Started](https://github.com/almtzr/Pedro-Get-Started/tre
 
 ## 4. Some Use Cases
 
-| Radio Mode | Bluetooth Mode | Repeat Mode |
-|-----------------|-----------------|-----------------|
-| ![Direct Mode](img/radio_mode.gif)    | ![Repeat Mode](img/bluetooth_mode.gif)    | ![Repeat Mode](img/bluetooth_mode.gif)    |
-
-### Direct Mode
-
- <div align="left">
-    <img align="center" src="img/pedro_direct_mode.gif" width="80%">
-</div>
-
-### Repeat Mode
-
- <div align="left">
-    <img align="center" src="img/pedro_repeat.gif" width="50%">
-</div>
+| Radio Mode | Bluetooth Mode | 
+|-----------------|-----------------|
+| ![Direct Mode](img/radio_mode.gif)    | ![Repeat Mode](img/bluetooth_mode.gif)    |
 
 ## 5. Contributing
 We welcome contributions from the community! Here's how you can help:
