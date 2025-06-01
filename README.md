@@ -34,6 +34,8 @@ Be the first to know when the **Pedro Robot Kit** is available.
 ## 👉 [`pedrobot.com`](https://pedrobot.com)
 Sign up and stay tuned!
 
+---
+
 # Pedro — Open Source Educational Robot
 
 Pedro is a fully open source, 3D-printable, portable educational robot designed for learning robotics, electronics, and programming.
@@ -45,8 +47,8 @@ Built with simplicity and expandability in mind, Pedro empowers students, makers
 
 <br>
 
-<div align="center">
-    <img src="img/Pedro_Cover2.png" width="100%">
+<div align="centre">
+    <img src="img/Pedro.png" width="100%">
 </div>
 
 <br>
@@ -78,10 +80,6 @@ Built with simplicity and expandability in mind, Pedro empowers students, makers
 - 3D printing instructions and STL files
 - Step-by-step assembly guide
 - Complete list of required parts and electronics
-
-<div align="left">
-    <img src="img/Pedro.png" width="50%">
-</div>
 
 ---
 
