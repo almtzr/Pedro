@@ -149,7 +149,7 @@ Checkout the [Pedro Get Started](https://github.com/almtzr/Pedro-Get-Started/tre
 
 | Radio Mode | Bluetooth Mode | 
 |-----------------|-----------------|
-| ![Direct Mode](img/radio_mode.gif)    | ![Repeat Mode](img/bluetooth_mode.gif)    |
+| ![Radio Mode](img/radio_mode.gif)    | ![Bluetooth Mode](img/bluetooth_mode.gif)    |
 
 ## 5. Contributing
 We welcome contributions from the community! Here's how you can help:
