@@ -1,13 +1,12 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Apache-2.0 License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Kickstarter][kickstarter-shield]][kickstarter-url]
+[![thingiverse][thingiverse-shield]][thingiverse-url]
 [![discord][discord-shield]][discord-url]
 
-[kickstarter-shield]: https://img.shields.io/badge/kickstarter-00C300?style=for-the-badge&logo=kickstarter&logoColor=white
-[kickstarter-url]: https://www.kickstarter.com/projects/731479134/pedro-0
+[thingiverse-shield]: https://img.shields.io/badge/thingiverse-%235865F2.svg?style=for-the-badge&logo=linkedin&colorB=purple
+[thingiverse-url]: https://www.thingiverse.com/almtzr/designs
 
 [discord-shield]: https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=linkedin&colorB=red
 [discord-url]: https://discord.com/invite/TxkWNPU3ES
@@ -23,9 +22,6 @@
 
 [stars-shield]: https://img.shields.io/github/stars/almtzr/Pedro.svg?style=for-the-badge&colorB=orange
 [stars-url]: https://github.com/almtzr/Pedro/stargazers
-
-[license-shield]: https://img.shields.io/github/license/almtzr/Pedro.svg?style=for-the-badge&colorB=286
-[license-url]: https://github.com/almtzr/Pedro/blob/main/LICENSE
 
 <br>
 
