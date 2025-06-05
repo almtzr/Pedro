@@ -5,10 +5,10 @@
 [![thingiverse][thingiverse-shield]][thingiverse-url]
 [![discord][discord-shield]][discord-url]
 
-[thingiverse-shield]: https://img.shields.io/badge/thingiverse-%235865F2.svg?style=for-the-badge&logo=linkedin&colorB=purple
+[thingiverse-shield]: https://img.shields.io/badge/thingiverse-%235865F2.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [thingiverse-url]: https://www.thingiverse.com/almtzr/designs
 
-[discord-shield]: https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=linkedin&colorB=red
+[discord-shield]: https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [discord-url]: https://discord.com/invite/TxkWNPU3ES
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
