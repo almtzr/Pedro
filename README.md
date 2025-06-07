@@ -125,7 +125,7 @@ Both versions offer a compact and efficient design to help you bring your Pedro 
 
 Additionally, the [**Gerber files for the Pedro Rev 2**](https://github.com/almtzr/Pedro/tree/main/gerber/rev2.1) are available for those who want to create their own custom Pedro robot board.
 
-<div align="left">
+<div align="center">
     <img src="img/pedro_board_rev3.png" width="100%">
 </div>
 
@@ -135,6 +135,10 @@ Additionally, the [**Gerber files for the Pedro Rev 2**](https://github.com/almt
 - **NRF24L01**: Enable long-range wireless communication between Pedro or devices.
 - **ESP8266-01 WiFi Module**: Bring your Pedro online with ease. (**Rev3 only**)
 - **HC-05 Bluetooth Module**: Connect wirelessly to smartphones or other devices. (**Rev3 only**)
+
+<div align="center">
+    <img src="img/pedro_board_size.png" width="100%">
+</div>
 
 ## 3. How to Build Your Pedro
 
