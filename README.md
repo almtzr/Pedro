@@ -7,7 +7,7 @@
 [![twitter][twitter-shield]][twitter-url]
 
 [twitter-shield]: https://img.shields.io/badge/@LeRobotPedro-%235865F2.svg?style=for-the-badge&colorB=blue
-[twitter-url]: https://discord.com/invite/TxkWNPU3ES
+[twitter-url]: https://x.com/LeRobotPedro
 
 [thingiverse-shield]: https://img.shields.io/badge/thingiverse-%235865F2.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [thingiverse-url]: https://www.thingiverse.com/almtzr/designs
