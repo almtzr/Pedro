@@ -4,6 +4,10 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![thingiverse][thingiverse-shield]][thingiverse-url]
 [![discord][discord-shield]][discord-url]
+[![twitter][twitter-shield]][twitter-url]
+
+[twitter-shield]: https://img.shields.io/badge/@LeRobotPedro-%235865F2.svg?style=for-the-badge&colorB=blue
+[twitter-url]: https://discord.com/invite/TxkWNPU3ES
 
 [thingiverse-shield]: https://img.shields.io/badge/thingiverse-%235865F2.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [thingiverse-url]: https://www.thingiverse.com/almtzr/designs
@@ -25,10 +29,9 @@
 
 <br>
 
-# 🛒 Pedro Web Shop — Coming Soon!
+# Pedro Web Shop — Coming Soon!
 Be the first to know when the **Pedro Robot Kit** is available.
 ## 👉 [`https://www.pedrobot.com`](https://pedrobot.com)
-Sign up and stay tuned!
 
 ---
 
