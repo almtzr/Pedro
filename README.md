@@ -29,7 +29,7 @@
 
 <br>
 
-# Pedro Web Shop — Coming Soon!
+# Pedro website — Coming Soon!
 Be the first to know when the **Pedro Robot Kit** is available.
 ## 👉 [`https://www.pedrobot.com`](https://pedrobot.com)
 
