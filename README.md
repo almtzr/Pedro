@@ -123,12 +123,17 @@ Pedro is powered by an integrated ATmega32u4 microcontroller, making it easily p
 
 </br>
 
-- **4 Mini Servo Motors**: For precise movements.
-- **Arduino-Compatible Board**: Designed specifically for this project, offering easy integration with the robot's components.
-- **7.4V Batteries**: Powering the robot, rechargeable via USB.
 - **Fully 3D Printable**: All structural components can be printed on a standard 3D printer.
-- **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
+- **4x Mini Servo Motors 360°**: For precise movements.
+- **2x Bearing Balls 22x22x8 mm**: For smooth rotation.
+- **Pedro Board**: Designed specifically for this project, offering easy integration with the robot's components.
+- **7.4V Batteries**: Powering the robot, rechargeable via USB.
 - **Micro USB Cable**: Enables charging, firmware uploads, and serial data exchange with the control application.
+- **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
+
+<div align="left">
+     <img src="img/pedro_kit.png" width="100%">
+</div>
 
 # 2. Pedro Boards
 
