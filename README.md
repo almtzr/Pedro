@@ -29,9 +29,29 @@
 
 <br>
 
-# Pedro website — Coming Soon!
-Be the first to know when the **Pedro Robot Kit** is available.
-## 👉 [`https://www.pedrobot.com`](https://pedrobot.com)
+# Pedro Needs You! 🫵🫵🫵
+
+Whether you're into robotics, education, design, or just love tinkering, this project is for you.
+
+We’re growing the community around Pedro, and we’d love for you to be part of it!
+
+# 🤝 Join the Pedro Project!
+
+We’re actively looking for passionate engineers, makers, developers, designers, and educators to contribute to the project. Whatever your skill level, your help is welcome!
+
+Here’s how you can contribute:
+
+    🧠 Embedded firmware (Arduino / C++)
+
+    💻 IHM desktop application (Python, UX/UI)
+
+    🤖 3D design and mechanical optimization
+
+    📚 Tutorials, documentation, and educational content
+
+    💡 Ideas, feedback, or testing the robot with your community
+
+If you're interested, check out the [Associated Repositories](#associated-repositories), open issues, or fork the project to start experimenting. Let’s build something amazing together!
 
 ---
 
@@ -52,7 +72,7 @@ Built with simplicity and expandability in mind, Pedro empowers students, makers
 
 <br>
 
-## Associated Repositories
+# Associated Repositories
 
 🔧 Each Pedro repository serves a specific role in the ecosystem:
 
