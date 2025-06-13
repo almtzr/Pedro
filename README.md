@@ -29,14 +29,9 @@
 
 <br>
 
-# Pedro Needs You! 🫵🫵🫵
-
-Whether you're into robotics, education, design, or just love tinkering, this project is for you.
-
-We’re growing the community around Pedro, and we’d love for you to be part of it!
-
 # 🤝 Join the Pedro Project!
 
+Whether you're into robotics, education, design, or just love tinkering, this project is for you. We’re growing the community around Pedro, and we’d love for you to be part of it!
 We’re actively looking for passionate engineers, makers, developers, designers, and educators to contribute to the project. Whatever your skill level, your help is welcome!
 
 Here’s how you can contribute:
@@ -102,7 +97,7 @@ Built with simplicity and expandability in mind, Pedro empowers students, makers
 
 ---
 
-## Certified OSHW
+# Certified OSHW
 
 In Feburary 2025, Pedro Robot has been certified as open-source hardware by the Open Source Hardware Association under UID: [FR000025](https://certification.oshwa.org/fr000025.html).
 
@@ -112,7 +107,7 @@ In Feburary 2025, Pedro Robot has been certified as open-source hardware by the 
 </div>
 </a>
 
-## Kickstarter Funded
+# Kickstarter Funded
 
 In March 2025, Pedro was successfully funded on [Kickstarter at 268%](https://www.kickstarter.com/projects/731479134/pedro-0) of its goal, receiving incredible support from backers around the world. 🙏 A huge thank you to all our backers for believing in the project!
 
@@ -122,7 +117,7 @@ In March 2025, Pedro was successfully funded on [Kickstarter at 268%](https://ww
 </div>
 </a>
 
-## 1. Features
+# 1. Features
 
 Pedro is powered by an integrated ATmega32u4 microcontroller, making it easily programmable using the Arduino environment ideal for learning robotics and coding. All of its components are designed to be 3D printed, and the robot can be assembled without any tools, offering a hands-on and accessible experience for users of all levels.
 
@@ -135,7 +130,7 @@ Pedro is powered by an integrated ATmega32u4 microcontroller, making it easily p
 - **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
 - **Micro USB Cable**: Enables charging, firmware uploads, and serial data exchange with the control application.
 
-## 2. Pedro Boards
+# 2. Pedro Boards
 
 The Pedro Board is here to revolutionize how you learn and create in electronics, programming, and robotics. Designed with simplicity and versatility in mind, this open-source board comes in two versions: 
 - **Rev2** with 2 integrated modules: **NRF24L01** and **OLED 128x64**.
@@ -160,7 +155,7 @@ Additionally, the [**Gerber files for the Pedro Rev 2**](https://github.com/almt
     <img src="img/pedro_board_size.png" width="100%">
 </div>
 
-## 3. How to Build Your Pedro
+# 3. How to Build Your Pedro
 
 Pedro is a compact and customizable mini robotic arm entirely 3D printed, specifically designed for STEM projects. Equipped with four mini servo motors and powered by a custom-made Arduino-compatible board, Pedro offers versatile wireless communication options with its integrated **nRF24L01 module for remote control**, **HC-05 Bluetooth module for smartphone connectivity**, and **ESP8266 WiFi module for IoT integration**. It also features an **OLED 128x64 display**, allowing real-time feedback and data visualization. <br>
 
@@ -168,13 +163,13 @@ To ensure smooth and accurate operations, Pedro is equipped with **two ball bear
 
 Checkout the [Pedro Get Started](https://github.com/almtzr/Pedro-Get-Started/tree/main) repo to bring your Pedro to life. You'll find detailed assembly instructions, Programming guides and much more.
 
-## 4. Some Use Cases
+# 4. Some Use Cases
 
 | Radio Mode | Bluetooth Mode | Repeat Mode |  
 |-----------------|-----------------|-----------------|
 | ![Radio Mode](img/radio_mode.gif)    | ![Bluetooth Mode](img/bluetooth_mode.gif)    | ![Bluetooth Mode](img/repeat_mode.gif)    |
 
-## 5. Contributing
+# 5. Contributing
 We welcome contributions from the community! Here's how you can help:
 
 1. **Fork the Repository**: Click the "Fork" button at the top right of this page.
@@ -194,21 +189,12 @@ We welcome contributions from the community! Here's how you can help:
    ```
 6. **Submit a Pull Request**: Navigate to the original repository and submit a pull request.
 
-### Explore the Incredible Possibilities
+# Explore the Incredible Possibilities
 
 The programming possibilities are endless, providing an opportunity for both beginners and advanced users to push the boundaries of what Robot Pedro can achieve. Enjoy the process of learning, experimenting, and refining your programming skills with this remarkable STEAM education tool.
 
 <div align="center">
     <img src="img/workshop.jpg" width="100%">
 </div>
-
-## 7. License
-This project is licensed under the Apache-2.0 License. See the `LICENSE` file for more details.
-
-
----
-
-> Hi, I'm Almoutazar SAANDI, computer engineer based in France. In my free time, I enjoy creating open-source projects, and Pedro is one of them. 
-If you need more details or have any questions about Pedro, feel free to reach out to me.
 
 ---
