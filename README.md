@@ -46,7 +46,31 @@ Here’s how you can contribute:
 
     💡 Ideas, feedback, or testing the robot with your community
 
-If you're interested, check out the [Associated Repositories](#associated-repositories), open issues, or fork the project to start experimenting. Let’s build something amazing together!
+If you're interested, check out the Associated Repositories, open issues, or fork the project to start experimenting. Let’s build something amazing together!
+
+## Associated Repositories
+
+🔧 Each Pedro repository serves a specific role in the ecosystem:
+
+### 📂 [`Pedro-Firmware`](https://github.com/almtzr/Pedro-Firmware)
+> 🧠 **Pedro's brain**: Source code for the embedded firmware that runs on Pedro's controller.  
+- Modular C++ code  
+- Supports USB, Bluetooth, WiFi, Serial, and NRF24L01 control  
+- Includes `.hex` builds for flashing  
+- Arduino-compatible `.zip` library for developers  
+
+### 📂 [`Pedro-IHM`](https://github.com/almtzr/Pedro-IHM)
+> 💻 **Pedro IHM (Interface Homme-Machine)**: A desktop app for Windows, macOS, and Linux that allows users to:
+- Control Pedro in real-time  
+- Flash the firmware without needing to install AVRDUDE separately  
+- Connect via USB or Bluetooth  
+- Simple and cross-platform Python-based app (bundled with compiled `.exe`, `.dmg`, and Linux builds)
+
+### 📂 [`Pedro-Get-Started`](https://github.com/almtzr/Pedro-Get-Started)
+> 🤖 **Bring Pedro to life**: This repository contains everything you need to assemble your Pedro robot from scratch.
+- 3D printing instructions and STL files
+- Step-by-step assembly guide
+- Complete list of required parts and electronics
 
 ---
 
@@ -67,43 +91,13 @@ Built with simplicity and expandability in mind, Pedro empowers students, makers
 
 <br>
 
-# Associated Repositories
-
-🔧 Each Pedro repository serves a specific role in the ecosystem:
-
-### 📂 [`Pedro-Firmware`](https://github.com/almtzr/Pedro-Firmware)
-> 🧠 **Pedro's brain**: Source code for the embedded firmware that runs on Pedro's controller.  
-- Modular C++ code  
-- Supports USB, Bluetooth, WiFi, Serial, and NRF24L01 control  
-- Includes `.hex` builds for flashing  
-- Arduino-compatible `.zip` library for developers  
-
----
-
-### 📂 [`Pedro-IHM`](https://github.com/almtzr/Pedro-IHM)
-> 💻 **Pedro IHM (Interface Homme-Machine)**: A desktop app for Windows, macOS, and Linux that allows users to:
-- Control Pedro in real-time  
-- Flash the firmware without needing to install AVRDUDE separately  
-- Connect via USB or Bluetooth  
-- Simple and cross-platform Python-based app (bundled with compiled `.exe`, `.dmg`, and Linux builds)
-
----
-
-### 📂 [`Pedro-Get-Started`](https://github.com/almtzr/Pedro-Get-Started)
-> 🤖 **Bring Pedro to life**: This repository contains everything you need to assemble your Pedro robot from scratch.
-- 3D printing instructions and STL files
-- Step-by-step assembly guide
-- Complete list of required parts and electronics
-
----
-
 # Certified OSHW
 
 In Feburary 2025, Pedro Robot has been certified as open-source hardware by the Open Source Hardware Association under UID: [FR000025](https://certification.oshwa.org/fr000025.html).
 
 <a href="https://www.kickstarter.com/projects/731479134/pedro-0">
 <div align="left">
-    <img src="img/pedro_oshw.png" width="60%">
+    <img src="img/pedro_oshw.png" width="40%">
 </div>
 </a>
 
@@ -113,9 +107,11 @@ In March 2025, Pedro was successfully funded on [Kickstarter at 268%](https://ww
 
 <a href="https://www.kickstarter.com/projects/731479134/pedro-0">
 <div align="left">
-     <img src="img/kickstarter.png" width="60%">
+     <img src="img/kickstarter.png" width="40%">
 </div>
 </a>
+
+---
 
 # 1. Features
 
