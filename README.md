@@ -104,6 +104,10 @@ Both versions offer a compact and efficient design to help you bring your Pedro 
 Additionally, the [**Gerber files for the Pedro Rev 2**](https://github.com/almtzr/Pedro/tree/main/gerber/rev2.1) are available for those who want to create their own custom Pedro robot board.
 
 <div align="center">
+    <img src="img/Spec_Board_Rev3.png" width="100%">
+</div>
+
+<div align="center">
     <img src="img/pedro_board_rev3.png" width="100%">
 </div>
 
@@ -131,6 +135,13 @@ Checkout the [Pedro Get Started](https://github.com/almtzr/Pedro-Get-Started/tre
 | Radio Mode | Bluetooth Mode | Repeat Mode |  
 |-----------------|-----------------|-----------------|
 | ![Radio Mode](img/radio_mode.gif)    | ![Bluetooth Mode](img/bluetooth_mode.gif)    | ![Bluetooth Mode](img/repeat_mode.gif)    |
+
+<a href="https://www.pedrobot.com/webController.html">
+<div align="center">
+    <img src="img/web_controller.png" width="100%">
+</div>
+</a>
+
 
 # 5. 🤝 Join the Pedro Project!
 
