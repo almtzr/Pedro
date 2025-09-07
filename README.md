@@ -30,7 +30,8 @@
 <br>
 
 <div align="center">
-    <img src="img/pedro_logo.png" width="30%">
+  <img src="img/pedro_stem.png" alt="Pedro STEM"
+       style="border:3px solid #c00; border-radius:10px; padding:5px; max-width:100%;">
 </div>
 
 # Welcome to the Pedro Project!
