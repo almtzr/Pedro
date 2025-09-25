@@ -1,0 +1,180 @@
+This 10-lesson curriculum introduces middle school students to robotics fundamentals, embedded systems and communication techniques through hands-on  learning with the Pedro robot platform. 
+
+This curriculum will leverage Pedro's unique features - tool free assembly, multiple communication protocols and Arduino compatibility - to create progressive learning experiences that build from basic robotics concepts to embedded systems programming.
+
+Target Audience: Middle school students 
+Duration: 10 weeks (1 lesson per week, 45-60 minutes each)
+Learning Approach: Progressive skill-building with hands-on application
+Hardware Platform: Pedro 2.0 - open-source robotic arm with ATmega32U4 microcontroller
+
+Lessons Breakdown
+
+Lesson #1: Assemble Breakdown
+
+Learning Objectives:
+Identify robotic arm components and their functions
+Understand mechanical assembly principles
+Experience tool-free assembly design philosophy
+Learn about servo motors and ball bearings in robotics
+Activities:
+Examining 3D-printed parts (base, shoulder, elbow, gripper, link arm)
+Snap-together assembly following the Pedro build guide (10-minute challenge)
+Installing 4x SG90/MG90S servo motors
+Placing 2x ball bearings (8x22x7mm) for smooth movement
+Connecting the Pedro Rev 3 board and 7.4V battery
+First power-on with LED indicators and OLED display test
+Key Concepts: 3D printing in robotics, mechanical joints, servo motor operation, tool-free design
+Assessment: Successful assembly in under 10 minutes, component function explanation, servo motor movement test
+
+Lesson #2: Meet Pedro Part 1
+
+Learning Objectives:
+Navigate the Arduino IDE environment for Pedro programming
+Understand servo motor control with PWM signals
+Use the onboard OLED display for feedback
+Control Pedro using physical buttons and LED indicators
+Activities:
+Setting up Arduino IDE with Pedro board configuration (ATmega32U4)
+Programming basic servo movements using Arduino code
+Using onboard buttons (A0, A1, A2) to select and control servos
+Programming LED indicators for each servo (D7, D8, D11, D13)
+Displaying servo positions on the 128x64 OLED screen
+Creating custom servo movement patterns
+Key Concepts: Arduino programming, PWM control, servo positioning, human-machine interface
+Assessment: Create a custom servo sequence, demonstrate button control, read OLED display data
+
+Lesson #3: Meet Pedro Part 2
+
+Learning Objectives:
+Use the Pedro IHM (Interface Homme-Machine) Python application
+Understand graphical user interfaces for robot control
+Compare Arduino IDE programming vs. GUI control
+Learn about real-time servo position control using sliders
+Activities:
+Installing and configuring the Pedro IHM Python application
+Using GUI sliders and buttons to control each servo motor
+Understanding the difference between programming and real-time control
+Recording and playing back movement sequences using the IHM app
+Comparing IHM app control with onboard button control
+Key Concepts: Graphical user interfaces, real-time control, Python applications, user experience design
+Assessment: Demonstrate proficiency with IHM app, create and save movement sequences, explain GUI vs. programming differences
+Lesson #4: Recording Movement
+
+Learning Objectives:
+Understand data logging and servo position feedback
+Implement movement recording and playback systems using Repeat Mode
+Learn about memory management in embedded systems
+Analyze movement patterns using the OLED display
+Activities:
+Programming Pedro to record servo positions during manual control
+Using Pedro's built-in Repeat Mode for recording and playback
+Storing movement sequences in Arduino memory 
+Using the OLED display to show recording status and data
+Comparing different movement speeds and analyzing efficiency
+Creating a library of useful movement patterns
+Key Concepts: Data storage, EEPROM memory, servo feedback, real-time data visualization, repeatability
+Assessment: Record and successfully playback a complex movement sequence, and demonstrate memory management
+Lesson #5: Web Interface control 
+
+Learning Objectives:
+Configure the ESP8266 WiFi module for web connectivity
+Understand HTTP protocols and web-based robot control
+Create browser-based control interfaces
+Learn about IoT (Internet of Things) applications in robotics
+Activities:
+Setting up Pedro's ESP8266 module for WiFi connection
+Configuring network credentials and web server functionality
+Accessing Pedro's web interface through any browser
+Controlling servo movements via web buttons and sliders
+Understanding local network vs. internet connectivity
+Creating custom web control pages with HTML/JavaScript
+Programming web API endpoints for robot control
+Key Concepts: WiFi protocols, HTTP requests, IoT connectivity, web servers, API design
+Assessment: Successfully control Pedro through web interface, modify web control parameters, create custom web interface
+Lesson #6: Bluetooth Control
+
+Learning Objectives:
+Configure the HC-05 Bluetooth module for wireless control
+Understand Bluetooth pairing and security protocols
+Create smartphone/tablet control applications
+Activities:
+Setting up HC-05 module and entering Bluetooth Mode on Pedro
+Pairing Pedro with mobile devices using standard Bluetooth protocols
+Using terminal apps to send commands to Pedro wirelessly
+Programming AT commands for HC-05 configuration
+Testing Bluetooth range and connection stability
+Creating a simple mobile app interface (using MIT App Inventor)
+Understanding the switch between Normal Mode and Bluetooth Mode
+Key Concepts: Bluetooth protocols, device pairing, mobile communication, wireless security, AT commands
+Assessment: Successful Bluetooth pairing and control, create functional mobile control, demonstrate AT command configuration
+Lesson #7: Radio Control Part 1
+
+Learning Objectives:
+Configure the integrated NRF24L01 module for RF communication
+Understand radio frequency basics and 2.4GHz band operation
+Implement long-range wireless control 
+Learn about packet-based communication protocols
+Activities:
+Setting up NRF24L01 module using Pedro's Radio Mode
+Programming basic transmitter and receiver code for RF communication
+Testing communication range in different environments (indoor/outdoor)
+Understanding channel selection and interference avoidance
+Creating a dedicated remote controller for Pedro
+Comparing range capabilities: Bluetooth (~10m) vs. WiFi (~30m) vs. NRF24L01 (~100m)
+Key Concepts: Radio frequency communication, packet protocols, signal strength, interference, range optimization
+Assessment: Achieve successful long-range control, measure and document communication range, create range comparison chart
+Lesson #8: Radio Control Part 2
+
+Learning Objectives:
+Implement advanced NRF24L01 features
+Create multi-Pedro robot communication networks
+Understand mesh networking and swarm robotics concepts
+Program coordinated multi-robot operations
+Activities:
+Setting up multiple Pedro robots for network communication
+Programming acknowledgment and error-checking protocols
+Creating a simple mesh network between multiple Pedro units
+Coordinating synchronized movements across multiple robots
+Implementing a "follow the leader" behavior using RF communication
+Understanding network topologies and addressing schemes
+Key Concepts: Advanced RF protocols, mesh networking, swarm robotics, distributed control, network addressing
+Assessment: Demonstrate coordinated multi-robot operation, implement error recovery protocols, create network topology diagram
+Lesson #9: Serial Communication
+
+Learning Objectives:
+Master USB serial communication with Pedro's ATmega32U4
+Understand UART protocols and data formatting
+Create computer-based control interfaces
+Implement data logging and analysis systems
+Activities:
+Connecting Pedro to computers via Micro USB programming port
+Using Arduino Serial Monitor for real-time communication
+Programming Pedro to send sensor data and status information
+Creating Python scripts for computer-based Pedro control
+Understanding serial commands and responses
+Building a data logging system for movement analysis
+Key Concepts: Serial communication, UART protocols, computer interfacing, data analysis, USB connectivity
+Assessment: Create functional computer control interface, implement automated data logging, demonstrate serial command protocol
+Lesson #10: Pedro Firmware
+
+Learning Objectives:
+Understand embedded systems architecture and firmware development
+Explore Pedro's open-source firmware structure
+Implement custom firmware modifications
+Learn about mode switching and system integration
+Activities:
+Exploring Pedro's existing firmware code structure
+Understanding the mode switching system (Normal, Bluetooth, Radio, Repeat)
+Making simple firmware modifications and customizations
+Adding new control modes or features to Pedro
+Flashing custom firmware to Pedro via Arduino IDE
+Creating personalized robot behaviors and control schemes
+Contributing to the open-source Pedro project
+Key Concepts: Embedded systems, firmware development, system architecture, open-source collaboration, mode management
+Assessment: Custom firmware modification, demonstration of unique robot behavior, documentation of code changes
+
+
+
+
+
+
