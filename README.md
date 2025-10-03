@@ -88,7 +88,15 @@ Pedro is powered by an integrated ATmega32u4 microcontroller, making it easily p
 
 ## 3. How to Assemble
 
-in progress...
+| ![step1](img/wrkp-11.png)    | ![step1](img/wrkp-12.png)    | ![step1](img/wrkp-13.png)    |  
+|-----------------|-----------------|-----------------|
+| ![step1](img/wrkp-14.png)    | ![step1](img/wrkp-15.png)    | ![step1](img/wrkp-16.png)    |
+| ![step2](img/wrkp-21.png)    | ![step2](img/wrkp-22.png)    | ![step2](img/wrkp-23.png)    |  
+| ![step2](img/wrkp-24.png)    | ![step2](img/wrkp-25.png)    | ![step2](img/wrkp-26.png)    |
+| ![step3](img/wrkp-24.png)    | ![step3](img/wrkp-25.png)    | ![step3](img/wrkp-26.png)    |
+| ![step4](img/wrkp-27.png)    | ![step4](img/wrkp-28.png)    | ![step4](img/wrkp-31.png)    |
+| ![step4](img/wrkp-31.png)    | ![step4](img/wrkp-32.png)    | ![step4](img/wrkp-33.png)    |
+
 
 </br>
 
