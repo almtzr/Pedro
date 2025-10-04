@@ -68,9 +68,8 @@ Pedro is powered by an integrated ATmega32u4 microcontroller, making it easily p
 
 ## 2. How to Print
 
-* ✅ Material: PLA or ABS 
-
-* ✅ Layer height: 0.2 mm
+✅ Material: PLA or ABS </br>
+✅ Layer height: 0.2 mm
 
 </br>
 
@@ -87,6 +86,7 @@ Pedro is powered by an integrated ATmega32u4 microcontroller, making it easily p
 </br>
 
 ## 3. How to Assemble
+</br>
 
 | ![step1](img/wrkp-11.png)    | ![step1](img/wrkp-12.png)    | ![step1](img/wrkp-13.png)    |  
 |-----------------|-----------------|-----------------|
