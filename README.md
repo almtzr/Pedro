@@ -128,28 +128,4 @@ We welcome contributions from the community! Here's how you can help:
    ```
 6. **Submit a Pull Request**: Navigate to the original repository and submit a pull request.
 
-</br>
-
-## 🚀 Pedro Project Repositories
-
-🔧 Each Pedro repository serves a specific role in the ecosystem:
-
-### 📂 [`Pedro`](https://github.com/almtzr/Pedro)
-> 🖨️ 3D printing resources — STL files and assembly instructions for building the Pedro robot chassis.
-
-### 📂 [`PedroBoard`](https://github.com/almtzr/PedroBoard)
-> ⚡ Hardware design — Gerber files, schematics, and PCB layouts for the Pedro controller board.
-
-### 📂 [`PedroRobot`](https://github.com/almtzr/PedroRobot)
-> 💻 Firmware — Arduino source code and library to program and control the Pedro robot.
-
-### 📂 [`PedroSTEM`](https://github.com/almtzr/PedroSTEM)
-  🎓 Education — STEM lessons, activities, and teaching material using the Pedro robot for schools.
-
----
-
-</br>
-
-> Made with ❤️ by [@almtzr](https://github.com/almtzr)
-
 
