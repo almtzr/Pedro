@@ -29,24 +29,9 @@
 
 <br>
 
-<div align="center">
-  <img src="img/pedro_stem.png" alt="Pedro STEM"
-       style="border:3px solid #c00; border-radius:10px; padding:5px; max-width:100%;">
-</div>
-
-# Designed For STEM
-
-Pedro is a fully open source, 3D-printable, portable educational robot designed for learning robotics, electronics, and programming.
-Built with simplicity and expandability in mind, Pedro empowers students, makers, and educators to explore STEM hands-on.
-
-- Pedro is OSHWA Certified and built with open-source hardware and software.
-- Fully Arduino-compatible, programmable in C++.
-
----
+# 📂 Pedro
 
 ## 1. Features
-
-Pedro is powered by an integrated ATmega32u4 microcontroller, making it easily programmable using the Arduino environment ideal for learning robotics and coding. All of its components are designed to be 3D printed, and the robot can be assembled without any tools, offering a hands-on and accessible experience for users of all levels.
 
 </br>
 
