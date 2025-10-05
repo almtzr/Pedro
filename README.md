@@ -49,13 +49,13 @@
 ✅ Layer height: 0.2 mm
 
 <div align="left">
-     <img src="img/print_base.gif" width="40%">
-     <img src="img/print_arm.gif" width="40%">
+     <img src="img/print_base.gif" width="45%">
+     <img src="img/print_arm.gif" width="45%">
 </div>
 
 <div align="left">
-     <img src="img/print_servo.gif" width="40%">
-     <img src="img/pedro_gear.gif" width="40%">
+     <img src="img/print_servo.gif" width="45%">
+     <img src="img/pedro_gear.gif" width="45%">
 </div>
 
 <br>
