@@ -29,12 +29,7 @@
 
 <br>
 
-<div align="center">
-  <img src="img/pedro_stem.png" alt="Pedro STEM"
-       style="border:3px solid #c00; border-radius:10px; padding:5px; max-width:100%;">
-</div>
-
-# Designed For STEM
+# Pedro
 
 Pedro is a fully open source, 3D-printable, portable educational robot designed for learning robotics, electronics, and programming.
 Built with simplicity and expandability in mind, Pedro empowers students, makers, and educators to explore STEM hands-on.
