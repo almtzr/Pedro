@@ -33,8 +33,6 @@
 
 ## 1. Features
 
-</br>
-
 - **Fully 3D Printable**: All structural components can be printed on a standard 3D printer.
 - **4x Mini Servo Motors 360°**: For precise movements.
 - **2x Bearing Balls 8x22x7 mm**: For smooth rotation.
@@ -43,20 +41,14 @@
 - **Micro USB Cable**: Enables charging, firmware uploads, and serial data exchange with the control application.
 - **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
 
-<br>
-
 <div align="left">
      <img src="img/pedro_kit.png" width="100%">
 </div>
-
-</br>
 
 ## 2. How to Print
 
 ✅ Material: PLA or ABS </br>
 ✅ Layer height: 0.2 mm
-
-</br>
 
 <div align="left">
      <img src="img/print_base.gif" width="40%">
@@ -68,32 +60,17 @@
      <img src="img/pedro_gear.gif" width="40%">
 </div>
 
-</br>
-
 ## 3. How to Assemble
-</br>
 
 | ![step1](img/wrkp-11.png)    | ![step1](img/wrkp-12.png)    | ![step1](img/wrkp-13.png)    |  
 |-----------------|-----------------|-----------------|
 | ![step1](img/wrkp-14.png)    | ![step1](img/wrkp-15.png)    | ![step1](img/wrkp-16.png)    |
 | ![step2](img/wrkp-21.png)    | ![step2](img/wrkp-22.png)    | ![step2](img/wrkp-23.png)    |  
 | ![step2](img/wrkp-24.png)    | ![step2](img/wrkp-25.png)    | ![step2](img/wrkp-26.png)    |
-| ![step3](img/wrkp-24.png)    | ![step3](img/wrkp-25.png)    | ![step3](img/wrkp-26.png)    |
 | ![step4](img/wrkp-27.png)    | ![step4](img/wrkp-28.png)    | ![step4](img/wrkp-31.png)    |
-| ![step4](img/wrkp-31.png)    | ![step4](img/wrkp-32.png)    | ![step4](img/wrkp-33.png)    |
-
-
-</br>
-
-## 4. Some Use Cases
-
-| Radio Mode | Bluetooth Mode | Repeat Mode |  
-|-----------------|-----------------|-----------------|
-| ![Radio Mode](img/radio_mode.gif)    | ![Bluetooth Mode](img/bluetooth_mode.gif)    | ![Bluetooth Mode](img/repeat_mode.gif)    |
-
-</br>
+| ![step4](img/wrkp-32.png)    | ![step4](img/wrkp-33.png)    | ![step4](img/wrkp-34.png)    |
   
-## Contributing
+## 4. Contributing
 We welcome contributions from the community! Here's how you can help:
 
 1. **Fork the Repository**: Click the "Fork" button at the top right of this page.
@@ -113,4 +90,5 @@ We welcome contributions from the community! Here's how you can help:
    ```
 6. **Submit a Pull Request**: Navigate to the original repository and submit a pull request.
 
+---
 
