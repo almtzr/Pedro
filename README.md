@@ -1,14 +1,10 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![thingiverse][thingiverse-shield]][thingiverse-url]
+[![Pedrobot][Pedrobot-shield]][Pedrobot-url]
 
-[thingiverse-shield]: https://img.shields.io/badge/thingiverse-%235865F2.svg?style=for-the-badge&logo=linkedin&colorB=blue
-[thingiverse-url]: https://www.thingiverse.com/almtzr/designs
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
-[linkedin-url]: https://linkedin.com/in/almoutazar-saandi
+[Pedrobot-shield]: https://img.shields.io/badge/-Pedrobot-black.svg?style=for-the-badge&logo=Pedrobot&colorB=blue
+[Pedrobot-url]: https://pedrobot.com
 
 [contributors-shield]: https://img.shields.io/github/contributors/almtzr/Pedro.svg?style=for-the-badge&colorB=red
 [contributors-url]: https://github.com/almtzr/Pedro/graphs/contributors
