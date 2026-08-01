@@ -25,50 +25,16 @@ Each Pedro repository serves a specific role in the ecosystem:
 * 📂 [`Pedro Robot`](https://github.com/almtzr/PedroRobot): Firmware — Arduino source code and library to program and control the Pedro robot.
 * 📂 [`Pedro STEM`](https://github.com/almtzr/PedroSTEM): Education — STEM lessons, activities, and teaching material using the Pedro robot for schools.
 
-# 📂 `Pedro`
-
-## 1. Features
-
-- **Fully 3D Printable**: All structural components can be printed on a standard 3D printer.
-- **4x Mini Servo Motors 360°**: For precise movements.
-- **2x Bearing Balls 8x22x7 mm**: For smooth rotation.
-- **Pedro Board**: Designed specifically for this project, offering easy integration with the robot's components.
-- **7.4V Batteries**: Powering the robot, rechargeable via USB.
-- **Micro USB Cable**: Enables charging, firmware uploads, and serial data exchange with the control application.
-- **Tool-Free Assembly**: Designed to snap together easily without the need for tools.
+# 📂 `Pedro Robot`
 
 <div align="left">
-     <img src="img/pedro_kit.png" width="100%">
-</div>
-
-<br>
-
-## 2. How to Print
-
-✅ Material: PLA or ABS </br>
-✅ Layer height: 0.2 mm
-
-<div align="left">
-     <img src="img/print_base.gif" width="45%">
-     <img src="img/print_arm.gif" width="45%">
+     <img src="img/1.png" width="45%">
+     <img src="img/2.png" width="45%">
 </div>
 
 <div align="left">
-     <img src="img/print_servo.gif" width="45%">
-     <img src="img/pedro_gear.gif" width="45%">
+     <img src="img/3.png" width="45%">
 </div>
-
-<br>
-
-## 3. How to Assemble
-
-| ![step1](img/wrkp-11.png)    | ![step1](img/wrkp-12.png)    | ![step1](img/wrkp-13.png)    |  
-|-----------------|-----------------|-----------------|
-| ![step1](img/wrkp-14.png)    | ![step1](img/wrkp-15.png)    | ![step1](img/wrkp-16.png)    |
-| ![step2](img/wrkp-21.png)    | ![step2](img/wrkp-22.png)    | ![step2](img/wrkp-23.png)    |  
-| ![step2](img/wrkp-24.png)    | ![step2](img/wrkp-25.png)    | ![step2](img/wrkp-26.png)    |
-| ![step4](img/wrkp-27.png)    | ![step4](img/wrkp-28.png)    | ![step4](img/wrkp-31.png)    |
-| ![step4](img/wrkp-32.png)    | ![step4](img/wrkp-33.png)    | ![step4](img/wrkp-34.png)    |
 
 <br>
 
