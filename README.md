@@ -17,6 +17,13 @@
 
 <br>
 
+## Join the Pedro Community on Discord
+<div align="left">
+    <a href="https://discord.com/invite/TxkWNPU3ES">
+       <img src="img/discord_logo.png" width="10%">
+    </a>
+</div>
+
 ## 🚀 Pedro Project Repositories: 
 Each Pedro repository serves a specific role in the ecosystem:
 
@@ -27,13 +34,15 @@ Each Pedro repository serves a specific role in the ecosystem:
 
 # 📂 `Pedro Robot`
 
-<div align="left">
+<div align="center">
      <img src="img/1.png" width="45%">
      <img src="img/2.png" width="45%">
 </div>
 
-<div align="left">
-     <img src="img/3.png" width="45%">
+
+<div align="center">
+     <img src="img/pedro_maker.png" width="20%">
+     <img src="img/pedro_passport.png" width="100%">
 </div>
 
 <br>
