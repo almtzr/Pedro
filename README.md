@@ -42,6 +42,7 @@ Each Pedro repository serves a specific role in the ecosystem:
 
 <div align="center">
      <img src="img/pedro_maker.png" width="20%">
+     <img src="img/pedro_stem_journey.png" width="100%">
      <img src="img/pedro_passport.png" width="100%">
 </div>
 
