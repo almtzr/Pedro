@@ -34,6 +34,12 @@ Each Pedro repository serves a specific role in the ecosystem:
 
 # 📂 `Pedro Robot`
 
+Pedro is a fully 3D-printed, open-source educational robot designed to make robotics accessible to everyone. Build, program, experiment, and discover robotics through engaging, hands-on STEM activities. 
+
+With its modular design, tool-free assembly, and multiple control modes, Pedro provides a complete platform for exploring mechanics, electronics, programming, and robotic communication. It is designed for students, teachers, makers, and anyone curious about building and understanding robots.
+
+Build it. Program it. Explore robotics.​
+
 <div align="center">
      <img src="img/1.png" width="45%">
      <img src="img/2.png" width="45%">
